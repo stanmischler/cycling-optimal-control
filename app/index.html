@@ -1,0 +1,697 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pacing plan</title>
+<style>
+:root {
+  --bg: #f3f3ef; --surface: #fcfcfb; --sunk: #f0f0ec;
+  --ink: #1b1e22; --ink2: #555b63; --muted: #8b9199; --line: #e2e2dc;
+  --blue: #2a78d6; --orange: #eb6834; --green: #12885d; --warn-bg: #fdf3e3; --warn-ink: #7a4b06;
+  --ramp-lo: #d6e5f8; --ramp-hi: #0d3b80;
+  --shadow: 0 1px 2px rgba(20,20,10,.05), 0 8px 24px -12px rgba(20,20,10,.12);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d0f11; --surface: #14171a; --sunk: #1b1f23;
+    --ink: #eceef0; --ink2: #a9afb6; --muted: #747b83; --line: #272b30;
+    --blue: #3987e5; --orange: #e0703c; --green: #3cc592; --warn-bg: #2a2212; --warn-ink: #f0c987;
+    --ramp-lo: #1c2f4a; --ramp-hi: #9cc6ff;
+    --shadow: 0 1px 2px rgba(0,0,0,.4);
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font: 14px/1.45 ui-sans-serif, -apple-system, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+  font-variant-numeric: tabular-nums;
+}
+h1, h2, h3, p { margin: 0; }
+.shell { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 24px; max-width: 1480px; margin: 0 auto; padding: 24px; }
+@media (max-width: 960px) { .shell { grid-template-columns: 1fr; padding: 16px; } aside { position: static !important; max-height: none !important; } }
+
+/* ---------- form ---------- */
+aside { position: sticky; top: 24px; align-self: start; max-height: calc(100vh - 48px); overflow: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); }
+.brand { padding: 20px 20px 14px; border-bottom: 1px solid var(--line); }
+.brand h1 { font-size: 19px; letter-spacing: -.01em; display: flex; align-items: center; gap: 9px; }
+.brand p { color: var(--ink2); font-size: 12.5px; margin-top: 4px; }
+.mark { width: 22px; height: 22px; flex: none; }
+fieldset { border: 0; margin: 0; padding: 16px 20px 6px; border-bottom: 1px solid var(--line); }
+legend { float: left; width: 100%; padding: 0; margin-bottom: 10px; font-size: 11px; font-weight: 650; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; clear: both; }
+.field { display: block; margin-bottom: 10px; clear: both; }
+.field > span { display: block; font-size: 12px; color: var(--ink2); margin-bottom: 4px; }
+.field small { display: block; color: var(--muted); font-size: 11.5px; margin-top: 4px; line-height: 1.35; }
+.inp { position: relative; }
+.inp input { padding-right: 38px; }
+.inp i { position: absolute; right: 10px; top: 50%; transform: translateY(-50%); font-style: normal; font-size: 12px; color: var(--muted); pointer-events: none; }
+input, select {
+  width: 100%; height: 36px; padding: 0 10px; border: 1px solid var(--line); border-radius: 9px;
+  background: var(--sunk); color: var(--ink); font: inherit; font-variant-numeric: tabular-nums; outline: none;
+}
+select { appearance: none; padding-right: 26px; background-image: linear-gradient(45deg, transparent 50%, var(--muted) 50%), linear-gradient(135deg, var(--muted) 50%, transparent 50%); background-position: calc(100% - 15px) 15px, calc(100% - 10px) 15px; background-size: 5px 5px; background-repeat: no-repeat; }
+input:focus-visible, select:focus-visible, button:focus-visible, .drop:focus-visible { border-color: var(--blue); box-shadow: 0 0 0 3px color-mix(in srgb, var(--blue) 25%, transparent); }
+input[type=number]::-webkit-inner-spin-button { display: none; }
+.drop { display: block; clear: both; border: 1.5px dashed var(--line); border-radius: 12px; padding: 16px 12px; text-align: center; cursor: pointer; color: var(--ink2); background: var(--sunk); margin-bottom: 10px; transition: border-color .15s, background .15s; outline: none; }
+.drop:hover, .drop.over { border-color: var(--blue); background: color-mix(in srgb, var(--blue) 7%, var(--sunk)); }
+.drop b { color: var(--ink); font-weight: 600; display: block; }
+.drop.has { border-style: solid; border-color: var(--blue); text-align: left; display: flex; align-items: center; gap: 10px; padding: 10px 12px; }
+.drop.has .fn { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--ink); font-weight: 600; }
+.x { border: 0; background: none; color: var(--muted); font-size: 18px; line-height: 1; cursor: pointer; padding: 2px 6px; border-radius: 6px; }
+.x:hover { color: var(--ink); background: var(--line); }
+.or { clear: both; text-align: center; color: var(--muted); font-size: 11.5px; margin: -2px 0 8px; }
+.go-wrap { position: sticky; bottom: 0; padding: 14px 20px 18px; background: linear-gradient(transparent, var(--surface) 30%); }
+.go { width: 100%; height: 44px; border: 0; border-radius: 11px; background: var(--ink); color: var(--surface); font: inherit; font-weight: 650; font-size: 14.5px; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 9px; }
+.go:hover { opacity: .9; } .go:disabled { opacity: .6; cursor: progress; }
+.spin { width: 15px; height: 15px; border: 2px solid currentColor; border-right-color: transparent; border-radius: 50%; animation: sp .7s linear infinite; display: none; }
+.busy .spin { display: block; }
+@keyframes sp { to { transform: rotate(360deg); } }
+
+/* ---------- results ---------- */
+main { min-width: 0; }
+.busy #results { opacity: .45; transition: opacity .2s; }
+.head { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin: 4px 0 16px; }
+.head h2 { font-size: 24px; letter-spacing: -.02em; line-height: 1.15; }
+.head p { color: var(--ink2); margin-top: 4px; }
+.actions { display: flex; gap: 8px; flex-wrap: wrap; }
+.btn { height: 34px; padding: 0 12px; border: 1px solid var(--line); border-radius: 9px; background: var(--surface); color: var(--ink); font: inherit; font-size: 13px; cursor: pointer; }
+.btn:hover { border-color: var(--muted); }
+.tiles { display: grid; grid-template-columns: 1.5fr repeat(4, 1fr); gap: 12px; margin-bottom: 16px; }
+@media (max-width: 1180px) { .tiles { grid-template-columns: repeat(2, 1fr); } .tile.hero { grid-column: 1 / -1; } }
+.tile, .card { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); }
+.tile { padding: 16px 18px; }
+.tile .k { font-size: 12px; color: var(--ink2); }
+.tile .v { font-size: 26px; font-weight: 650; letter-spacing: -.02em; margin-top: 4px; line-height: 1.1; }
+.tile .v u { text-decoration: none; font-size: 14px; font-weight: 500; color: var(--ink2); margin-left: 3px; letter-spacing: 0; }
+.tile .s { font-size: 12px; color: var(--muted); margin-top: 6px; }
+.tile.hero .v { font-size: 44px; }
+.up { color: var(--green); font-weight: 600; }
+.warn { background: var(--warn-bg); color: var(--warn-ink); border-radius: 12px; padding: 11px 14px; margin-bottom: 12px; font-size: 13px; }
+.err { background: color-mix(in srgb, #d03b3b 12%, var(--surface)); color: var(--ink); border: 1px solid color-mix(in srgb, #d03b3b 40%, var(--line)); border-radius: 12px; padding: 12px 14px; margin-bottom: 16px; }
+.card { padding: 18px 20px; margin-bottom: 16px; }
+.card h3 { font-size: 15px; font-weight: 650; letter-spacing: -.005em; }
+.card .sub { color: var(--ink2); font-size: 12.5px; margin-top: 3px; max-width: 78ch; }
+.card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; flex-wrap: wrap; margin-bottom: 12px; }
+.legend { display: flex; gap: 16px; flex-wrap: wrap; font-size: 12.5px; color: var(--ink2); padding-top: 2px; }
+.legend span { display: inline-flex; align-items: center; gap: 7px; }
+.legend svg { width: 22px; height: 8px; }
+#panels { position: relative; touch-action: pan-y; }
+.panel + .panel { margin-top: 10px; }
+.ptitle { font-size: 12px; color: var(--ink2); font-weight: 600; margin-left: 44px; }
+.ptitle em { font-style: normal; font-weight: 400; color: var(--muted); margin-left: 6px; }
+svg { display: block; }
+svg text { fill: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; }
+.grid2 { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 16px; }
+@media (max-width: 1180px) { .grid2 { grid-template-columns: 1fr; } }
+.grid2 .card { margin-bottom: 0; }
+.ramp { display: flex; align-items: center; gap: 8px; font-size: 11.5px; color: var(--muted); margin-top: 8px; }
+.ramp i { flex: none; width: 120px; height: 8px; border-radius: 4px; background: linear-gradient(90deg, var(--ramp-lo), var(--ramp-hi)); }
+#tip { position: fixed; z-index: 10; pointer-events: none; background: var(--surface); border: 1px solid var(--line); border-radius: 11px; box-shadow: 0 8px 28px -8px rgba(0,0,0,.28); padding: 10px 12px; font-size: 12.5px; min-width: 190px; display: none; }
+#tip .t { font-weight: 650; margin-bottom: 6px; display: flex; justify-content: space-between; gap: 14px; }
+#tip .t span { color: var(--muted); font-weight: 400; }
+#tip table { border-collapse: collapse; width: 100%; }
+#tip td { padding: 1.5px 0; color: var(--ink2); }
+#tip td:last-child { text-align: right; color: var(--ink); font-weight: 600; padding-left: 16px; }
+#tip .sw { display: inline-block; width: 9px; height: 9px; border-radius: 3px; margin-right: 7px; vertical-align: 0; }
+
+.tablewrap { overflow-x: auto; margin: 0 -20px -6px; padding: 0 20px; }
+table.cue { width: 100%; border-collapse: collapse; font-size: 13.5px; min-width: 640px; }
+.cue th { text-align: right; font-size: 11px; font-weight: 600; letter-spacing: .05em; text-transform: uppercase; color: var(--muted); padding: 6px 10px 8px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+.cue td { text-align: right; padding: 9px 10px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+.cue th:nth-child(-n+3), .cue td:nth-child(-n+3) { text-align: left; }
+.cue tr:last-child td { border-bottom: 0; }
+.cue tbody tr:hover { background: var(--sunk); }
+.cue .n { color: var(--muted); width: 28px; }
+.cue .w { font-weight: 650; font-size: 15px; }
+.cue .bar { display: inline-block; vertical-align: middle; width: 90px; height: 8px; border-radius: 4px; background: var(--sunk); margin-right: 10px; position: relative; overflow: visible; }
+.cue tr:hover .bar { background: var(--line); }
+.cue .bar b { position: absolute; left: 0; top: 0; bottom: 0; border-radius: 4px; background: var(--blue); }
+.cue .bar s { position: absolute; top: -3px; bottom: -3px; width: 2px; background: var(--ink2); border-radius: 1px; }
+.cue .g { display: inline-block; width: 16px; color: var(--muted); }
+.dim { color: var(--muted); }
+.empty { border: 1.5px dashed var(--line); border-radius: 16px; padding: 80px 24px; text-align: center; color: var(--ink2); }
+.foot { color: var(--muted); font-size: 12px; margin: 14px 2px 30px; max-width: 90ch; }
+
+@media print {
+  aside, .actions, #tip { display: none !important; }
+  .shell { display: block; padding: 0; }
+  body { background: #fff; }
+  .tile, .card { box-shadow: none; break-inside: avoid; }
+}
+</style>
+</head>
+<body>
+<div class="shell" id="shell">
+
+<aside>
+  <div class="brand">
+    <h1>
+      <svg class="mark" viewBox="0 0 22 22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 17 L7 9 L11 13 L15 5 L20 17"/></svg>
+      Pacing plan
+    </h1>
+    <p>Your numbers, your course, the fastest way to ride it.</p>
+  </div>
+  <form id="form" autocomplete="off">
+    <fieldset>
+      <legend>You</legend>
+      <div class="row">
+        <label class="field"><span>Critical power</span><div class="inp"><input type="number" name="cp" value="150" min="50" max="600" step="1" required><i>W</i></div></label>
+        <label class="field"><span>Reserve above it (W′)</span><div class="inp"><input type="number" name="w_prime_kj" value="20" min="0" max="60" step="0.5" required><i>kJ</i></div></label>
+      </div>
+      <div class="row">
+        <label class="field"><span>Body weight</span><div class="inp"><input type="number" name="body_kg" value="71" min="30" max="200" step="0.1" required><i>kg</i></div></label>
+        <label class="field"><span>Bike + kit + bottles</span><div class="inp"><input type="number" name="bike_kg" value="9" min="3" max="40" step="0.1" required><i>kg</i></div></label>
+      </div>
+      <label class="field"><span>Highest power the plan may ask for</span><div class="inp"><input type="number" name="p_max" value="450" min="60" max="2500" step="5" required><i>W</i></div>
+        <small>Only matters for the first seconds off the line and on steep ramps.</small></label>
+    </fieldset>
+
+    <fieldset>
+      <legend>Bike</legend>
+      <label class="field"><span>Position</span>
+        <select id="pos">
+          <option value="0.36">Road bike, hands on the hoods</option>
+          <option value="0.32" selected>Road bike, in the drops</option>
+          <option value="0.28">Road bike with clip-on aero bars</option>
+          <option value="0.24">Time-trial bike</option>
+          <option value="0.20">Time-trial bike, pro position</option>
+          <option value="">Custom</option>
+        </select></label>
+      <label class="field"><span>Tyres and road</span>
+        <select id="tyre">
+          <option value="0.003">Race tyres on smooth tarmac</option>
+          <option value="0.004" selected>Good road tyres</option>
+          <option value="0.006">Training tyres or rough road</option>
+          <option value="0.008">Gravel tyres</option>
+          <option value="">Custom</option>
+        </select></label>
+      <div class="row">
+        <label class="field"><span>Drag area (CdA)</span><div class="inp"><input type="number" name="cda" value="0.32" min="0.12" max="0.8" step="0.005" required><i>m²</i></div></label>
+        <label class="field"><span>Rolling resistance</span><input type="number" name="crr" value="0.004" min="0.001" max="0.03" step="0.0005" required></label>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Course</legend>
+      <div class="drop" id="drop" tabindex="0" role="button" aria-label="Choose a GPX file">
+        <b>Drop a GPX file here</b>or click to choose one
+      </div>
+      <input type="file" id="file" accept=".gpx,application/gpx+xml" hidden>
+      <div class="or">or ride one of these</div>
+      <label class="field"><select id="builtin" aria-label="Built-in course"></select></label>
+    </fieldset>
+
+    <fieldset>
+      <legend>Conditions</legend>
+      <div class="row">
+        <label class="field"><span>Temperature</span><div class="inp"><input type="number" name="temperature_c" value="20" min="-15" max="50" step="1" required><i>°C</i></div></label>
+        <label class="field"><span>Wind speed</span><div class="inp"><input type="number" name="wind_kmh" value="0" min="0" max="80" step="1" required><i>km/h</i></div></label>
+      </div>
+      <label class="field"><span>Wind blows from</span>
+        <select name="wind_from_deg">
+          <option value="0">North</option><option value="45">North-east</option><option value="90">East</option><option value="135">South-east</option>
+          <option value="180">South</option><option value="225">South-west</option><option value="270">West</option><option value="315">North-west</option>
+        </select>
+        <small>On the test courses, which have no map, the wind is a pure headwind.</small></label>
+      <div class="row">
+        <label class="field"><span>Top speed downhill</span><div class="inp"><input type="number" name="v_max_kmh" value="70" min="25" max="110" step="1" required><i>km/h</i></div></label>
+        <label class="field"><span>Cornering</span>
+          <select name="lateral_g">
+            <option value="0.5">Cautious</option><option value="0.8" selected>Confident</option><option value="1.0">Racing</option>
+          </select></label>
+      </div>
+    </fieldset>
+
+    <div class="go-wrap"><button class="go" id="go" type="submit"><span class="spin"></span><span id="golabel">Compute my plan</span></button></div>
+  </form>
+</aside>
+
+<main>
+  <div id="error"></div>
+  <div id="results"><div class="empty">Fill in your numbers, choose a course, and compute your plan.</div></div>
+</main>
+</div>
+<div id="tip"></div>
+
+<script>
+"use strict";
+const $ = (q, el = document) => el.querySelector(q);
+const NS = "http://www.w3.org/2000/svg";
+const svgEl = (tag, attrs = {}, parent) => {
+  const e = document.createElementNS(NS, tag);
+  for (const k in attrs) e.setAttribute(k, attrs[k]);
+  if (parent) parent.appendChild(e);
+  return e;
+};
+const css = name => getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function clock(sec, tenths = false) {
+  const neg = sec < 0; sec = Math.abs(sec);
+  let s = tenths ? Math.round(sec * 10) / 10 : Math.round(sec);
+  const h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), r = s - h * 3600 - m * 60;
+  const ss = tenths ? r.toFixed(1).padStart(4, "0") : String(r).padStart(2, "0");
+  return (neg ? "−" : "") + (h ? h + ":" + String(m).padStart(2, "0") : m) + ":" + ss;
+}
+function ticks(lo, hi, n) {
+  const raw = (hi - lo) / n, mag = Math.pow(10, Math.floor(Math.log10(raw))), f = raw / mag;
+  const step = (f < 1.5 ? 1 : f < 3.5 ? 2 : f < 7.5 ? 5 : 10) * mag;
+  const out = [];
+  for (let v = Math.ceil(lo / step) * step; v <= hi + step * 1e-6; v += step) out.push(Math.round(v / step) * step);
+  return out;
+}
+function quantile(values, weights, q) {
+  const idx = values.map((_, i) => i).sort((a, b) => values[a] - values[b]);
+  const total = weights.reduce((a, b) => a + b, 0);
+  let acc = 0;
+  for (const i of idx) { acc += weights[i]; if (acc >= q * total) return values[i]; }
+  return values[idx[idx.length - 1]];
+}
+function mix(a, b, t) {
+  const p = h => [1, 3, 5].map(i => parseInt(h.slice(i, i + 2), 16));
+  const A = p(a), B = p(b);
+  return "rgb(" + A.map((v, i) => Math.round(v + (B[i] - v) * t)).join(",") + ")";
+}
+
+/* ------------------------------------------------------------------ form */
+const form = $("#form"), drop = $("#drop"), fileInput = $("#file"), builtin = $("#builtin");
+let gpx = null;  // {name, text}
+let data = null;
+
+function linkPreset(select, input) {
+  select.addEventListener("change", () => { if (select.value) input.value = select.value; });
+  input.addEventListener("input", () => {
+    const hit = [...select.options].find(o => o.value && Math.abs(+o.value - +input.value) < 1e-9);
+    select.value = hit ? hit.value : "";
+  });
+}
+linkPreset($("#pos"), form.cda);
+linkPreset($("#tyre"), form.crr);
+
+function showFile() {
+  if (gpx) {
+    drop.classList.add("has");
+    drop.innerHTML = `<span class="fn">${esc(gpx.name)}</span><button type="button" class="x" aria-label="Remove file">×</button>`;
+    $(".x", drop).addEventListener("click", e => { e.stopPropagation(); gpx = null; fileInput.value = ""; showFile(); });
+  } else {
+    drop.classList.remove("has");
+    drop.innerHTML = "<b>Drop a GPX file here</b>or click to choose one";
+  }
+}
+function takeFile(f) {
+  if (!f) return;
+  const reader = new FileReader();
+  reader.onload = () => { gpx = { name: f.name, text: reader.result }; showFile(); compute(); };
+  reader.readAsText(f);
+}
+drop.addEventListener("click", () => fileInput.click());
+drop.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); fileInput.click(); } });
+fileInput.addEventListener("change", () => takeFile(fileInput.files[0]));
+["dragenter", "dragover"].forEach(t => drop.addEventListener(t, e => { e.preventDefault(); drop.classList.add("over"); }));
+["dragleave", "drop"].forEach(t => drop.addEventListener(t, e => { e.preventDefault(); drop.classList.remove("over"); }));
+drop.addEventListener("drop", e => takeFile(e.dataTransfer.files[0]));
+window.addEventListener("dragover", e => e.preventDefault());
+window.addEventListener("drop", e => e.preventDefault());
+builtin.addEventListener("change", () => { if (gpx) { gpx = null; fileInput.value = ""; showFile(); } });
+
+const SAVED = ["cp", "w_prime_kj", "body_kg", "bike_kg", "p_max", "cda", "crr", "temperature_c", "wind_kmh", "wind_from_deg", "v_max_kmh", "lateral_g"];
+function save() {
+  try {
+    const o = {}; SAVED.forEach(k => o[k] = form[k].value); o.builtin = builtin.value;
+    localStorage.setItem("pacing-form", JSON.stringify(o));
+  } catch (e) {}
+}
+function restore() {
+  try {
+    const o = JSON.parse(localStorage.getItem("pacing-form") || "{}");
+    SAVED.forEach(k => { if (o[k] != null && o[k] !== "") form[k].value = o[k]; });
+    if (o.builtin) builtin.value = o.builtin;
+  } catch (e) {}
+  form.cda.dispatchEvent(new Event("input")); form.crr.dispatchEvent(new Event("input"));
+}
+
+async function compute() {
+  if (!form.reportValidity()) return;
+  save();
+  const rider = {}, course = {};
+  ["cp", "w_prime_kj", "body_kg", "bike_kg", "p_max", "cda", "crr"].forEach(k => rider[k] = +form[k].value);
+  ["temperature_c", "wind_kmh", "wind_from_deg", "v_max_kmh", "lateral_g"].forEach(k => course[k] = +form[k].value);
+  if (gpx) { course.gpx = gpx.text; course.name = gpx.name.replace(/\.gpx$/i, "").replace(/[_-]+/g, " "); }
+  else course.builtin = builtin.value;
+
+  $("#shell").classList.add("busy"); $("#go").disabled = true; $("#golabel").textContent = "Solving…";
+  $("#error").innerHTML = "";
+  try {
+    const res = await fetch("/api/solve", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ rider, course }) });
+    const out = await res.json();
+    if (!res.ok) throw new Error(out.error || "Something went wrong.");
+    data = out; render();
+  } catch (err) {
+    $("#error").innerHTML = `<div class="err">${esc(err.message === "Failed to fetch" ? "The app server is not running. Start it with: .venv/bin/python app/server.py" : err.message)}</div>`;
+  } finally {
+    $("#shell").classList.remove("busy"); $("#go").disabled = false; $("#golabel").textContent = "Compute my plan";
+  }
+}
+form.addEventListener("submit", e => { e.preventDefault(); compute(); });
+
+/* --------------------------------------------------------------- results */
+const view = {};  // geometry shared by the charts for the hover layer
+
+function render() {
+  const d = data, s = d.summary, c = d.course, r = d.rider;
+  const pct = 100 * s.gain / s.time_constant;
+  $("#results").innerHTML = `
+    <div class="head">
+      <div><h2>${esc(c.name)}</h2>
+        <p>${c.km.toFixed(1)} km · ${Math.round(c.ascent)} m of climbing · ${r.mass.toFixed(0)} kg with the bike · air ${c.rho.toFixed(3)} kg/m³</p></div>
+      <div class="actions">
+        <button class="btn" id="dl-cue">Cue sheet (.csv)</button>
+        <button class="btn" id="dl-plan">Full plan (.csv)</button>
+        <button class="btn" onclick="window.print()">Print</button>
+      </div>
+    </div>
+    ${d.warnings.map(w => `<div class="warn">${esc(w)}</div>`).join("")}
+    <div class="tiles">
+      <div class="tile hero"><div class="k">Predicted finish time</div><div class="v">${clock(s.time)}</div>
+        <div class="s">${clock(s.time_constant)} if you held a steady ${Math.round(s.constant_power)} W instead</div></div>
+      <div class="tile"><div class="k">Gained over steady power</div><div class="v">${s.gain >= 59.5 ? clock(s.gain) : s.gain.toFixed(1) + "<u>s</u>"}</div>
+        <div class="s"><span class="up">${pct.toFixed(1)} % faster</span> for the same effort</div></div>
+      <div class="tile"><div class="k">Average power</div><div class="v">${Math.round(s.mean_power)}<u>W</u></div>
+        <div class="s">${(s.mean_power / r.mass).toFixed(2)} W/kg · ${Math.round(s.work_kj)} kJ of work</div></div>
+      <div class="tile"><div class="k">Average speed</div><div class="v">${s.mean_speed_kmh.toFixed(1)}<u>km/h</u></div>
+        <div class="s">top speed ${Math.round(s.max_speed_kmh)} km/h</div></div>
+      <div class="tile"><div class="k">Reserve</div><div class="v">${(r.w_prime / 1000).toFixed(0)}<u>kJ</u></div>
+        <div class="s">spent ${spentWhere(d)}</div></div>
+    </div>
+
+    <div class="card">
+      <div class="card-top">
+        <div><h3>The plan along the course</h3>
+          <div class="sub">Push above critical power where the road is slow (climbs, headwind), ease off where it is fast. Move over the chart to read any point.</div></div>
+        <div class="legend">
+          <span><svg><line x1="0" y1="4" x2="22" y2="4" stroke="var(--blue)" stroke-width="2.5" stroke-linecap="round"/></svg>Optimal plan</span>
+          <span><svg><line x1="0" y1="4" x2="22" y2="4" stroke="var(--orange)" stroke-width="2" stroke-dasharray="5 3"/></svg>Steady power</span>
+          <span><svg><line x1="0" y1="4" x2="22" y2="4" stroke="var(--muted)" stroke-width="1.5" stroke-dasharray="1.5 3" stroke-linecap="round"/></svg>Critical power (${Math.round(r.cp)} W)</span>
+        </div>
+      </div>
+      <div id="panels"></div>
+    </div>
+
+    <div class="grid2">
+      <div class="card" id="mapcard">
+        <h3>Where to push</h3>
+        <div class="sub">The route, darker where the plan asks for more power.</div>
+        <div id="map"></div>
+        <div class="ramp"><span id="ramp-lo"></span><i></i><span id="ramp-hi"></span></div>
+      </div>
+      <div class="card">
+        <h3>Target power by gradient</h3>
+        <div class="sub">A rule of thumb for the road: the average the plan asks for on each kind of slope.</div>
+        <div id="bands"></div>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top:16px">
+      <div class="card-top"><div><h3>Cue sheet</h3>
+        <div class="sub">One target per stretch of road. The mark on each bar is your critical power. Point at a row to find it on the chart.</div></div></div>
+      <div class="tablewrap"><table class="cue"><thead><tr>
+        <th>#</th><th>Stretch</th><th>Gradient</th><th>Target power</th><th>of CP</th><th>Speed</th><th>Split</th><th>Clock</th>
+      </tr></thead><tbody id="cue"></tbody></table></div>
+    </div>
+    <p class="foot">Model: a point mass with air drag, rolling resistance and gravity; you can hold critical power indefinitely and spend the reserve once, with no refill. Solved over ${s.intervals} stretches of road in ${s.solve_seconds.toFixed(1)} s. Times assume you ride alone, with the wind and the numbers you entered; a wrong drag area shifts the clock, but much less the shape of the plan.</p>`;
+  if (!c.has_map) $("#mapcard").remove(), $(".grid2").style.gridTemplateColumns = "1fr";
+  drawPanels(); drawMap(); drawBands(); drawCue();
+  $("#dl-cue").onclick = downloadCue; $("#dl-plan").onclick = downloadPlan;
+}
+
+function spentWhere(d) {
+  // the stretch that burns the most reserve
+  const t = d.trace, cp = d.rider.cp;
+  let best = null, bestJ = 0;
+  d.segments.forEach((g, k) => {
+    let j = 0;
+    for (let i = 0; i < t.power.length; i++) {
+      const km = t.s[i] / 1000;
+      if (km >= g.from_km && km < g.to_km) j += Math.max(t.power[i] - cp, 0) * (t.t[i + 1] - t.t[i]);
+    }
+    if (j > bestJ) { bestJ = j; best = k; }
+  });
+  if (best == null || d.rider.w_prime <= 0) return "nowhere";
+  const share = Math.round(100 * bestJ / d.rider.w_prime);
+  return `mostly on stretch ${best + 1} (${Math.min(share, 100)} %)`;
+}
+
+/* ---------------------------------------------------------------- panels */
+function drawPanels() {
+  const host = $("#panels"), t = data.trace, cp = data.rider.cp;
+  host.innerHTML = "";
+  const W = host.clientWidth, ml = 44, mr = 16;
+  const km = t.s.map(v => v / 1000), xmax = km[km.length - 1];
+  const X = v => ml + (W - ml - mr) * v / xmax;
+  const ds = km.slice(1).map((v, i) => v - km[i]);
+  const p99 = quantile(t.power, ds, 0.995);
+  const pTop = Math.max(1.25 * cp, 1.12 * p99, 1.1 * data.summary.constant_power);
+  const pPeak = Math.max(...t.power);
+  const hLo = Math.min(...t.h), hHi = Math.max(...t.h), hPad = Math.max(8, 0.08 * (hHi - hLo));
+  const vTop = 1.08 * Math.max(...t.v, ...t.v_constant);
+
+  const defs = [
+    { title: "Elevation", unit: "m", h: 104, dom: [Math.floor(hLo - hPad), hHi + hPad],
+      series: [{ y: t.h, color: "var(--ink2)", width: 1.5, area: "var(--ink2)", opacity: .13 }] },
+    { title: "Target power", unit: "W", h: 200, dom: [0, pTop],
+      note: pPeak > pTop * 1.02 ? `peaks at ${Math.round(pPeak)} W off the line` : "",
+      refs: [{ y: cp }],
+      series: [{ y: t.power_constant, step: true, color: "var(--orange)", width: 2, dash: "6 4" },
+               { y: t.power, step: true, color: "var(--blue)", width: 2 }] },
+    { title: "Speed", unit: "km/h", h: 130, dom: [0, vTop],
+      series: [{ y: t.v_constant, color: "var(--orange)", width: 2, dash: "6 4" }, { y: t.v, color: "var(--blue)", width: 2 }] },
+  ];
+  if (data.rider.w_prime > 0) defs.push({ title: "Reserve left", unit: "kJ", h: 96, dom: [0, data.rider.w_prime / 1000 * 1.08],
+      series: [{ y: t.reserve, color: "var(--blue)", width: 2, area: "var(--blue)", opacity: .14 }] });
+
+  view.X = X; view.km = km; view.W = W; view.ml = ml; view.mr = mr; view.xmax = xmax; view.cursors = []; view.bands = [];
+  const xt = ticks(0, xmax, Math.max(4, Math.min(12, Math.floor(W / 90))));
+
+  defs.forEach((p, k) => {
+    const last = k === defs.length - 1, mt = 6, mb = last ? 24 : 4, H = p.h + mt + mb;
+    const wrap = document.createElement("div"); wrap.className = "panel";
+    wrap.innerHTML = `<div class="ptitle">${p.title} <em>${p.unit}${p.note ? " · " + p.note : ""}</em></div>`;
+    const svg = svgEl("svg", { width: W, height: H, viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": p.title + " along the course" });
+    wrap.appendChild(svg); host.appendChild(wrap);
+    const [y0, y1] = p.dom, Y = v => mt + p.h * (1 - (Math.min(Math.max(v, y0), y1 * 1.2) - y0) / (y1 - y0));
+    const clip = "clip" + k;
+    svgEl("rect", { x: ml, y: mt - 2, width: W - ml - mr, height: p.h + 3 }, svgEl("clipPath", { id: clip }, svgEl("defs", {}, svg)));
+
+    for (const v of ticks(y0, y1, p.h > 150 ? 4 : 2)) {
+      svgEl("line", { x1: ml, x2: W - mr, y1: Y(v), y2: Y(v), stroke: "var(--line)", "stroke-width": 1 }, svg);
+      svgEl("text", { x: ml - 8, y: Y(v) + 3.5, "text-anchor": "end" }, svg).textContent = v;
+    }
+    if (last) for (const v of xt) {
+      svgEl("text", { x: X(v), y: H - 6, "text-anchor": "middle" }, svg).textContent = v + (v === xt[xt.length - 1] ? " km" : "");
+    }
+    const band = svgEl("rect", { y: mt, height: p.h, fill: "var(--ink)", opacity: .07, visibility: "hidden", rx: 3 }, svg);
+    view.bands.push(band);
+
+    const g = svgEl("g", { "clip-path": `url(#${clip})` }, svg);
+    for (const sr of p.series) {
+      let dPath = "";
+      if (sr.step) for (let i = 0; i < sr.y.length; i++) dPath += `${i ? "L" : "M"}${X(km[i]).toFixed(1)},${Y(sr.y[i]).toFixed(1)}L${X(km[i + 1]).toFixed(1)},${Y(sr.y[i]).toFixed(1)}`;
+      else for (let i = 0; i < sr.y.length; i++) dPath += `${i ? "L" : "M"}${X(km[i]).toFixed(1)},${Y(sr.y[i]).toFixed(1)}`;
+      if (sr.area) svgEl("path", { d: dPath + `L${X(xmax)},${Y(y0)}L${X(0)},${Y(y0)}Z`, fill: sr.area, opacity: sr.opacity }, g);
+      svgEl("path", { d: dPath, fill: "none", stroke: sr.color, "stroke-width": sr.width, "stroke-linejoin": "round", "stroke-linecap": "round", "stroke-dasharray": sr.dash || "" }, g);
+    }
+    for (const rf of p.refs || []) {
+      svgEl("line", { x1: ml, x2: W - mr, y1: Y(rf.y), y2: Y(rf.y), stroke: "var(--muted)", "stroke-width": 1.5, "stroke-dasharray": "1.5 4", "stroke-linecap": "round" }, svg);
+    }
+    const line = svgEl("line", { y1: mt, y2: mt + p.h, stroke: "var(--ink2)", "stroke-width": 1, visibility: "hidden" }, svg);
+    const dots = p.series.map(sr => ({ sr, Y, el: svgEl("circle", { r: 4.5, fill: sr.color, stroke: "var(--surface)", "stroke-width": 2, visibility: "hidden" }, svg) }));
+    view.cursors.push({ line, dots });
+  });
+
+  host.onpointermove = e => {
+    const rect = host.getBoundingClientRect();
+    const v = Math.min(Math.max((e.clientX - rect.left - ml) / (W - ml - mr) * xmax, 0), xmax);
+    let lo = 0, hi = km.length - 1;
+    while (hi - lo > 1) { const mid = (lo + hi) >> 1; if (km[mid] <= v) lo = mid; else hi = mid; }
+    setCursor(v - km[lo] < km[hi] - v ? lo : hi, e.clientX, e.clientY);
+  };
+  host.onpointerleave = clearCursor;
+}
+
+function setCursor(i, cx, cy) {
+  const t = data.trace, n = t.power.length, j = Math.min(i, n - 1), x = view.X(view.km[i]);
+  for (const c of view.cursors) {
+    c.line.setAttribute("x1", x); c.line.setAttribute("x2", x); c.line.setAttribute("visibility", "visible");
+    for (const d of c.dots) {
+      const y = d.sr.y[d.sr.step ? j : i];
+      d.el.setAttribute("cx", x); d.el.setAttribute("cy", d.Y(y)); d.el.setAttribute("visibility", "visible");
+    }
+  }
+  if (view.mapDot) {
+    view.mapDot.setAttribute("cx", view.mapXY[i][0]); view.mapDot.setAttribute("cy", view.mapXY[i][1]);
+    view.mapDot.setAttribute("visibility", "visible");
+  }
+  const tip = $("#tip"), g = t.grade[j];
+  tip.innerHTML = `<div class="t">km ${view.km[i].toFixed(2)}<span>${clock(t.t[i])}</span></div><table>
+    <tr><td><i class="sw" style="background:var(--blue)"></i>Target power</td><td>${Math.round(t.power[j])} W</td></tr>
+    <tr><td><i class="sw" style="background:var(--orange)"></i>Steady power</td><td>${Math.round(t.power_constant[j])} W</td></tr>
+    <tr><td>Speed</td><td>${t.v[i].toFixed(1)} km/h</td></tr>
+    <tr><td>Gradient</td><td>${(g >= 0 ? "+" : "−") + Math.abs(g).toFixed(1)} %</td></tr>
+    <tr><td>Elevation</td><td>${Math.round(t.h[i])} m</td></tr>
+    <tr><td>Reserve left</td><td>${t.reserve[i].toFixed(1)} kJ</td></tr>
+    <tr><td>Ahead of steady</td><td>${(t.t_constant[i] - t.t[i]).toFixed(1)} s</td></tr></table>`;
+  tip.style.display = "block";
+  const w = tip.offsetWidth, h = tip.offsetHeight;
+  tip.style.left = (cx + 18 + w > innerWidth ? cx - 18 - w : cx + 18) + "px";
+  tip.style.top = Math.min(Math.max(cy - h / 2, 8), innerHeight - h - 8) + "px";
+}
+function clearCursor() {
+  for (const c of view.cursors) { c.line.setAttribute("visibility", "hidden"); c.dots.forEach(d => d.el.setAttribute("visibility", "hidden")); }
+  if (view.mapDot) view.mapDot.setAttribute("visibility", "hidden");
+  $("#tip").style.display = "none";
+}
+function showBand(a, b) {
+  for (const r of view.bands) {
+    if (a == null) { r.setAttribute("visibility", "hidden"); continue; }
+    r.setAttribute("x", view.X(a)); r.setAttribute("width", Math.max(view.X(b) - view.X(a), 2)); r.setAttribute("visibility", "visible");
+  }
+}
+
+/* ------------------------------------------------------------------- map */
+function drawMap() {
+  view.mapDot = null;
+  const host = $("#map"); if (!host || !data.track) return;
+  host.innerHTML = "";
+  const { lat, lon } = data.track, t = data.trace, n = lat.length;
+  const W = host.clientWidth, H = Math.round(Math.min(Math.max(W * 0.62, 260), 420)), pad = 26;
+  const k = Math.cos(lat.reduce((a, b) => a + b, 0) / n * Math.PI / 180);
+  const xs = lon.map(v => v * k), ys = lat.map(v => -v);
+  const x0 = Math.min(...xs), x1 = Math.max(...xs), y0 = Math.min(...ys), y1 = Math.max(...ys);
+  const sc = Math.min((W - 2 * pad) / Math.max(x1 - x0, 1e-9), (H - 2 * pad) / Math.max(y1 - y0, 1e-9));
+  const ox = (W - sc * (x1 - x0)) / 2, oy = (H - sc * (y1 - y0)) / 2;
+  const P = xs.map((x, i) => [ox + sc * (x - x0), oy + sc * (ys[i] - y0)]);
+  view.mapXY = P;
+  const svg = svgEl("svg", { width: W, height: H, viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Map of the course coloured by target power" }, host);
+  const path = pts => pts.map((p, i) => (i ? "L" : "M") + p[0].toFixed(1) + "," + p[1].toFixed(1)).join("");
+  svgEl("path", { d: path(P), fill: "none", stroke: "var(--muted)", "stroke-width": 7, "stroke-linecap": "round", "stroke-linejoin": "round" }, svg);
+  const ds = t.s.slice(1).map((v, i) => v - t.s[i]);
+  const top = Math.max(quantile(t.power, ds, 0.99), data.rider.cp * 1.1), low = 0.75 * data.rider.cp;
+  $("#ramp-lo").textContent = "≤ " + Math.round(low) + " W"; $("#ramp-hi").textContent = "≥ " + Math.round(top) + " W";
+  const lo = css("--ramp-lo"), hi = css("--ramp-hi"), chunk = Math.max(1, Math.ceil(n / 320));
+  for (let a = 0; a < n - 1; a += chunk) {
+    const b = Math.min(a + chunk, n - 1);
+    let e = 0, tt = 0;
+    for (let i = a; i < b; i++) { const dt = t.t[i + 1] - t.t[i]; e += t.power[i] * dt; tt += dt; }
+    svgEl("path", { d: path(P.slice(a, b + 1)), fill: "none", stroke: mix(lo, hi, Math.min(Math.max((e / tt - low) / (top - low), 0), 1)), "stroke-width": 5, "stroke-linecap": "round", "stroke-linejoin": "round" }, svg);
+  }
+  const mark = (p, label, far) => {
+    svgEl("circle", { cx: p[0], cy: p[1], r: 5.5, fill: "var(--surface)", stroke: "var(--ink)", "stroke-width": 2 }, svg);
+    const right = p[0] < W - 70;
+    const tx = svgEl("text", { x: p[0] + (right ? 10 : -10), y: p[1] + (far ? 16 : -8), "text-anchor": right ? "start" : "end", style: "fill:var(--ink);font-weight:600;font-size:12px;paint-order:stroke;stroke:var(--surface);stroke-width:4px" }, svg);
+    tx.textContent = label;
+  };
+  const close = Math.hypot(P[0][0] - P[n - 1][0], P[0][1] - P[n - 1][1]) < 40;
+  mark(P[0], "Start", false); mark(P[n - 1], "Finish", close);
+  view.mapDot = svgEl("circle", { r: 6.5, fill: "var(--blue)", stroke: "var(--surface)", "stroke-width": 2.5, visibility: "hidden" }, svg);
+  svg.style.touchAction = "none";
+  svg.onpointermove = e => {
+    const r = svg.getBoundingClientRect(), mx = e.clientX - r.left, my = e.clientY - r.top;
+    let best = 0, bd = Infinity;
+    for (let i = 0; i < n; i++) { const d = (P[i][0] - mx) ** 2 + (P[i][1] - my) ** 2; if (d < bd) { bd = d; best = i; } }
+    if (bd < 40 * 40) setCursor(best, e.clientX, e.clientY); else clearCursor();
+  };
+  svg.onpointerleave = clearCursor;
+}
+
+/* ----------------------------------------------------------------- bands */
+function drawBands() {
+  const host = $("#bands"), b = data.bands, cp = data.rider.cp; host.innerHTML = "";
+  const W = host.clientWidth, H = Math.round(Math.min(Math.max(W * 0.5, 240), 340)), ml = 44, mr = 16, mt = 26, mb = 44;
+  const svg = svgEl("svg", { width: W, height: H, viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Average target power for each gradient range" }, host);
+  const top = Math.max(...b.map(v => v.power), cp) * 1.15, Y = v => mt + (H - mt - mb) * (1 - v / top);
+  for (const v of ticks(0, top, 4)) {
+    svgEl("line", { x1: ml, x2: W - mr, y1: Y(v), y2: Y(v), stroke: "var(--line)" }, svg);
+    svgEl("text", { x: ml - 8, y: Y(v) + 3.5, "text-anchor": "end" }, svg).textContent = v;
+  }
+  const slot = (W - ml - mr) / b.length, bw = Math.min(slot - 2, Math.max(slot * 0.62, 10)), tip = $("#tip");
+  b.forEach((v, i) => {
+    const x = ml + slot * i + (slot - bw) / 2, y = Y(v.power), h = Y(0) - y, r = Math.min(4, h, bw / 2);
+    const bar = svgEl("path", { d: `M${x},${Y(0)}V${y + r}Q${x},${y} ${x + r},${y}H${x + bw - r}Q${x + bw},${y} ${x + bw},${y + r}V${Y(0)}Z`, fill: "var(--blue)" }, svg);
+    svgEl("text", { x: x + bw / 2, y: y - 6, "text-anchor": "middle", style: "fill:var(--ink);font-weight:650;font-size:12px" }, svg).textContent = Math.round(v.power);
+    const lab = svgEl("text", { x: x + bw / 2, y: H - mb + 16, "text-anchor": "middle" }, svg);
+    lab.textContent = slot < 58 ? v.label.replace(" to ", "…") : v.label;
+    const hit = svgEl("rect", { x: ml + slot * i, y: mt, width: slot, height: H - mt - mb, fill: "transparent" }, svg);
+    hit.onpointermove = e => {
+      bar.setAttribute("opacity", .8);
+      tip.innerHTML = `<div class="t">Gradient ${v.label} %</div><table>
+        <tr><td>Target power</td><td>${Math.round(v.power)} W</td></tr>
+        <tr><td>Share of CP</td><td>${Math.round(100 * v.power / cp)} %</td></tr>
+        <tr><td>Speed</td><td>${v.speed_kmh.toFixed(1)} km/h</td></tr>
+        <tr><td>Road</td><td>${v.km.toFixed(1)} km</td></tr>
+        <tr><td>Time</td><td>${clock(v.time)}</td></tr></table>`;
+      tip.style.display = "block";
+      const w = tip.offsetWidth;
+      tip.style.left = (e.clientX + 18 + w > innerWidth ? e.clientX - 18 - w : e.clientX + 18) + "px";
+      tip.style.top = (e.clientY - 40) + "px";
+    };
+    hit.onpointerleave = () => { bar.setAttribute("opacity", 1); tip.style.display = "none"; };
+  });
+  svgEl("line", { x1: ml, x2: W - mr, y1: Y(cp), y2: Y(cp), stroke: "var(--muted)", "stroke-width": 1.5, "stroke-dasharray": "1.5 4", "stroke-linecap": "round", "pointer-events": "none" }, svg);
+  svgEl("text", { x: ml + (W - ml - mr) / 2, y: H - 6, "text-anchor": "middle" }, svg).textContent = "gradient (%)";
+  svgEl("text", { x: ml, y: 12, style: "fill:var(--ink2);font-weight:600;font-size:12px" }, svg).textContent = "Power (W)";
+}
+
+/* ------------------------------------------------------------- cue sheet */
+function drawCue() {
+  const body = $("#cue"), cp = data.rider.cp, top = Math.max(...data.segments.map(g => g.power), cp) * 1.05;
+  body.innerHTML = data.segments.map((g, i) => {
+    const arrow = g.grade > 1 ? "↗" : g.grade < -1 ? "↘" : "→";
+    const rel = Math.round(100 * g.power / cp);
+    return `<tr data-a="${g.from_km}" data-b="${g.to_km}">
+      <td class="n">${i + 1}</td>
+      <td>${g.from_km.toFixed(1)} – ${g.to_km.toFixed(1)} km <span class="dim">· ${(g.to_km - g.from_km).toFixed(1)} km</span></td>
+      <td><span class="g">${arrow}</span>${(g.grade >= 0 ? "+" : "−") + Math.abs(g.grade).toFixed(1)} %</td>
+      <td><span class="bar"><b style="width:${(100 * g.power / top).toFixed(1)}%"></b><s style="left:${(100 * cp / top).toFixed(1)}%"></s></span><span class="w">${Math.round(g.power)} W</span></td>
+      <td>${rel} %</td>
+      <td>${g.speed_kmh.toFixed(1)} km/h</td>
+      <td>${clock(g.time)}</td>
+      <td>${clock(g.elapsed)}</td></tr>`;
+  }).join("");
+  body.querySelectorAll("tr").forEach(tr => {
+    tr.onmouseenter = () => showBand(+tr.dataset.a, +tr.dataset.b);
+    tr.onmouseleave = () => showBand(null);
+  });
+}
+
+/* --------------------------------------------------------------- exports */
+function download(name, rows) {
+  const blob = new Blob([rows.map(r => r.join(",")).join("\n") + "\n"], { type: "text/csv" });
+  const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = name; a.click();
+  setTimeout(() => URL.revokeObjectURL(a.href), 2000);
+}
+const slug = () => data.course.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 40) || "course";
+function downloadCue() {
+  download(`cue-sheet-${slug()}.csv`, [["stretch", "from_km", "to_km", "gradient_pct", "target_power_w", "speed_kmh", "split", "clock"]].concat(
+    data.segments.map((g, i) => [i + 1, g.from_km.toFixed(2), g.to_km.toFixed(2), g.grade.toFixed(1), Math.round(g.power), g.speed_kmh.toFixed(1), clock(g.time), clock(g.elapsed)])));
+}
+function downloadPlan() {
+  const t = data.trace, rows = [["distance_km", "elevation_m", "gradient_pct", "target_power_w", "speed_kmh", "clock_s", "reserve_kj"]];
+  for (let i = 0; i < t.power.length; i++) rows.push([(t.s[i] / 1000).toFixed(3), t.h[i].toFixed(1), t.grade[i].toFixed(1), Math.round(t.power[i]), t.v[i].toFixed(1), t.t[i].toFixed(1), t.reserve[i].toFixed(2)]);
+  download(`pacing-plan-${slug()}.csv`, rows);
+}
+
+/* ------------------------------------------------------------------ boot */
+let resizeTimer;
+window.addEventListener("resize", () => { clearTimeout(resizeTimer); resizeTimer = setTimeout(() => { if (data) { drawPanels(); drawMap(); drawBands(); } }, 120); });
+matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => { if (data) drawMap(); });
+
+fetch("/api/courses").then(r => r.json()).then(o => {
+  builtin.innerHTML = o.courses.map(c => `<option value="${esc(c.key)}">${esc(c.label)}</option>`).join("");
+  restore();
+  compute();
+}).catch(() => { $("#error").innerHTML = '<div class="err">The app server is not running. Start it with: .venv/bin/python app/server.py</div>'; });
+</script>
+</body>
+</html>

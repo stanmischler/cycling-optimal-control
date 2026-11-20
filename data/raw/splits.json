@@ -1,0 +1,423 @@
+{
+ "_about": "Official timing for two Tour de France ITTs. times_s are elapsed seconds from the rider's own start. null = not found; nothing is estimated. Every time string was machine-checked against the downloaded source page.",
+ "_fetched": "2026-11-20",
+ "monaco_nice_2024": {
+  "race": "Tour de France 2024 stage 21, Monaco - Nice ITT, 21 July 2024",
+  "official_distance_km": 33.7,
+  "time_checks": [
+   {
+    "id": "T1",
+    "name": "La Turbie (cat. 2 summit)",
+    "km": 11.2,
+    "km_sources": {
+     "letour.fr itinerary": 11.2,
+     "PCS livestats": 11.2,
+     "cyclingstage": 11.2
+    }
+   },
+   {
+    "id": "T2",
+    "name": "Col d'Eze",
+    "km": 17.1,
+    "km_sources": {
+     "letour.fr itinerary": 17.1,
+     "PCS livestats": 17.1,
+     "cyclingstage": 17.1
+    }
+   },
+   {
+    "id": "T3",
+    "name": "Nice, Place de l'Ile de Beaute",
+    "km": null,
+    "km_sources": {
+     "letour.fr itinerary / roadbook (pre-race)": 28.6,
+     "PCS livestats": 28.9,
+     "cyclingstage": 28.9
+    },
+    "km_note": "CONFLICT 28.6 vs 28.9, unresolved. PCS average speeds are computed with 28.9. Roadbook also says this point is 5.0-5.1 km before the finish. On the rebuilt GPX the Place Ile de Beaute / Quai Papacino corner is at track km 28.87 of 33.84 (4.97 km to go)."
+   },
+   {
+    "id": "finish",
+    "name": "Nice, Place Massena",
+    "km": 33.7,
+    "km_sources": {
+     "letour.fr": 33.7,
+     "PCS": 33.7
+    }
+   }
+  ],
+  "time_check_sources": [
+   "https://web.archive.org/web/20240717175537/https://www.letour.fr/en/stage-21",
+   "https://web.archive.org/web/20240803130619/https://www.procyclingstats.com/race/tour-de-france/2024/stage-21/live/livestats",
+   "https://www.cyclingstage.com/tour-de-france-2024-results/stage-21-results-tdf-2024/",
+   "ASO roadbook 2024 p.208 https://ciclo21.com/wp-content/uploads/2024/06/Tour-Francia-Libro-ruta-2024.pdf"
+  ],
+  "time_check_note": "letour.fr marks the checks with an icon only (read as 'chrono'); PCS calls them Timing point 1/2/3.",
+  "riders": {
+   "Tadej Pogacar": {
+    "stage_rank": "1st",
+    "start_time_local": "18:45",
+    "times_printed": {
+     "T1": "20.10,34",
+     "T2": "28.39,38",
+     "T3": "39.28,36",
+     "finish": "45.24,99"
+    },
+    "times_s": {
+     "T1": 1210.34,
+     "T2": 1719.38,
+     "T3": 2368.36,
+     "finish": 2724.99
+    },
+    "source": "https://web.archive.org/web/20240803130619/https://www.procyclingstats.com/race/tour-de-france/2024/stage-21/live/livestats",
+    "finish_official_whole_s": 2724,
+    "finish_official_source": "https://www.cyclingstage.com/tour-de-france-2024-results/stage-21-results-tdf-2024/"
+   },
+   "Jonas Vingegaard": {
+    "stage_rank": "2nd",
+    "start_time_local": "18:43",
+    "times_printed": {
+     "T1": "20.17,39",
+     "T2": "29.03,91",
+     "T3": "40.32,76",
+     "finish": "46.27,25"
+    },
+    "times_s": {
+     "T1": 1217.39,
+     "T2": 1743.91,
+     "T3": 2432.76,
+     "finish": 2787.25
+    },
+    "source": "https://web.archive.org/web/20240803130619/https://www.procyclingstats.com/race/tour-de-france/2024/stage-21/live/livestats",
+    "finish_official_whole_s": 2787,
+    "finish_official_source": "https://www.cyclingstage.com/tour-de-france-2024-results/stage-21-results-tdf-2024/"
+   },
+   "Remco Evenepoel": {
+    "stage_rank": "3rd",
+    "start_time_local": "18:41",
+    "times_printed": {
+     "T1": "20.36,70",
+     "T2": "29.30,80",
+     "T3": "40.56,66",
+     "finish": "46.38,13"
+    },
+    "times_s": {
+     "T1": 1236.7,
+     "T2": 1770.8,
+     "T3": 2456.66,
+     "finish": 2798.13
+    },
+    "source": "https://web.archive.org/web/20240803130619/https://www.procyclingstats.com/race/tour-de-france/2024/stage-21/live/livestats",
+    "finish_official_whole_s": 2798,
+    "finish_official_source": "https://www.cyclingstage.com/tour-de-france-2024-results/stage-21-results-tdf-2024/"
+   },
+   "Derek Gee": {
+    "stage_rank": "6th",
+    "start_time_local": "18:29",
+    "times_printed": {
+     "T1": "21.12,95",
+     "T2": "30.17,27",
+     "T3": "41.58,62",
+     "finish": "47.55,92"
+    },
+    "times_s": {
+     "T1": 1272.95,
+     "T2": 1817.27,
+     "T3": 2518.62,
+     "finish": 2875.92
+    },
+    "source": "https://web.archive.org/web/20240803130619/https://www.procyclingstats.com/race/tour-de-france/2024/stage-21/live/livestats",
+    "finish_official_whole_s": 2875,
+    "finish_official_source": "https://www.cyclingstage.com/tour-de-france-2024-results/stage-21-results-tdf-2024/"
+   },
+   "Matteo Jorgenson": {
+    "stage_rank": "4th",
+    "start_time_local": "18:31",
+    "times_printed": {
+     "T1": "21.26,29",
+     "T2": "30.28,04",
+     "T3": "41.36,96",
+     "finish": "47.32,21"
+    },
+    "times_s": {
+     "T1": 1286.29,
+     "T2": 1828.04,
+     "T3": 2496.96,
+     "finish": 2852.21
+    },
+    "source": "https://web.archive.org/web/20240803130619/https://www.procyclingstats.com/race/tour-de-france/2024/stage-21/live/livestats"
+   },
+   "Mikel Landa": {
+    "stage_rank": "7th",
+    "start_time_local": null,
+    "times_printed": {
+     "T1": "21.34,72",
+     "T2": "30.35,91",
+     "T3": "42.03,08",
+     "finish": "48.05,87"
+    },
+    "times_s": {
+     "T1": 1294.72,
+     "T2": 1835.91,
+     "T3": 2523.08,
+     "finish": 2885.87
+    },
+    "source": "https://web.archive.org/web/20240803130619/https://www.procyclingstats.com/race/tour-de-france/2024/stage-21/live/livestats"
+   },
+   "Lenny Martinez": {
+    "stage_rank": null,
+    "start_time_local": "15:02:30",
+    "times_printed": {
+     "T1": "21.20,50",
+     "T2": "30.23,62",
+     "T3": "42.11,96",
+     "finish": "48.24,46"
+    },
+    "times_s": {
+     "T1": 1280.5,
+     "T2": 1823.62,
+     "T3": 2531.96,
+     "finish": 2904.46
+    },
+    "source": "https://web.archive.org/web/20240803130619/https://www.procyclingstats.com/race/tour-de-france/2024/stage-21/live/livestats"
+   }
+  },
+  "precision_note": "PCS livestats prints hundredths. Official results are whole seconds, truncated: Pogacar 45:24, Vingegaard +1:03, Evenepoel +1:14, Gee +2:31 (cyclingstage). PCS result page prints Pogacar 0:45:25 (rounded). cyclingstage intermediate list agrees with PCS to the truncated second.",
+  "conditions": {
+   "start": {
+    "ramp": "Start ramp on boulevard Albert Ier, Monaco (roadbook p.206). No ramp height/length found.",
+    "intervals": "1 min initially, then 90 s, then 2 min for the last starters (roadbook)",
+    "first_rider_local": "14:40",
+    "last_rider_local": "18:45 (Pogacar)",
+    "source": "ASO roadbook 2024 p.206; https://web.archive.org/web/20240803130619/https://www.procyclingstats.com/race/tour-de-france/2024/stage-21/live/livestats"
+   },
+   "weather_reported": [
+    {
+     "text": "Avg. temperature: 28 C",
+     "source": "https://web.archive.org/web/20240721212812/https://www.procyclingstats.com/race/tour-de-france/2024/stage-21"
+    },
+    {
+     "text": "early afternoon: around 24 C with rain in the area; 18 kph wind from the east south east; later 'the course is currently dry'",
+     "source": "https://www.cyclingnews.com/races/tour-de-france-2024/stage-21/live-report",
+     "caveat": "read through a summarising fetch tool, wording near-verbatim; refers to early starters, not the 18:30-19:30 window of the top riders"
+    }
+   ],
+   "weather_reanalysis_model": {
+    "caveat": "Open-Meteo archive (ERA5-family reanalysis), coarse grid cell, 10 m wind; NOT a race measurement. Indicative only.",
+    "source": "https://archive-api.open-meteo.com/v1/archive (lat 43.695 lon 7.27, 2024-07-21, Europe/Paris)",
+    "nice_grid_cell": {
+     "18:00": {
+      "temp_C": 26.3,
+      "rh_pct": 55,
+      "surface_pressure_hPa": 1005.9,
+      "wind_ms": 5.5,
+      "wind_from_deg": 1,
+      "gust_ms": 14.1
+     },
+     "19:00": {
+      "temp_C": 26.6,
+      "rh_pct": 56,
+      "surface_pressure_hPa": 1005.7,
+      "wind_ms": 1.94,
+      "wind_from_deg": 12,
+      "gust_ms": 10.6
+     }
+    },
+    "note": "model shows a shower 15:00-16:00 local (1.7-2.7 mm) and wind direction swinging through the afternoon"
+   },
+   "bike_changes": {
+    "Tadej Pogacar": null,
+    "Jonas Vingegaard": null,
+    "Remco Evenepoel": null,
+    "Derek Gee": null,
+    "note": "No source reports a bike change for these four, and none states explicitly that they did not change (hence null). All of Pogacar, Vingegaard, Evenepoel are described on TT bikes. Only reported swap: Felix Gall started on a road bike and changed to a TT bike at the top of the second climb.",
+    "source": "https://www.cyclingnews.com/features/tour-de-france-final-day-tech-curious-choices-sponsor-appeasement-new-tech-and-aftermarket-hacks"
+   },
+   "incidents": {
+    "text": "Pogacar and Vingegaard both had rear-wheel slides on the descent into Nice; Pogacar sat up to celebrate in the last few hundred metres; Jorgenson crashed early.",
+    "source": "https://escapecollective.com/tdf-stage-21-pogacar-adds-a-sixth-stage-to-his-collection-to-cap-off-historic-tour-de-france/"
+   }
+  }
+ },
+ "passy_combloux_2023": {
+  "race": "Tour de France 2023 stage 16, Passy - Combloux ITT, 18 July 2023",
+  "official_distance_km": 22.4,
+  "time_checks": [
+   {
+    "id": "T1",
+    "name": "Passy Chef-Lieu",
+    "km": 7.1
+   },
+   {
+    "id": "T2",
+    "name": "Domancy (foot of the Cote de Domancy)",
+    "km": 16.1
+   },
+   {
+    "id": "T3",
+    "name": "Cote de Domancy summit (cat. 2)",
+    "km": 18.9
+   },
+   {
+    "id": "finish",
+    "name": "Combloux",
+    "km": 22.4
+   }
+  ],
+  "time_check_sources": [
+   "https://web.archive.org/web/20230818171707/https://www.letour.fr/en/stage-16",
+   "https://www.cyclingstage.com/tour-de-france-2023-results/stage-16-results-tdf-2023/",
+   "https://web.archive.org/web/20241224011212/https://www.procyclingstats.com/race/tour-de-france/2023/stage-16/live/time-splits"
+  ],
+  "time_check_note": "km from letour.fr itinerary icons and cyclingstage ('Intermediate 1 - at kilometre 7.1' etc.); PCS labels T1/T2/T3 only but its average speeds reproduce 7.1/16.1/18.9. No check at Cote de la Cascade de Coeur (km 4.1) or Sallanches (km 10.8).",
+  "riders": {
+   "Jonas Vingegaard": {
+    "stage_rank": "1st",
+    "start_time_local": "17:00",
+    "times_printed": {
+     "T1": "9.54,00",
+     "T2": "19.05,00",
+     "T3": "25.52,00",
+     "finish": "32.36,00"
+    },
+    "times_s": {
+     "T1": 594.0,
+     "T2": 1145.0,
+     "T3": 1552.0,
+     "finish": 1956.0
+    },
+    "source": "https://web.archive.org/web/20241224011212/https://www.procyclingstats.com/race/tour-de-france/2023/stage-16/live/time-splits"
+   },
+   "Tadej Pogacar": {
+    "stage_rank": "2nd",
+    "start_time_local": "16:58",
+    "times_printed": {
+     "T1": "10.10,00",
+     "T2": "19.36,00",
+     "T3": "26.57,00",
+     "finish": "34.14,00"
+    },
+    "times_s": {
+     "T1": 610.0,
+     "T2": 1176.0,
+     "T3": 1617.0,
+     "finish": 2054.0
+    },
+    "source": "https://web.archive.org/web/20241224011212/https://www.procyclingstats.com/race/tour-de-france/2023/stage-16/live/time-splits"
+   },
+   "Wout van Aert": {
+    "stage_rank": "3rd",
+    "start_time_local": null,
+    "times_printed": {
+     "T1": "10.43,00",
+     "T2": "20.16,00",
+     "T3": "27.42,00",
+     "finish": "35.27,00"
+    },
+    "times_s": {
+     "T1": 643.0,
+     "T2": 1216.0,
+     "T3": 1662.0,
+     "finish": 2127.0
+    },
+    "source": "https://web.archive.org/web/20241224011212/https://www.procyclingstats.com/race/tour-de-france/2023/stage-16/live/time-splits"
+   },
+   "Neilson Powless": {
+    "stage_rank": "108th",
+    "start_time_local": null,
+    "times_printed": {
+     "T1": "12.12,00",
+     "T2": "23.13,00",
+     "T3": "30.37,00",
+     "finish": "39.32,00"
+    },
+    "times_s": {
+     "T1": 732.0,
+     "T2": 1393.0,
+     "T3": 1837.0,
+     "finish": 2372.0
+    },
+    "source": "https://web.archive.org/web/20241224011212/https://www.procyclingstats.com/race/tour-de-france/2023/stage-16/live/time-splits"
+   }
+  },
+  "precision_note": "Whole seconds only (PCS prints ',00'). Finish cross-check: Vingegaard 32:36, Pogacar +1:38, van Aert +2:51, Powless 108th +6:56 (PCS result page / cyclingstage).",
+  "finish_cross_check_sources": [
+   "https://web.archive.org/web/20230720055233/https://www.procyclingstats.com/race/tour-de-france/2023/stage-16",
+   "https://www.cyclingstage.com/tour-de-france-2023-results/stage-16-results-tdf-2023/"
+  ],
+  "conditions": {
+   "start": {
+    "ramp": "Riders 'roll down the start ramp' (live reports); no detail found.",
+    "first_rider_local": "13:05",
+    "last_rider_local": "17:00 (Vingegaard); Pogacar 16:58",
+    "note": "PCS splits table lists van Aert 16:19:30 and Powless 15:22:30 but a Cyclingnews start-list snippet gave 14:22 for Powless; left null for those two.",
+    "source": "https://web.archive.org/web/20241224011212/https://www.procyclingstats.com/race/tour-de-france/2023/stage-16/live/time-splits"
+   },
+   "weather_reported": [
+    {
+     "text": "Avg. temperature: 31 C",
+     "source": "https://web.archive.org/web/20230720055233/https://www.procyclingstats.com/race/tour-de-france/2023/stage-16"
+    },
+    {
+     "text": "hot and humid; rain was forecast for the afternoon (forecast only)",
+     "source": "https://www.cyclingweekly.com/news/live/tour-de-france-stage-16-live-jonas-vingegaard-and-tadej-pogacar-set-to-battle-against-the-clock",
+     "caveat": "read through a summarising fetch tool"
+    }
+   ],
+   "wind_reported": null,
+   "weather_reanalysis_model": {
+    "caveat": "Open-Meteo archive, coarse grid cell centred ~11 km from the course in Alpine terrain, 10 m wind; NOT a race measurement. Valley wind can differ completely.",
+    "source": "https://archive-api.open-meteo.com/v1/archive (lat 45.92 lon 6.68, 2023-07-18, Europe/Paris)",
+    "grid_cell": {
+     "16:00": {
+      "temp_C": 30.9,
+      "rh_pct": 53,
+      "surface_pressure_hPa": 954.0,
+      "wind_ms": 0.2,
+      "wind_from_deg": 180,
+      "gust_ms": 7.6
+     },
+     "17:00": {
+      "temp_C": 30.7,
+      "rh_pct": 53,
+      "surface_pressure_hPa": 954.2,
+      "wind_ms": 0.5,
+      "wind_from_deg": 233,
+      "gust_ms": 6.5
+     },
+     "18:00": {
+      "temp_C": 27.8,
+      "rh_pct": 72,
+      "surface_pressure_hPa": 953.9,
+      "wind_ms": 1.52,
+      "wind_from_deg": 113,
+      "gust_ms": 10.3
+     }
+    }
+   },
+   "bike_changes": {
+    "Jonas Vingegaard": {
+     "changed": false,
+     "text": "stayed on his TT bike from start to finish",
+     "source": "https://www.cyclingweekly.com/racing/to-change-bike-or-not-change-bike-the-question-of-the-day-at-the-tour-de-france-time-trial"
+    },
+    "Tadej Pogacar": {
+     "changed": true,
+     "text": "swapped TT bike for road bike before the Cote de Domancy; cost reported only as 'around 10 seconds or so' / 'a handful of seconds'; exact place and duration not found (it lies inside his T1-T2 or T2-T3 sector)",
+     "source": "https://escapecollective.com/gallery-a-most-decisive-tour-time-trial/"
+    },
+    "Wout van Aert": {
+     "changed": false,
+     "text": "remained on his TT bike throughout",
+     "source": "https://escapecollective.com/gallery-a-most-decisive-tour-time-trial/"
+    },
+    "Neilson Powless": {
+     "changed": false,
+     "text": "rode the whole course on a modified road bike with a disc wheel (single source)",
+     "source": "https://www.cyclingweekly.com/news/live/tour-de-france-stage-16-live-jonas-vingegaard-and-tadej-pogacar-set-to-battle-against-the-clock"
+    },
+    "caveat": "article quotes were read through a summarising fetch tool; treat wording as near-verbatim"
+   }
+  }
+ }
+}

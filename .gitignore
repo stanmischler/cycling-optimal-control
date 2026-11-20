@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Personal recordings (GPS tracks, heart rate, power): not published.
+data/raw/garmin/
+data/raw/versailles/
+
+# Third-party data that may not be redistributed (see data/raw/powerfile/README.txt).
+data/raw/powerfile/*
+!data/raw/powerfile/README.txt
+
+# Verbatim third-party downloads; the rebuilt tracks in *_points.csv are what the code uses.
+data/raw/monaco_nice_2024_cyclingstage_original.gpx
+data/raw/passy_combloux_2023.gpx

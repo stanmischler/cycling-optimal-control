@@ -1,0 +1,10 @@
+numpy
+numba
+casadi
+gpxpy
+matplotlib
+fitdecode
+pytest
+nbformat
+nbconvert
+ipykernel

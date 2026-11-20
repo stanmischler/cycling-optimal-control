@@ -1,0 +1,1861 @@
+idx,lat,lon,elevation_m,distance_m,ele_source_m,origin,tunnel,bridge,road
+0,45.913250,6.706090,577.87,0.0,580.0,cyclingstage,0,0,Avenue Joseph Thoret
+1,45.913580,6.706460,578.04,46.5,580.0,cyclingstage,0,0,Avenue Joseph Thoret
+2,45.913860,6.706760,578.33,85.4,580.0,cyclingstage,0,0,Avenue Joseph Thoret
+3,45.913870,6.706780,578.38,87.3,580.0,cyclingstage,0,0,Avenue Joseph Thoret
+4,45.913870,6.706780,578.38,87.3,580.0,cyclingstage,0,0,Avenue Joseph Thoret
+5,45.913990,6.706940,578.64,105.5,580.0,cyclingstage,0,0,Avenue Joseph Thoret
+6,45.914040,6.707040,578.75,115.0,580.0,cyclingstage,0,0,Avenue Joseph Thoret
+7,45.914100,6.707130,578.86,124.6,580.0,cyclingstage,0,0,Avenue Joseph Thoret
+8,45.914100,6.707130,578.86,124.6,580.0,cyclingstage,0,0,Avenue Joseph Thoret
+9,45.913920,6.707450,579.05,156.5,580.0,cyclingstage,0,0,Avenue des Grandes Platières
+10,45.913690,6.707820,579.26,194.9,580.0,cyclingstage,0,0,Avenue des Grandes Platières
+11,45.913620,6.707940,579.24,207.0,580.0,cyclingstage,0,0,Avenue des Grandes Platières
+12,45.913490,6.708180,578.90,230.5,580.0,cyclingstage,0,0,Avenue des Grandes Platières
+13,45.913420,6.708260,578.60,240.5,580.0,cyclingstage,0,0,Avenue des Grandes Platières
+14,45.913370,6.708360,578.35,250.0,580.0,cyclingstage,0,0,Avenue des Grandes Platières
+15,45.913370,6.708360,578.35,250.0,580.0,cyclingstage,0,0,Avenue des Grandes Platières
+16,45.913390,6.708390,578.35,253.2,580.0,cyclingstage,0,0,Avenue des Grandes Platières
+17,45.913420,6.708430,578.62,257.7,580.0,cyclingstage,0,0,Avenue des Grandes Platières
+18,45.913430,6.708480,578.64,261.8,580.0,cyclingstage,0,0,Avenue des Grandes Platières
+19,45.913450,6.708530,578.79,266.2,580.0,cyclingstage,0,0,Carrefour de l'Aérodrome
+20,45.913450,6.708570,578.97,269.3,580.0,cyclingstage,0,0,Avenue de l'Aérodrome
+21,45.913740,6.708760,579.51,304.8,581.0,cyclingstage,0,0,Avenue de l'Aérodrome
+22,45.913970,6.708910,579.75,332.9,581.0,cyclingstage,0,0,Avenue de l'Aérodrome
+23,45.914230,6.709080,580.12,364.6,581.0,cyclingstage,0,0,Avenue de l'Aérodrome
+24,45.914570,6.709300,580.44,406.1,582.0,cyclingstage,0,0,Avenue de l'Aérodrome
+25,45.914840,6.709480,580.76,439.2,582.0,cyclingstage,0,0,Avenue de l'Aérodrome
+26,45.915210,6.709730,581.44,484.6,583.0,cyclingstage,0,0,Avenue de l'Aérodrome
+27,45.915400,6.709860,581.20,508.0,583.0,cyclingstage,0,0,Avenue de l'Aérodrome
+28,45.915400,6.709860,581.20,508.0,583.0,cyclingstage,0,0,Avenue de l'Aérodrome
+29,45.915730,6.710070,581.22,548.2,584.0,cyclingstage,0,0,Avenue de l'Aérodrome
+30,45.916180,6.710360,581.79,603.0,584.0,cyclingstage,0,0,Avenue de l'Aérodrome
+31,45.916390,6.710500,582.21,628.7,584.0,cyclingstage,0,0,Avenue de l'Aérodrome
+32,45.917030,6.710920,583.07,707.0,584.0,cyclingstage,0,0,Avenue de l'Aérodrome
+33,45.917160,6.711010,583.20,723.0,584.0,cyclingstage,0,0,Avenue de l'Aérodrome
+34,45.917430,6.711180,583.44,755.8,584.0,cyclingstage,0,0,Avenue de l'Aérodrome
+35,45.917710,6.711370,583.70,790.2,585.0,cyclingstage,0,0,Avenue de l'Aérodrome
+36,45.917850,6.711460,583.81,807.3,585.0,cyclingstage,0,0,Avenue de l'Aérodrome
+37,45.918070,6.711610,583.89,834.3,585.0,cyclingstage,0,0,Avenue de l'Aérodrome
+38,45.918520,6.711920,583.89,889.8,585.0,cyclingstage,0,0,Avenue de l'Aérodrome
+39,45.918570,6.711960,583.90,896.2,586.0,cyclingstage,0,0,Avenue de l'Aérodrome
+40,45.918590,6.711970,583.90,898.6,586.0,cyclingstage,0,0,Avenue de l'Aérodrome
+41,45.919190,6.712370,584.21,972.1,586.0,cyclingstage,0,0,Avenue de l'Aérodrome
+42,45.919400,6.712510,584.45,997.8,586.0,cyclingstage,0,0,Avenue de l'Aérodrome
+43,45.919720,6.712740,585.08,1037.6,586.0,cyclingstage,0,0,Avenue de l'Aérodrome
+44,45.919810,6.712790,585.21,1048.3,587.0,cyclingstage,0,0,Avenue de l'Aérodrome
+45,45.919890,6.712840,585.30,1058.0,587.0,cyclingstage,0,0,Avenue de l'Aérodrome
+46,45.920480,6.713230,586.42,1130.3,587.0,cyclingstage,0,0,Avenue de l'Aérodrome
+47,45.920790,6.713410,587.00,1167.4,587.0,cyclingstage,0,0,Avenue de l'Aérodrome
+48,45.920890,6.713480,587.26,1179.8,587.0,cyclingstage,0,0,Avenue de l'Aérodrome
+49,45.920960,6.713540,587.34,1188.9,587.0,cyclingstage,0,0,Avenue de l'Aérodrome
+50,45.921020,6.713610,587.49,1197.5,587.0,cyclingstage,0,0,Avenue de l'Aérodrome
+51,45.921130,6.713670,587.60,1210.5,587.0,cyclingstage,0,0,Avenue de l'Aérodrome
+52,45.921240,6.713740,587.74,1223.9,588.0,cyclingstage,0,0,
+53,45.921240,6.713740,587.74,1223.9,588.0,cyclingstage,0,0,
+54,45.921250,6.713760,587.74,1225.8,588.0,cyclingstage,0,0,
+55,45.921270,6.713780,587.79,1228.5,588.0,cyclingstage,0,0,
+56,45.921300,6.713810,587.81,1232.6,588.0,cyclingstage,0,0,
+57,45.921350,6.713830,587.87,1238.4,588.0,cyclingstage,0,0,
+58,45.921390,6.713840,587.87,1242.9,588.0,cyclingstage,0,0,Grande Rue Salvador Allende
+59,45.921440,6.713920,587.98,1251.2,588.0,cyclingstage,0,0,Grande Rue Salvador Allende
+60,45.921500,6.713990,588.07,1259.8,588.0,cyclingstage,0,0,Grande Rue Salvador Allende
+61,45.921590,6.714090,588.20,1272.4,588.0,cyclingstage,0,0,Grande Rue Salvador Allende
+62,45.921610,6.714090,588.24,1274.7,588.0,cyclingstage,0,0,Grande Rue Salvador Allende
+63,45.921630,6.714090,588.24,1276.9,588.0,cyclingstage,0,0,Grande Rue Salvador Allende
+64,45.922100,6.714550,588.82,1340.1,588.0,cyclingstage,0,0,Grande Rue Salvador Allende
+65,45.922150,6.714590,588.88,1346.5,588.0,cyclingstage,0,0,Grande Rue Salvador Allende
+66,45.922560,6.715030,589.13,1403.4,588.0,cyclingstage,0,0,Grande Rue Salvador Allende
+67,45.922590,6.715050,589.06,1407.0,588.0,cyclingstage,0,0,Grande Rue Salvador Allende
+68,45.922990,6.715430,588.92,1460.4,589.0,cyclingstage,0,0,Grande Rue Salvador Allende
+69,45.923140,6.715580,589.05,1480.7,589.0,cyclingstage,0,0,Grande Rue Salvador Allende
+70,45.923230,6.715680,589.18,1493.3,589.0,cyclingstage,0,0,Grande Rue Salvador Allende
+71,45.923290,6.715730,589.39,1501.0,589.0,cyclingstage,0,0,Grande Rue Salvador Allende
+72,45.923430,6.715870,589.75,1520.0,590.0,cyclingstage,0,0,Grande Rue Salvador Allende
+73,45.923490,6.715930,589.84,1528.1,590.0,cyclingstage,0,0,Grande Rue Salvador Allende
+74,45.923730,6.716170,590.31,1560.6,590.0,cyclingstage,0,0,Grande Rue Salvador Allende
+75,45.923870,6.716300,590.58,1579.2,590.0,cyclingstage,0,0,Grande Rue Salvador Allende
+76,45.923960,6.716400,590.73,1591.8,590.0,cyclingstage,0,0,Grande Rue Salvador Allende
+77,45.924850,6.717290,593.23,1712.4,591.0,cyclingstage,0,0,Grande Rue Salvador Allende
+78,45.924960,6.717400,593.54,1727.3,592.0,cyclingstage,0,0,Grande Rue Salvador Allende
+79,45.925220,6.717640,594.17,1761.6,592.0,cyclingstage,0,0,Grande Rue Salvador Allende
+80,45.925380,6.717800,594.46,1783.3,593.0,cyclingstage,0,0,Grande Rue Salvador Allende
+81,45.925920,6.718360,595.28,1857.3,593.0,cyclingstage,0,0,Grande Rue Salvador Allende
+82,45.926200,6.718660,595.49,1896.2,594.0,cyclingstage,0,0,Grande Rue Salvador Allende
+83,45.926740,6.719200,595.99,1969.3,594.0,cyclingstage,0,0,Grande Rue Salvador Allende
+84,45.926800,6.719260,596.09,1977.4,595.0,cyclingstage,0,0,Grande Rue Salvador Allende
+85,45.927240,6.719670,596.61,2035.7,595.0,cyclingstage,0,0,Grande Rue Salvador Allende
+86,45.927260,6.719690,596.63,2038.4,596.0,cyclingstage,0,0,Grande Rue Salvador Allende
+87,45.927350,6.719800,596.76,2051.6,596.0,cyclingstage,0,0,Grande Rue Salvador Allende
+88,45.927400,6.719900,596.88,2061.1,597.0,cyclingstage,0,0,Grande Rue Salvador Allende
+89,45.927450,6.720070,597.05,2075.4,597.0,cyclingstage,0,0,Grande Rue Salvador Allende
+90,45.927460,6.720110,597.07,2078.7,597.0,cyclingstage,0,0,Grande Rue Salvador Allende
+91,45.927460,6.720110,597.07,2078.7,597.0,cyclingstage,0,0,Grande Rue Salvador Allende
+92,45.927510,6.720480,597.28,2107.8,598.0,cyclingstage,0,0,Rue Paul Corbin
+93,45.927540,6.720700,597.47,2125.2,598.0,cyclingstage,0,0,Rue Paul Corbin
+94,45.927610,6.721210,598.10,2165.4,598.0,cyclingstage,0,0,Rue Paul Corbin
+95,45.927650,6.721450,598.78,2184.5,599.0,cyclingstage,0,0,Rue Paul Corbin
+96,45.927700,6.721820,599.35,2213.6,599.0,cyclingstage,0,0,Rue Paul Corbin
+97,45.927710,6.721860,599.32,2216.9,600.0,cyclingstage,0,0,Rue Paul Corbin
+98,45.927760,6.722210,599.69,2244.5,600.0,cyclingstage,0,0,Rue Paul Corbin
+99,45.927790,6.722440,599.93,2262.6,601.0,cyclingstage,0,0,Rue Paul Corbin
+100,45.927840,6.722700,600.14,2283.5,601.0,cyclingstage,0,0,Rue Paul Corbin
+101,45.927870,6.722890,600.30,2298.6,602.0,cyclingstage,0,0,Rue Paul Corbin
+102,45.927930,6.723140,600.48,2319.0,602.0,cyclingstage,0,0,Rue Paul Corbin
+103,45.927990,6.723380,600.68,2338.7,603.0,cyclingstage,0,0,Rue Paul Corbin
+104,45.928030,6.723540,600.82,2351.9,603.0,cyclingstage,0,0,Rue Paul Corbin
+105,45.928040,6.723640,600.92,2359.7,604.0,cyclingstage,0,0,Rue Paul Corbin
+106,45.928040,6.723640,600.92,2359.7,604.0,cyclingstage,0,0,Rue Paul Corbin
+107,45.928280,6.723570,601.30,2386.9,605.0,cyclingstage,0,0,Route des Soudans
+108,45.928340,6.723560,601.38,2393.6,605.0,cyclingstage,0,0,Route des Soudans
+109,45.928640,6.723480,601.68,2427.6,606.0,cyclingstage,0,0,Route des Soudans
+110,45.928790,6.723440,601.86,2444.5,606.0,cyclingstage,0,0,Route des Soudans
+111,45.928970,6.723400,602.54,2464.8,607.0,cyclingstage,0,0,Route des Soudans
+112,45.928990,6.723400,602.83,2467.0,607.0,cyclingstage,0,0,Route des Soudans
+113,45.929070,6.723380,603.16,2476.0,607.0,cyclingstage,0,0,Route des Soudans
+114,45.929480,6.723260,607.12,2522.6,608.0,cyclingstage,0,0,Route des Soudans
+115,45.929570,6.723240,607.83,2532.7,609.0,cyclingstage,0,0,Route des Soudans
+116,45.929650,6.723230,608.56,2541.6,609.0,cyclingstage,0,0,Route des Soudans
+117,45.929780,6.723250,609.81,2556.2,610.0,cyclingstage,0,0,Route des Soudans
+118,45.929840,6.723280,610.20,2563.2,610.0,cyclingstage,0,0,Route des Soudans
+119,45.929840,6.723280,610.20,2563.2,610.0,cyclingstage,0,0,Route des Soudans
+120,45.929910,6.723330,611.06,2571.9,610.0,cyclingstage,0,0,Route des Soudans
+121,45.930010,6.723450,612.06,2586.4,611.0,cyclingstage,0,0,Route des Soudans
+122,45.930040,6.723510,612.49,2592.1,611.0,cyclingstage,0,0,Route des Soudans
+123,45.930080,6.723620,612.88,2601.7,611.0,cyclingstage,0,0,Route des Soudans
+124,45.930110,6.723750,613.24,2612.3,612.0,cyclingstage,0,0,Route des Soudans
+125,45.930160,6.723940,613.56,2628.0,613.0,cyclingstage,0,0,Route des Soudans
+126,45.930240,6.724230,614.76,2652.2,614.0,cyclingstage,0,0,Route des Soudans
+127,45.930250,6.724280,614.72,2656.2,615.0,cyclingstage,0,0,Route des Soudans
+128,45.930310,6.724410,615.60,2668.2,615.0,cyclingstage,0,0,Route des Soudans
+129,45.930340,6.724440,616.55,2672.3,616.0,cyclingstage,0,0,Route des Soudans
+130,45.930400,6.724480,617.30,2679.7,617.0,cyclingstage,0,0,Route des Soudans
+131,45.930490,6.724480,618.78,2689.7,617.0,cyclingstage,0,0,Route des Soudans
+132,45.930590,6.724420,620.91,2701.7,618.0,cyclingstage,0,0,Route des Soudans
+133,45.930650,6.724320,621.82,2711.9,619.0,cyclingstage,0,0,Route des Soudans
+134,45.930710,6.724100,624.04,2730.2,620.0,cyclingstage,0,0,Route des Soudans
+135,45.930840,6.723500,628.75,2778.8,622.0,cyclingstage,0,0,Route des Soudans
+136,45.930860,6.723380,628.93,2788.4,623.0,cyclingstage,0,0,Route des Soudans
+137,45.930870,6.723350,629.01,2790.9,624.0,cyclingstage,0,0,Route des Soudans
+138,45.930950,6.723000,632.76,2819.4,626.0,cyclingstage,0,0,Route des Soudans
+139,45.930980,6.722870,634.50,2830.0,627.0,cyclingstage,0,0,Route des Soudans
+140,45.931040,6.722610,636.88,2851.2,628.0,cyclingstage,0,0,Route des Soudans
+141,45.931060,6.722390,639.60,2868.4,629.0,cyclingstage,0,0,Route des Soudans
+142,45.931060,6.722140,642.25,2887.7,630.0,cyclingstage,0,0,Route des Soudans
+143,45.931030,6.721910,644.14,2905.8,631.0,cyclingstage,0,0,Route des Soudans
+144,45.930970,6.721590,646.60,2931.4,632.0,cyclingstage,0,0,Route des Soudans
+145,45.930950,6.721460,645.97,2941.7,633.0,cyclingstage,0,0,Route des Soudans
+146,45.930940,6.721350,646.69,2950.3,634.0,cyclingstage,0,0,Route des Soudans
+147,45.930950,6.721240,647.03,2958.9,635.0,cyclingstage,0,0,Route des Soudans
+148,45.930980,6.721110,649.10,2969.5,635.0,cyclingstage,0,0,Route des Soudans
+149,45.931040,6.720960,650.96,2982.9,636.0,cyclingstage,0,0,Route des Soudans
+150,45.931090,6.720820,652.50,2995.0,637.0,cyclingstage,0,0,Route des Soudans
+151,45.931100,6.720810,654.11,2996.4,637.0,cyclingstage,0,0,Route des Soudans
+152,45.931130,6.720720,653.83,3004.1,638.0,cyclingstage,0,0,Route des Soudans
+153,45.931160,6.720590,654.71,3014.7,638.0,cyclingstage,0,0,Route des Soudans
+154,45.931200,6.720320,653.83,3036.0,639.0,cyclingstage,0,0,Route des Soudans
+155,45.931200,6.720280,653.40,3039.1,640.0,cyclingstage,0,0,Route des Soudans
+156,45.931230,6.720200,654.32,3046.2,640.0,cyclingstage,0,0,Route des Soudans
+157,45.931270,6.720120,654.71,3053.8,641.0,cyclingstage,0,0,Route des Soudans
+158,45.931270,6.720110,654.18,3054.6,642.0,cyclingstage,0,0,Route des Soudans
+159,45.931290,6.720100,654.18,3056.9,642.0,cyclingstage,0,0,Route des Soudans
+160,45.931310,6.720090,655.53,3059.3,642.0,cyclingstage,0,0,Route des Soudans
+161,45.931320,6.720080,655.53,3060.6,643.0,cyclingstage,0,0,Route des Soudans
+162,45.931330,6.720080,655.53,3061.7,643.0,cyclingstage,0,0,Route des Soudans
+163,45.931390,6.720090,656.88,3068.4,643.0,cyclingstage,0,0,Route des Soudans
+164,45.931400,6.720090,658.22,3069.6,644.0,cyclingstage,0,0,Route des Soudans
+165,45.931450,6.720110,659.53,3075.3,644.0,cyclingstage,0,0,Route des Soudans
+166,45.931460,6.720120,660.13,3076.7,644.0,cyclingstage,0,0,Route des Soudans
+167,45.931480,6.720150,661.44,3079.9,645.0,cyclingstage,0,0,Route des Soudans
+168,45.931500,6.720170,662.01,3082.6,645.0,cyclingstage,0,0,Route des Soudans
+169,45.931520,6.720220,662.55,3087.1,645.0,cyclingstage,0,0,Route des Soudans
+170,45.931520,6.720280,663.05,3091.7,646.0,cyclingstage,0,0,Route des Soudans
+171,45.931530,6.720380,665.71,3099.5,646.0,cyclingstage,0,0,Route des Soudans
+172,45.931510,6.720580,665.81,3115.1,647.0,cyclingstage,0,0,Route des Soudans
+173,45.931500,6.720750,667.21,3128.3,649.0,cyclingstage,0,0,Route des Soudans
+174,45.931500,6.720960,668.92,3144.6,650.0,cyclingstage,0,0,Route des Soudans
+175,45.931530,6.721120,670.64,3157.4,651.0,cyclingstage,0,0,Route des Soudans
+176,45.931530,6.721150,670.58,3159.7,652.0,cyclingstage,0,0,Route des Soudans
+177,45.931560,6.721270,670.32,3169.6,653.0,cyclingstage,0,0,Route des Soudans
+178,45.931630,6.721460,672.04,3186.2,655.0,cyclingstage,0,0,Route des Soudans
+179,45.931740,6.721720,674.98,3209.7,657.0,cyclingstage,0,0,Route des Soudans
+180,45.931790,6.721830,675.92,3219.9,658.0,cyclingstage,0,0,Route des Soudans
+181,45.931840,6.721940,676.54,3230.1,660.0,cyclingstage,0,0,Route des Soudans
+182,45.931850,6.721960,676.24,3232.0,661.0,cyclingstage,0,0,Route des Soudans
+183,45.931860,6.721970,676.24,3233.3,661.0,cyclingstage,0,0,Route des Soudans
+184,45.931900,6.722030,677.23,3239.8,662.0,cyclingstage,0,0,Route des Soudans
+185,45.931930,6.722060,678.20,3243.8,663.0,cyclingstage,0,0,Route des Soudans
+186,45.931960,6.722090,679.19,3247.9,663.0,cyclingstage,0,0,Route des Soudans
+187,45.931970,6.722100,679.19,3249.2,664.0,cyclingstage,0,0,Route des Soudans
+188,45.931990,6.722100,679.19,3251.5,664.0,cyclingstage,0,0,Route des Soudans
+189,45.932020,6.722100,680.56,3254.8,665.0,cyclingstage,0,0,Route des Soudans
+190,45.932080,6.722100,683.28,3261.5,666.0,cyclingstage,0,0,Route des Soudans
+191,45.932090,6.722090,683.28,3262.8,666.0,cyclingstage,0,0,Route des Soudans
+192,45.932100,6.722090,683.28,3263.9,666.0,cyclingstage,0,0,Route des Soudans
+193,45.932150,6.722030,685.15,3271.2,667.0,cyclingstage,0,0,Route des Soudans
+194,45.932190,6.721970,686.63,3277.6,668.0,cyclingstage,0,0,Route des Soudans
+195,45.932200,6.721940,686.72,3280.2,668.0,cyclingstage,0,0,Route des Soudans
+196,45.932250,6.721820,688.03,3291.0,669.0,cyclingstage,0,0,Route des Soudans
+197,45.932290,6.721720,689.11,3299.9,671.0,cyclingstage,0,0,Route des Soudans
+198,45.932380,6.721460,691.54,3322.4,672.0,cyclingstage,0,0,Route des Soudans
+199,45.932450,6.721260,691.54,3339.7,675.0,cyclingstage,0,0,Route des Soudans
+200,45.932490,6.721160,691.94,3348.6,676.0,cyclingstage,0,0,Route des Soudans
+201,45.932540,6.721040,691.98,3359.4,678.0,cyclingstage,0,0,Route des Soudans
+202,45.932550,6.721010,691.71,3362.0,680.0,cyclingstage,0,0,Route des Soudans
+203,45.932600,6.720940,693.07,3369.8,681.0,cyclingstage,0,0,Route des Soudans
+204,45.932650,6.720900,693.64,3376.1,682.0,cyclingstage,0,0,Route des Soudans
+205,45.932690,6.720890,694.57,3380.6,683.0,cyclingstage,0,0,Route des Soudans
+206,45.932720,6.720900,694.57,3384.1,684.0,cyclingstage,0,0,Route des Soudans
+207,45.932760,6.720910,695.56,3388.6,685.0,cyclingstage,0,0,Route des Soudans
+208,45.932800,6.720930,696.90,3393.3,686.0,cyclingstage,0,0,Route des Soudans
+209,45.932830,6.720960,697.98,3397.4,686.0,cyclingstage,0,0,Route des Soudans
+210,45.932840,6.720990,698.30,3399.9,687.0,cyclingstage,0,0,Route des Soudans
+211,45.932850,6.721000,698.30,3401.3,687.0,cyclingstage,0,0,Route des Soudans
+212,45.932870,6.721070,700.08,3407.1,688.0,cyclingstage,0,0,Route des Soudans
+213,45.932890,6.721200,701.06,3417.4,689.0,cyclingstage,0,0,Route des Soudans
+214,45.932880,6.721240,701.39,3420.7,690.0,cyclingstage,0,0,Route des Soudans
+215,45.932870,6.721480,703.01,3439.3,691.0,cyclingstage,0,0,Route des Soudans
+216,45.932870,6.721500,703.31,3440.9,692.0,cyclingstage,0,0,Route des Soudans
+217,45.932830,6.721900,704.44,3472.1,694.0,cyclingstage,0,0,Route des Soudans
+218,45.932830,6.722010,704.94,3480.6,695.0,cyclingstage,0,0,Route des Soudans
+219,45.932820,6.722270,705.50,3500.8,697.0,cyclingstage,0,0,Route des Soudans
+220,45.932820,6.722300,705.50,3503.1,698.0,cyclingstage,0,0,Route des Soudans
+221,45.932830,6.722490,705.70,3517.8,699.0,cyclingstage,0,0,Route des Soudans
+222,45.932860,6.722630,706.62,3529.1,700.0,cyclingstage,0,0,Route des Soudans
+223,45.932920,6.722780,706.92,3542.5,701.0,cyclingstage,0,0,Route des Soudans
+224,45.932990,6.722890,708.15,3554.1,702.0,cyclingstage,0,0,Route des Soudans
+225,45.933030,6.722940,708.66,3560.0,703.0,cyclingstage,0,0,Route des Soudans
+226,45.933090,6.723000,708.70,3568.1,704.0,cyclingstage,0,0,Route des Soudans
+227,45.933240,6.723100,711.60,3586.5,705.0,cyclingstage,0,0,Route des Soudans
+228,45.933450,6.723210,714.65,3611.3,707.0,cyclingstage,0,0,Route des Soudans
+229,45.933580,6.723280,717.61,3626.7,708.0,cyclingstage,0,0,Route des Soudans
+230,45.933630,6.723310,719.52,3632.8,709.0,cyclingstage,0,0,Route des Soudans
+231,45.933740,6.723350,721.49,3645.4,710.0,cyclingstage,0,0,Route des Soudans
+232,45.933760,6.723350,722.63,3647.6,711.0,cyclingstage,0,0,Route des Soudans
+233,45.933830,6.723380,723.61,3655.7,712.0,cyclingstage,0,0,Route des Soudans
+234,45.933870,6.723380,724.81,3660.2,712.0,cyclingstage,0,0,Route des Soudans
+235,45.933900,6.723380,726.02,3663.5,713.0,cyclingstage,0,0,Route des Soudans
+236,45.933910,6.723380,726.02,3664.6,713.0,cyclingstage,0,0,Route des Soudans
+237,45.933920,6.723380,726.02,3665.7,713.0,cyclingstage,0,0,Route des Soudans
+238,45.933940,6.723360,727.33,3668.5,714.0,cyclingstage,0,0,Route des Soudans
+239,45.933950,6.723350,727.33,3669.8,714.0,cyclingstage,0,0,Route des Soudans
+240,45.933970,6.723310,728.65,3673.6,714.0,cyclingstage,0,0,Route des Soudans
+241,45.933970,6.723300,728.65,3674.4,714.0,cyclingstage,0,0,Route des Soudans
+242,45.933970,6.723270,728.82,3676.7,714.0,cyclingstage,0,0,Route des Soudans
+243,45.933970,6.723260,728.82,3677.5,714.0,cyclingstage,0,0,Route des Soudans
+244,45.933970,6.723250,728.82,3678.3,714.0,cyclingstage,0,0,Route des Soudans
+245,45.933970,6.723240,729.03,3679.0,714.0,cyclingstage,0,0,Route des Soudans
+246,45.933950,6.723160,728.38,3685.6,715.0,cyclingstage,0,0,Route des Soudans
+247,45.933890,6.722950,728.43,3703.2,715.0,cyclingstage,0,0,Route des Soudans
+248,45.933880,6.722940,727.55,3704.5,715.0,cyclingstage,0,0,Route des Soudans
+249,45.933830,6.722780,727.21,3718.1,716.0,cyclingstage,0,0,Route des Soudans
+250,45.933810,6.722670,728.01,3726.9,717.0,cyclingstage,0,0,Route des Soudans
+251,45.933820,6.722600,728.47,3732.4,717.0,cyclingstage,0,0,Route des Soudans
+252,45.933830,6.722500,728.87,3740.2,717.0,cyclingstage,0,0,Route des Soudans
+253,45.933870,6.722360,730.69,3751.9,718.0,cyclingstage,0,0,Route des Soudans
+254,45.933940,6.722160,733.96,3769.2,719.0,cyclingstage,0,0,Route des Soudans
+255,45.933980,6.722050,735.54,3778.8,719.0,cyclingstage,0,0,Route des Soudans
+256,45.934000,6.721930,735.56,3788.4,720.0,cyclingstage,0,0,Route des Soudans
+257,45.934040,6.721700,736.98,3806.7,721.0,cyclingstage,0,0,Route des Soudans
+258,45.934070,6.721530,738.57,3820.3,722.0,cyclingstage,0,0,Route des Soudans
+259,45.934070,6.721480,738.68,3824.1,722.0,cyclingstage,0,0,Route des Soudans
+260,45.934070,6.721450,738.68,3826.5,723.0,cyclingstage,0,0,Route des Soudans
+261,45.934040,6.721310,737.65,3837.8,723.0,cyclingstage,0,0,Route des Soudans
+262,45.934010,6.721230,737.83,3844.8,724.0,cyclingstage,0,0,Route des Soudans
+263,45.933980,6.721120,736.96,3854.0,724.0,cyclingstage,0,0,Route des Soudans
+264,45.933930,6.720920,736.98,3870.4,725.0,cyclingstage,0,0,Route des Soudans
+265,45.933880,6.720780,735.04,3882.6,724.0,cyclingstage,0,0,Route des Soudans
+266,45.933870,6.720760,735.04,3884.5,724.0,cyclingstage,0,0,Route des Soudans
+267,45.933820,6.720590,735.55,3898.7,724.0,cyclingstage,0,0,Route des Soudans
+268,45.933800,6.720520,736.86,3904.6,724.0,cyclingstage,0,0,Route des Soudans
+269,45.933770,6.720420,736.43,3913.0,724.0,cyclingstage,0,0,Route des Soudans
+270,45.933730,6.720280,737.32,3924.7,723.0,cyclingstage,0,0,Route des Soudans
+271,45.933700,6.720150,737.35,3935.3,723.0,cyclingstage,0,0,Route des Soudans
+272,45.933670,6.720040,738.89,3944.5,722.0,cyclingstage,0,0,Route des Soudans
+273,45.933640,6.719920,739.06,3954.3,722.0,cyclingstage,0,0,Route des Soudans
+274,45.933610,6.719800,739.62,3964.2,722.0,cyclingstage,0,0,Route des Soudans
+275,45.933600,6.719780,739.62,3966.1,721.0,cyclingstage,0,0,Route des Soudans
+276,45.933560,6.719680,740.75,3975.0,721.0,cyclingstage,0,0,Route des Soudans
+277,45.933510,6.719580,741.07,3984.5,721.0,cyclingstage,0,0,Route des Soudans
+278,45.933530,6.719480,743.82,3992.6,720.0,cyclingstage,0,0,Route des Soudans
+279,45.933570,6.719390,748.70,4000.8,720.0,cyclingstage,0,0,Route des Soudans
+280,45.933570,6.719390,748.70,4000.8,720.0,cyclingstage,0,0,Route de Servoz/D 13
+281,45.933520,6.719370,748.20,4006.6,719.0,cyclingstage,0,0,Route de Servoz/D 13
+282,45.933360,6.719350,739.85,4024.5,719.0,cyclingstage,0,0,Route de Servoz/D 13
+283,45.933230,6.719290,736.59,4039.6,718.0,cyclingstage,0,0,Route de Servoz/D 13
+284,45.933140,6.719220,733.45,4051.0,718.0,cyclingstage,0,0,Route de Servoz/D 13
+285,45.933090,6.719140,734.72,4059.3,717.0,cyclingstage,0,0,Route de Servoz/D 13
+286,45.933080,6.719120,736.64,4061.2,717.0,cyclingstage,0,0,Route de Servoz/D 13
+287,45.933030,6.719000,737.65,4072.1,717.0,cyclingstage,0,0,Route de Servoz/D 13
+288,45.933010,6.718910,739.80,4079.4,718.0,cyclingstage,0,0,Route de Servoz/D 13
+289,45.932970,6.718770,741.17,4091.1,719.0,cyclingstage,0,0,Route de Servoz/D 13
+290,45.932890,6.718530,740.53,4111.7,720.0,cyclingstage,0,0,Route de Servoz/D 13
+291,45.932790,6.718240,741.43,4136.7,722.0,cyclingstage,0,0,Route de Servoz/D 13
+292,45.932710,6.717970,742.55,4159.4,724.0,cyclingstage,0,0,Route de Servoz/D 13
+293,45.932700,6.717930,743.55,4162.7,726.0,cyclingstage,0,0,Route de Servoz/D 13
+294,45.932620,6.717630,744.06,4187.5,728.0,cyclingstage,0,0,Route de Servoz/D 13
+295,45.932570,6.717340,743.70,4210.6,730.0,cyclingstage,0,0,Route de Servoz/D 13
+296,45.932550,6.717230,743.23,4219.4,732.0,cyclingstage,0,1,Route de Servoz/D 13
+297,45.932540,6.717210,743.23,4221.3,733.0,cyclingstage,0,1,Route de Servoz/D 13
+298,45.932520,6.717150,743.85,4226.5,734.0,cyclingstage,0,0,Route de Servoz/D 13
+299,45.932490,6.717120,743.19,4230.5,735.0,cyclingstage,0,0,Route de Servoz/D 13
+300,45.932440,6.717090,743.09,4236.6,736.0,cyclingstage,0,0,Route de Servoz/D 13
+301,45.932430,6.717080,743.09,4237.9,736.0,cyclingstage,0,0,Route de Servoz/D 13
+302,45.932400,6.717050,743.22,4242.0,737.0,cyclingstage,0,0,Route de Servoz/D 13
+303,45.932350,6.717020,743.56,4248.0,738.0,cyclingstage,0,0,Route de Servoz/D 13
+304,45.932240,6.716940,743.66,4261.7,739.0,cyclingstage,0,0,Route de Servoz/D 13
+305,45.932110,6.716840,745.70,4278.1,739.0,cyclingstage,0,0,Route de Servoz/D 13
+306,45.931940,6.716730,746.47,4298.8,740.0,cyclingstage,0,0,Route de Servoz/D 13
+307,45.931920,6.716710,747.25,4301.5,741.0,cyclingstage,0,0,Route de Servoz/D 13
+308,45.931830,6.716670,747.48,4312.0,741.0,cyclingstage,0,0,Route de Servoz/D 13
+309,45.931820,6.716660,747.23,4313.4,741.0,cyclingstage,0,0,Route de Servoz/D 13
+310,45.931660,6.716580,747.93,4332.2,742.0,cyclingstage,0,0,Route de Servoz/D 13
+311,45.931610,6.716530,748.37,4339.0,742.0,cyclingstage,0,0,Route de Servoz/D 13
+312,45.931570,6.716460,749.36,4346.0,742.0,cyclingstage,0,0,Route de Servoz/D 13
+313,45.931540,6.716390,749.66,4352.3,742.0,cyclingstage,0,0,Route de Servoz/D 13
+314,45.931550,6.716010,751.48,4381.8,743.0,cyclingstage,0,0,Route de Servoz/D 13
+315,45.931550,6.715980,751.39,4384.1,743.0,cyclingstage,0,0,Route de Servoz/D 13
+316,45.931550,6.715820,750.79,4396.4,743.0,cyclingstage,0,0,Route de Servoz/D 13
+317,45.931560,6.715640,749.97,4410.4,744.0,cyclingstage,0,0,Route de Servoz/D 13
+318,45.931570,6.715590,750.18,4414.4,744.0,cyclingstage,0,0,Route de Servoz/D 13
+319,45.931590,6.715290,748.69,4437.7,744.0,cyclingstage,0,0,Route de Servoz/D 13
+320,45.931590,6.715100,748.38,4452.4,745.0,cyclingstage,0,0,Route de Servoz/D 13
+321,45.931570,6.714950,748.31,4464.3,745.0,cyclingstage,0,0,Route de Servoz/D 13
+322,45.931540,6.714830,747.83,4474.1,745.0,cyclingstage,0,0,Route de Servoz/D 13
+323,45.931490,6.714720,747.39,4484.3,745.0,cyclingstage,0,0,Route de Servoz/D 13
+324,45.931350,6.714490,746.40,4507.9,744.0,cyclingstage,0,0,Route de Servoz/D 13
+325,45.931340,6.714460,745.74,4510.5,743.0,cyclingstage,0,0,Route de Servoz/D 13
+326,45.931320,6.714440,745.98,4513.2,743.0,cyclingstage,0,0,Route de Servoz/D 13
+327,45.931190,6.714230,745.41,4534.9,742.0,cyclingstage,0,0,Route de Servoz/D 13
+328,45.931030,6.713990,744.24,4560.6,741.0,cyclingstage,0,0,Route de Servoz/D 13
+329,45.930920,6.713820,744.15,4578.6,740.0,cyclingstage,0,0,Route de Servoz/D 13
+330,45.930920,6.713820,744.15,4578.6,739.0,cyclingstage,0,0,Route de Servoz/D 13
+331,45.930830,6.713720,742.77,4591.3,738.0,cyclingstage,0,0,Route de Servoz/D 13
+332,45.930730,6.713640,742.37,4604.0,737.0,cyclingstage,0,0,Route de Servoz/D 13
+333,45.930600,6.713560,741.50,4619.7,736.0,cyclingstage,0,0,Route de Servoz/D 13
+334,45.930370,6.713430,740.00,4647.2,735.0,cyclingstage,0,0,Route de Servoz/D 13
+335,45.930240,6.713340,739.18,4663.2,734.0,cyclingstage,0,0,Route de Servoz/D 13
+336,45.930120,6.713230,738.90,4679.1,733.0,cyclingstage,0,0,Route de Servoz/D 13
+337,45.930000,6.713080,738.36,4696.7,732.0,cyclingstage,0,0,Route de Servoz/D 13
+338,45.929890,6.712960,738.52,4712.1,731.0,cyclingstage,0,0,Route de Servoz/D 13
+339,45.929750,6.712850,735.83,4729.8,730.0,cyclingstage,0,0,Route de Servoz/D 13
+340,45.929670,6.712790,733.97,4739.9,729.0,cyclingstage,0,0,Route de Servoz/D 13
+341,45.929550,6.712710,732.94,4754.6,728.0,cyclingstage,0,0,Route de Servoz/D 13
+342,45.929450,6.712600,731.31,4768.6,727.0,cyclingstage,0,0,Route de Servoz/D 13
+343,45.929390,6.712520,730.71,4777.7,726.0,cyclingstage,0,0,Route de Servoz/D 13
+344,45.929280,6.712260,732.40,4801.2,725.0,cyclingstage,0,0,Route de Servoz/D 13
+345,45.929190,6.712070,733.04,4819.0,724.0,cyclingstage,0,0,Route de Servoz/D 13
+346,45.929190,6.712060,733.04,4819.8,723.0,cyclingstage,0,0,Route de Servoz/D 13
+347,45.929120,6.711920,734.21,4833.1,722.0,cyclingstage,0,0,Route de Servoz/D 13
+348,45.929030,6.711790,732.00,4847.3,722.0,cyclingstage,0,0,Route de Servoz/D 13
+349,45.928910,6.711660,730.98,4864.0,721.0,cyclingstage,0,0,Route de Servoz/D 13
+350,45.928850,6.711560,729.67,4874.2,720.0,cyclingstage,0,0,Route de Servoz/D 13
+351,45.928780,6.711440,729.89,4886.3,719.0,cyclingstage,0,0,Route de Servoz/D 13
+352,45.928710,6.711240,728.57,4903.6,718.0,cyclingstage,0,0,Route de Servoz/D 13
+353,45.928640,6.710990,727.78,4924.5,718.0,cyclingstage,0,0,Route de Servoz/D 13
+354,45.928570,6.710800,728.33,4941.1,717.0,cyclingstage,0,0,Route de Servoz/D 13
+355,45.928460,6.710430,725.85,4972.2,716.0,cyclingstage,0,0,Route de Servoz/D 13
+356,45.928340,6.710030,724.28,5005.9,715.0,cyclingstage,0,0,Route de Servoz/D 13
+357,45.928290,6.709860,724.50,5020.2,714.0,cyclingstage,0,0,Route de Servoz/D 13
+358,45.928260,6.709760,726.35,5028.6,713.0,cyclingstage,0,0,Route de Servoz/D 13
+359,45.928130,6.709380,723.12,5061.4,713.0,cyclingstage,0,0,Route de Servoz/D 13
+360,45.927990,6.708980,722.63,5096.0,712.0,cyclingstage,0,0,Route de Servoz/D 13
+361,45.927970,6.708930,723.27,5100.5,711.0,cyclingstage,0,0,Route de Servoz/D 13
+362,45.927910,6.708780,721.57,5113.8,710.0,cyclingstage,0,0,Route de Servoz/D 13
+363,45.927820,6.708590,719.81,5131.6,710.0,cyclingstage,0,0,Route de Servoz/D 13
+364,45.927780,6.708490,719.00,5140.5,710.0,cyclingstage,0,0,Route de Servoz/D 13
+365,45.927730,6.708390,718.84,5150.1,709.0,cyclingstage,0,0,Route de Servoz/D 13
+366,45.927630,6.708180,718.07,5169.8,709.0,cyclingstage,0,0,Route de Servoz/D 13
+367,45.927570,6.708000,716.88,5185.2,709.0,cyclingstage,0,0,Route de Servoz/D 13
+368,45.927510,6.707820,717.30,5200.6,709.0,cyclingstage,0,0,Route de Servoz/D 13
+369,45.927460,6.707650,717.50,5214.9,709.0,cyclingstage,0,0,Route de Servoz/D 13
+370,45.927380,6.707250,717.50,5247.1,708.0,cyclingstage,0,0,Route de Servoz/D 13
+371,45.927300,6.706860,716.66,5278.5,708.0,cyclingstage,0,0,Route de Servoz/D 13
+372,45.927300,6.706840,716.80,5280.1,708.0,cyclingstage,0,0,Route de Servoz/D 13
+373,45.927240,6.706610,716.35,5299.1,708.0,cyclingstage,0,0,Route de Servoz/D 13
+374,45.927150,6.706400,714.91,5318.2,707.0,cyclingstage,0,0,Route de Servoz/D 13
+375,45.927030,6.706120,712.49,5343.6,706.0,cyclingstage,0,0,Route de Servoz/D 13
+376,45.926980,6.706000,711.65,5354.4,705.0,cyclingstage,0,0,Route de Servoz/D 13
+377,45.926910,6.705930,709.85,5363.9,705.0,cyclingstage,0,0,Route de Servoz/D 13
+378,45.926850,6.705840,709.22,5373.5,704.0,cyclingstage,0,0,Route de Servoz/D 13
+379,45.926780,6.705760,707.74,5383.5,703.0,cyclingstage,0,0,Route de Servoz/D 13
+380,45.926660,6.705650,705.74,5399.3,702.0,cyclingstage,0,0,Route de Servoz/D 13
+381,45.926570,6.705580,704.07,5410.7,702.0,cyclingstage,0,0,Route de Servoz/D 13
+382,45.926510,6.705510,703.77,5419.3,701.0,cyclingstage,0,0,Route de Servoz/D 13
+383,45.926490,6.705490,702.69,5422.0,700.0,cyclingstage,0,0,Route de Servoz/D 13
+384,45.926420,6.705350,703.17,5435.3,700.0,cyclingstage,0,0,Route de Servoz/D 13
+385,45.926350,6.705190,702.19,5450.0,699.0,cyclingstage,0,0,Route de Servoz/D 13
+386,45.926310,6.705080,702.26,5459.6,698.0,cyclingstage,0,0,Route de Servoz/D 13
+387,45.926300,6.705030,702.63,5463.6,697.0,cyclingstage,0,0,Route de Servoz/D 13
+388,45.926240,6.704800,701.87,5482.6,697.0,cyclingstage,0,0,Route de Servoz/D 13
+389,45.926190,6.704520,702.95,5504.9,696.0,cyclingstage,0,0,Route de Servoz/D 13
+390,45.926180,6.704500,702.95,5506.8,695.0,cyclingstage,0,0,Route de Servoz/D 13
+391,45.926160,6.704370,704.20,5517.1,694.0,cyclingstage,0,0,Route de Servoz/D 13
+392,45.926130,6.704270,704.23,5525.6,694.0,cyclingstage,0,0,Route de Servoz/D 13
+393,45.926090,6.704190,703.85,5533.2,693.0,cyclingstage,0,0,Route de Servoz/D 13
+394,45.926050,6.704140,702.99,5539.1,693.0,cyclingstage,0,0,Route de Servoz/D 13
+395,45.925850,6.703900,698.92,5568.0,692.0,cyclingstage,0,0,Route de Servoz/D 13
+396,45.925730,6.703730,698.13,5586.8,691.0,cyclingstage,0,0,Route de Servoz/D 13
+397,45.925700,6.703690,697.20,5591.3,690.0,cyclingstage,0,0,Route de Servoz/D 13
+398,45.925680,6.703640,696.26,5595.8,690.0,cyclingstage,0,0,Route de Servoz/D 13
+399,45.925630,6.703490,696.46,5608.7,689.0,cyclingstage,0,0,Route de Servoz/D 13
+400,45.925590,6.703230,697.05,5629.2,688.0,cyclingstage,0,0,Route de Servoz/D 13
+401,45.925550,6.703000,696.87,5647.6,688.0,cyclingstage,0,0,Route de Servoz/D 13
+402,45.925530,6.702960,697.05,5651.4,687.0,cyclingstage,0,0,Route de Servoz/D 13
+403,45.925510,6.702820,696.16,5662.5,686.0,cyclingstage,0,0,Route de Servoz/D 13
+404,45.925440,6.702600,695.61,5681.2,686.0,cyclingstage,0,0,Route de Servoz/D 13
+405,45.925400,6.702400,694.77,5697.3,685.0,cyclingstage,0,0,Route de Servoz/D 13
+406,45.925370,6.702190,693.83,5713.8,684.0,cyclingstage,0,0,Route de Servoz/D 13
+407,45.925350,6.702130,693.96,5719.0,684.0,cyclingstage,0,0,Route de Servoz/D 13
+408,45.925330,6.702020,692.58,5727.8,683.0,cyclingstage,0,0,Route de Servoz/D 13
+409,45.925230,6.701720,690.20,5753.5,683.0,cyclingstage,0,0,Route de Servoz/D 13
+410,45.925210,6.701660,688.96,5758.7,683.0,cyclingstage,0,0,Route de Servoz/D 13
+411,45.925190,6.701600,689.20,5763.8,683.0,cyclingstage,0,0,Route de Servoz/D 13
+412,45.925150,6.701440,688.52,5777.0,682.0,cyclingstage,0,0,Route de Servoz/D 13
+413,45.925130,6.701360,688.81,5783.5,682.0,cyclingstage,0,0,Route de Servoz/D 13
+414,45.925110,6.701250,687.78,5792.3,682.0,cyclingstage,0,0,Route de Servoz/D 13
+415,45.925100,6.701100,688.67,5804.0,682.0,cyclingstage,0,0,Route de Servoz/D 13
+416,45.925070,6.700850,687.57,5823.6,682.0,cyclingstage,0,0,Route de Servoz/D 13
+417,45.925050,6.700590,687.68,5843.8,682.0,cyclingstage,0,0,Route de Servoz/D 13
+418,45.925050,6.700560,687.57,5846.2,682.0,cyclingstage,0,0,Route de Servoz/D 13
+419,45.925050,6.700360,686.70,5861.6,682.0,cyclingstage,0,0,Route de Servoz/D 13
+420,45.925050,6.700360,686.70,5861.6,682.0,cyclingstage,0,0,Route de Servoz/D 13
+421,45.925050,6.700330,686.70,5863.9,682.0,cyclingstage,0,0,Route de Servoz/D 13
+422,45.925070,6.700080,685.88,5883.4,682.0,cyclingstage,0,0,Route de Servoz/D 13
+423,45.925070,6.700070,685.87,5884.2,682.0,cyclingstage,0,0,Route de Servoz/D 13
+424,45.925080,6.699960,685.95,5892.8,682.0,cyclingstage,0,0,Route de Servoz/D 13
+425,45.925070,6.699830,686.39,5902.9,682.0,cyclingstage,0,0,Route de Servoz/D 13
+426,45.925070,6.699820,686.39,5903.7,682.0,cyclingstage,0,0,Route de Servoz/D 13
+427,45.925060,6.699780,686.64,5906.9,682.0,cyclingstage,0,0,Route de Servoz/D 13
+428,45.925040,6.699710,685.92,5912.8,682.0,cyclingstage,0,0,Route de Servoz/D 13
+429,45.925010,6.699640,686.71,5919.2,682.0,cyclingstage,0,0,Route de Servoz/D 13
+430,45.924980,6.699590,685.92,5924.3,681.0,cyclingstage,0,0,Route de Servoz/D 13
+431,45.924930,6.699520,685.26,5932.0,681.0,cyclingstage,0,0,Route de Servoz/D 13
+432,45.924840,6.699440,684.32,5943.8,680.0,cyclingstage,0,0,Route de Servoz/D 13
+433,45.924690,6.699300,682.76,5963.7,679.0,cyclingstage,0,0,Route de Servoz/D 13
+434,45.924600,6.699220,682.34,5975.4,678.0,cyclingstage,0,0,Route de Servoz/D 13
+435,45.924530,6.699170,682.67,5984.1,678.0,cyclingstage,0,0,Route de Servoz/D 13
+436,45.924480,6.699130,680.85,5990.5,677.0,cyclingstage,0,0,Route de Servoz/D 13
+437,45.924380,6.699040,680.51,6003.6,676.0,cyclingstage,0,0,Route de Servoz/D 13
+438,45.924370,6.699030,680.51,6005.0,675.0,cyclingstage,0,0,Route de Servoz/D 13
+439,45.924330,6.698990,679.95,6010.4,675.0,cyclingstage,0,0,Route de Servoz/D 13
+440,45.924290,6.698940,679.30,6016.3,674.0,cyclingstage,0,0,Route de Servoz/D 13
+441,45.924260,6.698850,678.96,6024.0,673.0,cyclingstage,0,0,Route de Servoz/D 13
+442,45.924240,6.698800,679.31,6028.5,673.0,cyclingstage,0,0,Route de Servoz/D 13
+443,45.924180,6.698620,678.17,6043.9,672.0,cyclingstage,0,0,Route de Servoz/D 13
+444,45.924110,6.698380,678.18,6064.0,671.0,cyclingstage,0,0,Route de Servoz/D 13
+445,45.924050,6.698140,676.40,6083.8,669.0,cyclingstage,0,0,Route de Servoz/D 13
+446,45.924020,6.697790,676.30,6111.0,668.0,cyclingstage,0,0,Route de Servoz/D 13
+447,45.924020,6.697670,676.06,6120.3,666.0,cyclingstage,0,0,Route de Servoz/D 13
+448,45.924030,6.697620,675.73,6124.3,665.0,cyclingstage,0,0,Route de Servoz/D 13
+449,45.924040,6.697510,675.28,6132.9,665.0,cyclingstage,0,0,Route de Servoz/D 13
+450,45.924070,6.697300,675.02,6149.5,664.0,cyclingstage,0,0,Route de Servoz/D 13
+451,45.924110,6.697150,674.61,6161.9,664.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+452,45.924140,6.697060,674.80,6169.6,664.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+453,45.924170,6.696970,674.05,6177.4,664.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+454,45.924170,6.696950,674.05,6178.9,664.0,cyclingstage,0,1,Avenue Henri Ducoudray/D 13
+455,45.924200,6.696830,673.87,6188.8,664.0,cyclingstage,0,1,Avenue Henri Ducoudray/D 13
+456,45.924260,6.696600,673.40,6207.8,664.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+457,45.924290,6.696490,673.86,6216.9,664.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+458,45.924350,6.696250,674.61,6236.6,664.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+459,45.924360,6.696200,675.58,6240.7,664.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+460,45.924370,6.696140,675.58,6245.4,665.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+461,45.924380,6.696060,675.59,6251.7,665.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+462,45.924390,6.695920,675.66,6262.6,665.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+463,45.924390,6.695780,675.91,6273.4,665.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+464,45.924380,6.695630,676.24,6285.1,665.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+465,45.924360,6.695480,676.87,6296.9,665.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+466,45.924320,6.695200,676.11,6319.0,665.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+467,45.924330,6.695050,676.35,6330.7,665.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+468,45.924360,6.694860,678.20,6345.7,665.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+469,45.924370,6.694790,678.08,6351.3,666.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+470,45.924420,6.694520,679.42,6372.9,666.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+471,45.924440,6.694360,681.25,6385.5,667.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+472,45.924440,6.694180,681.86,6399.4,667.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+473,45.924420,6.694110,680.50,6405.2,667.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+474,45.924400,6.694030,681.19,6411.8,668.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+475,45.924330,6.693880,680.05,6425.8,668.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+476,45.924320,6.693850,680.05,6428.3,668.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+477,45.924190,6.693700,678.16,6446.9,669.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+478,45.924140,6.693520,678.86,6461.9,669.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+479,45.924100,6.693310,679.92,6478.7,670.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+480,45.924050,6.693050,679.82,6499.6,670.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+481,45.924050,6.692950,680.44,6507.3,671.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+482,45.924010,6.692740,680.52,6524.2,671.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+483,45.923990,6.692580,681.49,6536.7,672.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+484,45.923930,6.692240,682.46,6563.9,672.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+485,45.923900,6.691980,682.14,6584.2,673.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+486,45.923900,6.691960,682.22,6585.8,673.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+487,45.923900,6.691790,682.36,6598.9,673.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+488,45.923910,6.691620,682.38,6612.1,674.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+489,45.923950,6.691320,683.41,6635.8,674.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+490,45.923990,6.691120,684.88,6651.9,674.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+491,45.923990,6.691070,684.98,6655.7,675.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+492,45.923990,6.690980,685.22,6662.7,675.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+493,45.923990,6.690940,685.35,6665.8,675.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+494,45.923980,6.690840,685.83,6673.6,675.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+495,45.923950,6.690620,685.22,6690.9,676.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+496,45.923890,6.690280,685.71,6718.1,676.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+497,45.923790,6.689920,683.55,6748.1,677.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+498,45.923710,6.689560,684.83,6777.3,677.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+499,45.923640,6.689320,684.12,6797.4,677.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+500,45.923620,6.689260,682.96,6802.6,678.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+501,45.923560,6.689020,684.69,6822.3,678.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+502,45.923520,6.688890,684.60,6833.3,678.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+503,45.923490,6.688650,685.99,6852.1,678.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+504,45.923470,6.688410,687.83,6870.8,679.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+505,45.923450,6.688260,686.91,6882.7,679.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+506,45.923460,6.688100,688.69,6895.1,679.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+507,45.923470,6.687970,688.51,6905.2,679.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+508,45.923500,6.687830,689.67,6916.5,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+509,45.923520,6.687750,689.46,6923.1,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+510,45.923520,6.687700,689.38,6927.0,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+511,45.923530,6.687580,689.21,6936.3,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+512,45.923540,6.687440,690.31,6947.2,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+513,45.923540,6.687320,690.40,6956.5,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+514,45.923560,6.686990,691.15,6982.1,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+515,45.923570,6.686660,692.56,7007.7,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+516,45.923570,6.686570,692.85,7014.6,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+517,45.923580,6.686200,693.69,7043.3,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+518,45.923580,6.686180,693.69,7044.8,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+519,45.923580,6.686170,693.69,7045.6,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+520,45.923590,6.686170,694.34,7046.7,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+521,45.923590,6.686160,694.48,7047.5,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+522,45.923600,6.686160,694.48,7048.6,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+523,45.923600,6.686150,694.48,7049.4,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+524,45.923610,6.686150,694.48,7050.5,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+525,45.923620,6.686140,694.48,7051.8,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+526,45.923620,6.686130,694.48,7052.6,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+527,45.923620,6.686120,694.64,7053.4,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+528,45.923630,6.686120,695.28,7054.5,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+529,45.923630,6.686110,695.28,7055.3,680.0,cyclingstage,0,0,Avenue Henri Ducoudray/D 13
+530,45.923630,6.686100,695.28,7056.0,680.0,cyclingstage,0,0,Place de la Mairie/D 13
+531,45.923630,6.686090,695.28,7056.8,680.0,cyclingstage,0,0,Place de la Mairie/D 13
+532,45.923630,6.686070,695.45,7058.3,680.0,cyclingstage,0,0,Place de la Mairie/D 13
+533,45.923630,6.686050,695.45,7059.9,680.0,cyclingstage,0,0,Place de la Mairie/D 13
+534,45.923630,6.686040,695.45,7060.7,680.0,cyclingstage,0,0,Place de la Mairie/D 13
+535,45.923630,6.686040,695.45,7060.7,680.0,cyclingstage,0,0,Place de la Mairie/D 13
+536,45.923630,6.686030,695.62,7061.4,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+537,45.923620,6.686030,694.97,7062.6,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+538,45.923620,6.686020,694.97,7063.3,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+539,45.923620,6.686010,694.97,7064.1,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+540,45.923610,6.686010,694.97,7065.2,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+541,45.923610,6.686000,694.97,7066.0,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+542,45.923610,6.686000,694.97,7066.0,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+543,45.923600,6.686000,694.97,7067.1,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+544,45.923600,6.685990,695.15,7067.9,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+545,45.923590,6.685990,695.15,7069.0,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+546,45.923590,6.685980,695.15,7069.8,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+547,45.923580,6.685980,694.51,7070.9,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+548,45.923570,6.685980,694.51,7072.0,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+549,45.923560,6.685980,694.51,7073.1,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+550,45.923550,6.685980,694.51,7074.2,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+551,45.923550,6.685990,694.51,7075.0,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+552,45.923550,6.685990,694.51,7075.0,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+553,45.923430,6.685800,693.41,7094.8,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+554,45.923320,6.685600,692.73,7114.6,679.0,cyclingstage,0,0,Place de la Mairie/D 13
+555,45.923250,6.685510,692.60,7125.0,679.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+556,45.923140,6.685340,691.35,7143.0,679.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+557,45.923110,6.685250,691.79,7150.7,679.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+558,45.923080,6.685110,691.51,7162.0,679.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+559,45.923050,6.684880,691.74,7180.1,678.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+560,45.923020,6.684780,691.12,7188.5,678.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+561,45.922980,6.684570,690.89,7205.4,678.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+562,45.922940,6.684440,691.47,7216.4,678.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+563,45.922910,6.684310,690.84,7227.0,677.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+564,45.922900,6.684290,690.84,7228.9,677.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+565,45.922850,6.684080,689.06,7246.0,677.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+566,45.922840,6.684050,689.23,7248.6,676.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+567,45.922830,6.684020,689.40,7251.2,676.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+568,45.922790,6.683800,688.49,7268.8,676.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+569,45.922780,6.683570,688.32,7286.6,676.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+570,45.922790,6.683350,687.13,7303.6,675.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+571,45.922810,6.683140,686.91,7320.0,675.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+572,45.922850,6.682930,684.18,7336.9,674.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+573,45.922900,6.682800,685.22,7348.4,674.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+574,45.922950,6.682700,684.90,7357.9,674.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+575,45.923030,6.682620,685.73,7368.7,673.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+576,45.923060,6.682580,684.67,7373.3,673.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+577,45.923120,6.682500,685.27,7382.4,673.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+578,45.923160,6.682380,683.82,7392.7,672.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+579,45.923180,6.682290,682.36,7400.0,672.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+580,45.923190,6.682260,681.75,7402.6,672.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+581,45.923200,6.682090,681.40,7415.8,671.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+582,45.923170,6.681880,679.21,7432.3,671.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+583,45.923170,6.681860,679.18,7433.9,671.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+584,45.923130,6.681610,678.13,7453.7,670.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+585,45.923130,6.681600,678.13,7454.5,670.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+586,45.923070,6.681280,678.10,7480.1,669.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+587,45.923070,6.681240,678.41,7483.2,669.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+588,45.923020,6.680970,675.06,7504.8,668.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+589,45.923010,6.680850,674.60,7514.2,668.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+590,45.923010,6.680810,674.25,7517.3,667.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+591,45.923030,6.680660,675.31,7529.1,667.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+592,45.923070,6.680500,676.50,7542.2,667.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+593,45.923120,6.680370,678.15,7553.7,666.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+594,45.923150,6.680290,677.74,7560.8,666.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+595,45.923200,6.680130,681.79,7574.3,665.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+596,45.923210,6.680100,681.38,7576.9,665.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+597,45.923220,6.680060,680.99,7580.2,665.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+598,45.923260,6.679900,682.18,7593.3,664.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+599,45.923280,6.679690,680.71,7609.7,663.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+600,45.923300,6.679390,679.88,7633.1,662.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+601,45.923300,6.679380,679.26,7633.8,661.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+602,45.923310,6.679200,676.15,7647.8,660.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+603,45.923340,6.679010,674.41,7662.9,659.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+604,45.923380,6.678910,673.32,7671.8,659.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+605,45.923390,6.678890,673.32,7673.7,658.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+606,45.923450,6.678800,673.57,7683.3,657.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+607,45.923500,6.678670,676.06,7694.8,656.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+608,45.923520,6.678580,674.20,7702.1,656.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+609,45.923530,6.678550,673.30,7704.7,655.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+610,45.923540,6.678360,672.93,7719.4,654.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+611,45.923540,6.678210,669.19,7731.0,654.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+612,45.923570,6.678080,666.17,7741.6,653.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+613,45.923650,6.677840,665.67,7762.2,652.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+614,45.923670,6.677750,666.15,7769.5,651.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+615,45.923690,6.677670,663.97,7776.1,650.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+616,45.923720,6.677510,663.42,7788.9,649.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+617,45.923720,6.677340,660.39,7802.1,649.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+618,45.923710,6.677160,658.76,7816.0,649.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+619,45.923650,6.676770,655.74,7846.9,648.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+620,45.923640,6.676750,655.88,7848.8,648.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+621,45.923600,6.676500,655.51,7868.7,647.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+622,45.923580,6.676430,654.43,7874.5,647.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+623,45.923550,6.676250,655.19,7888.9,647.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+624,45.923500,6.676000,654.41,7909.0,647.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+625,45.923490,6.675940,653.51,7913.7,646.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+626,45.923450,6.675650,652.50,7936.6,646.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+627,45.923440,6.675490,652.24,7949.0,646.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+628,45.923460,6.675400,652.77,7956.4,646.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+629,45.923460,6.675330,652.53,7961.8,645.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+630,45.923510,6.675170,652.73,7975.3,645.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+631,45.923610,6.674930,653.56,7997.0,645.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+632,45.923610,6.674900,653.47,7999.3,645.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+633,45.923660,6.674720,653.82,8014.3,644.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+634,45.923660,6.674570,653.76,8025.9,644.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+635,45.923640,6.674440,654.00,8036.2,644.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+636,45.923580,6.674240,653.15,8053.0,643.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+637,45.923530,6.674070,652.54,8067.3,642.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+638,45.923400,6.673810,648.37,8092.1,642.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+639,45.923340,6.673670,647.59,8104.8,641.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+640,45.923310,6.673580,646.62,8112.5,640.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+641,45.923310,6.673570,646.62,8113.3,640.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+642,45.923300,6.673520,646.56,8117.3,640.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+643,45.923300,6.673480,646.47,8120.4,639.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+644,45.923300,6.673460,646.34,8122.0,639.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+645,45.923300,6.673350,645.93,8130.5,639.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+646,45.923310,6.673320,645.68,8133.0,639.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+647,45.923310,6.673290,645.38,8135.4,639.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+648,45.923340,6.673190,646.04,8143.8,638.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+649,45.923380,6.673070,646.32,8154.1,638.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+650,45.923450,6.672940,646.53,8166.8,638.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+651,45.923520,6.672810,648.34,8179.5,637.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+652,45.923580,6.672700,648.89,8190.3,637.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+653,45.923610,6.672610,649.37,8198.0,636.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+654,45.923640,6.672520,648.65,8205.8,636.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+655,45.923660,6.672430,646.53,8213.1,635.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+656,45.923670,6.672410,648.76,8215.0,635.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+657,45.923700,6.672220,643.68,8230.0,634.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+658,45.923730,6.672080,643.20,8241.4,634.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+659,45.923740,6.672010,642.28,8246.9,633.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+660,45.923770,6.671930,642.78,8253.9,632.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+661,45.923800,6.671860,643.19,8260.3,632.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+662,45.923820,6.671810,642.20,8264.7,631.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+663,45.923880,6.671720,642.31,8274.4,631.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+664,45.923940,6.671630,644.39,8284.0,630.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+665,45.923970,6.671580,645.36,8289.1,630.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+666,45.923990,6.671520,642.94,8294.3,629.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+667,45.924010,6.671450,641.73,8300.1,629.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+668,45.924020,6.671390,641.56,8304.9,628.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+669,45.924040,6.671280,639.28,8313.7,628.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+670,45.924040,6.671240,638.21,8316.8,627.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+671,45.924090,6.670990,635.12,8336.9,627.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+672,45.924150,6.670680,634.04,8361.8,626.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+673,45.924180,6.670530,631.45,8373.9,625.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+674,45.924210,6.670430,632.19,8382.3,624.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+675,45.924230,6.670340,632.87,8389.6,623.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+676,45.924250,6.670290,632.29,8394.1,622.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+677,45.924270,6.670230,632.90,8399.2,622.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+678,45.924300,6.670160,631.73,8405.6,621.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+679,45.924330,6.670100,632.84,8411.3,621.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+680,45.924340,6.670070,632.24,8413.9,620.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+681,45.924370,6.670000,633.29,8420.2,620.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+682,45.924390,6.669930,632.05,8426.1,620.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+683,45.924410,6.669860,633.04,8431.9,620.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+684,45.924420,6.669800,631.75,8436.7,619.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+685,45.924460,6.669590,630.13,8453.5,619.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+686,45.924480,6.669430,627.89,8466.1,619.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+687,45.924520,6.669160,626.95,8487.5,618.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+688,45.924530,6.669080,627.87,8493.8,618.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+689,45.924580,6.668720,626.96,8522.2,617.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+690,45.924610,6.668600,625.59,8532.0,616.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+691,45.924630,6.668530,626.44,8537.9,616.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+692,45.924650,6.668480,625.28,8542.3,616.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+693,45.924680,6.668390,625.28,8550.1,615.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+694,45.924740,6.668260,625.60,8562.1,615.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+695,45.924800,6.668160,625.28,8572.3,615.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+696,45.924850,6.668060,624.94,8581.9,614.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+697,45.924980,6.667820,623.70,8605.4,614.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+698,45.925070,6.667660,622.56,8621.3,613.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+699,45.925070,6.667650,622.56,8622.1,613.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+700,45.925140,6.667510,622.07,8635.4,613.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+701,45.925170,6.667430,621.42,8642.4,612.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+702,45.925270,6.667220,620.23,8662.1,612.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+703,45.925300,6.667170,620.58,8667.2,612.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+704,45.925360,6.667030,619.66,8680.0,612.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+705,45.925380,6.667010,618.91,8682.7,612.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+706,45.925420,6.666950,618.93,8689.1,612.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+707,45.925470,6.666900,619.49,8695.9,612.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+708,45.925540,6.666850,618.28,8704.6,612.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+709,45.925610,6.666800,618.27,8713.2,612.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+710,45.925990,6.666580,616.61,8758.8,611.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+711,45.926080,6.666520,616.51,8769.8,611.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+712,45.926180,6.666440,615.51,8782.6,611.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+713,45.926280,6.666340,613.94,8796.1,611.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+714,45.926330,6.666280,614.50,8803.3,611.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+715,45.926400,6.666180,613.70,8814.3,611.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+716,45.926440,6.666100,613.14,8821.9,610.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+717,45.926470,6.666040,612.86,8827.6,610.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+718,45.926490,6.665980,612.37,8832.8,610.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+719,45.926500,6.665920,612.88,8837.6,609.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+720,45.926510,6.665850,612.24,8843.1,609.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+721,45.926510,6.665780,611.81,8848.5,609.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+722,45.926510,6.665740,611.68,8851.6,608.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+723,45.926500,6.665690,611.60,8855.6,608.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+724,45.926480,6.665640,610.50,8860.1,607.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+725,45.926460,6.665610,610.56,8863.3,607.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+726,45.926440,6.665570,609.43,8867.1,607.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+727,45.926380,6.665470,608.60,8877.3,606.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+728,45.926350,6.665420,607.54,8882.4,606.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+729,45.926300,6.665340,606.53,8890.7,605.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+730,45.926250,6.665250,605.49,8899.7,605.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+731,45.926220,6.665180,604.46,8906.0,604.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+732,45.926200,6.665080,604.55,8914.1,604.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+733,45.926180,6.664970,603.47,8922.9,603.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+734,45.926160,6.664890,603.49,8929.4,602.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+735,45.926140,6.664750,602.23,8940.5,602.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+736,45.926120,6.664600,601.99,8952.3,601.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+737,45.926110,6.664450,600.44,8964.0,600.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+738,45.926110,6.664350,600.14,8971.7,599.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+739,45.926130,6.664230,600.52,8981.2,598.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+740,45.926150,6.664150,600.04,8987.8,598.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+741,45.926200,6.664030,601.12,8998.6,597.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+742,45.926250,6.663920,600.71,9008.8,596.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+743,45.926320,6.663770,599.87,9022.8,595.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+744,45.926370,6.663660,598.92,9032.9,595.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+745,45.926600,6.663200,597.17,9076.7,593.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+746,45.926690,6.662950,596.04,9098.5,592.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+747,45.926730,6.662810,595.69,9110.2,591.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+748,45.926740,6.662740,595.47,9115.8,590.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+749,45.926750,6.662700,595.26,9119.0,590.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+750,45.926770,6.662570,595.15,9129.3,589.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+751,45.926790,6.662380,594.34,9144.2,588.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+752,45.926780,6.661970,592.48,9175.9,587.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+753,45.926780,6.661780,591.19,9190.6,586.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+754,45.926780,6.661670,590.67,9199.1,586.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+755,45.926780,6.661040,587.00,9247.9,584.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+756,45.926780,6.661010,586.75,9250.2,583.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+757,45.926790,6.660830,585.63,9264.1,582.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+758,45.926810,6.660760,585.35,9270.0,582.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+759,45.926880,6.660580,584.11,9286.0,581.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+760,45.926970,6.660400,583.29,9303.1,581.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+761,45.927200,6.660010,582.38,9342.6,580.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+762,45.927270,6.659890,581.69,9354.8,579.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+763,45.927420,6.659620,580.07,9381.5,578.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+764,45.927470,6.659530,579.51,9390.4,577.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+765,45.927530,6.659420,578.91,9401.2,577.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+766,45.927540,6.659400,578.91,9403.1,576.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+767,45.927620,6.659220,578.13,9419.6,576.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+768,45.927700,6.659020,576.88,9437.5,575.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+769,45.927740,6.658930,576.45,9445.7,575.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+770,45.927770,6.658860,575.96,9452.1,574.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+771,45.927820,6.658770,575.39,9461.0,574.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+772,45.927840,6.658760,575.53,9463.4,574.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+773,45.927860,6.658740,575.16,9466.1,574.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+774,45.927910,6.658660,574.91,9474.4,574.0,cyclingstage,0,1,Avenue Rene Raffort-Deruttet/D 13
+775,45.928060,6.658530,574.08,9493.9,573.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+776,45.928120,6.658490,574.25,9501.2,573.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+777,45.928240,6.658350,573.51,9518.4,573.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+778,45.928350,6.658210,573.29,9534.7,573.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+779,45.928410,6.658130,573.03,9543.8,573.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+780,45.928560,6.657940,572.28,9566.1,573.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+781,45.928750,6.657640,570.12,9597.4,573.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+782,45.928850,6.657450,569.04,9615.9,573.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+783,45.928910,6.657250,568.76,9632.7,573.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+784,45.929000,6.656970,567.05,9656.6,573.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+785,45.929040,6.656790,566.01,9671.2,572.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+786,45.929090,6.656530,564.91,9692.0,571.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+787,45.929130,6.656220,563.24,9716.4,570.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+788,45.929160,6.656090,562.43,9727.0,569.0,cyclingstage,0,0,Avenue Rene Raffort-Deruttet/D 13
+789,45.929170,6.656060,562.18,9729.6,568.0,cyclingstage,0,0,D 13
+790,45.929220,6.655690,560.53,9758.8,567.0,cyclingstage,0,0,D 13
+791,45.929220,6.655580,560.00,9767.3,566.0,cyclingstage,0,0,D 13
+792,45.929220,6.655510,559.50,9772.7,565.0,cyclingstage,0,0,D 13
+793,45.929230,6.655320,559.20,9787.4,564.0,cyclingstage,0,0,D 13
+794,45.929240,6.655180,559.45,9798.3,563.0,cyclingstage,0,0,D 13
+795,45.929240,6.655180,559.45,9798.3,562.0,cyclingstage,0,0,D 13
+796,45.929240,6.655170,559.45,9799.1,562.0,cyclingstage,0,0,D 13
+797,45.929250,6.655170,559.54,9800.2,561.0,cyclingstage,0,0,D 13
+798,45.929250,6.655160,559.54,9801.0,561.0,cyclingstage,0,0,D 13
+799,45.929260,6.655150,559.54,9802.3,561.0,cyclingstage,0,0,Carrefour de la Charlotte
+800,45.929270,6.655140,559.54,9803.7,561.0,cyclingstage,0,0,Carrefour de la Charlotte
+801,45.929270,6.655130,559.52,9804.4,561.0,cyclingstage,0,0,Carrefour de la Charlotte
+802,45.929270,6.655120,559.52,9805.2,561.0,cyclingstage,0,0,Carrefour de la Charlotte
+803,45.929280,6.655110,559.52,9806.6,560.0,cyclingstage,0,0,Carrefour de la Charlotte
+804,45.929280,6.655100,559.52,9807.3,560.0,cyclingstage,0,0,Carrefour de la Charlotte
+805,45.929280,6.655090,559.42,9808.1,560.0,cyclingstage,0,0,Carrefour de la Charlotte
+806,45.929280,6.655080,559.42,9808.9,560.0,cyclingstage,0,0,Carrefour de la Charlotte
+807,45.929280,6.655070,559.42,9809.7,560.0,cyclingstage,0,0,Carrefour de la Charlotte
+808,45.929290,6.655060,559.48,9811.0,560.0,cyclingstage,0,0,Carrefour de la Charlotte
+809,45.929290,6.655050,559.33,9811.8,560.0,cyclingstage,0,0,Carrefour de la Charlotte
+810,45.929290,6.655040,559.33,9812.6,560.0,cyclingstage,0,0,Carrefour de la Charlotte
+811,45.929290,6.655030,559.33,9813.3,560.0,cyclingstage,0,0,Carrefour de la Charlotte
+812,45.929290,6.655020,559.33,9814.1,560.0,cyclingstage,0,0,Route de Passy/D 13
+813,45.929280,6.655010,559.03,9815.5,560.0,cyclingstage,0,0,Route de Passy/D 13
+814,45.929280,6.655000,559.03,9816.2,560.0,cyclingstage,0,0,Route de Passy/D 13
+815,45.929310,6.654860,558.30,9827.6,559.0,cyclingstage,0,0,Route de Passy/D 13
+816,45.929380,6.654760,557.88,9838.5,559.0,cyclingstage,0,0,Route de Passy/D 13
+817,45.929840,6.654300,556.04,9900.8,557.0,cyclingstage,0,0,Route de Passy/D 13
+818,45.930010,6.654100,555.44,9925.3,555.0,cyclingstage,0,0,Route de Passy/D 13
+819,45.930310,6.653810,554.33,9965.5,554.0,cyclingstage,0,0,Route de Passy/D 13
+820,45.930390,6.653720,553.91,9976.8,553.0,cyclingstage,0,0,Route de Passy/D 13
+821,45.930850,6.653260,551.27,10039.1,551.0,cyclingstage,0,0,Route de Passy/D 13
+822,45.930990,6.653150,550.61,10056.8,550.0,cyclingstage,0,0,Route de Passy/D 13
+823,45.931230,6.652900,549.31,10089.8,549.0,cyclingstage,0,0,Route de Passy/D 13
+824,45.931430,6.652720,548.52,10116.0,548.0,cyclingstage,0,0,Route de Passy/D 13
+825,45.931500,6.652660,548.17,10125.1,548.0,cyclingstage,0,0,Route de Passy/D 13
+826,45.931900,6.652290,546.09,10177.9,546.0,cyclingstage,0,0,Route de Passy/D 13
+827,45.931970,6.652220,545.67,10187.4,546.0,cyclingstage,0,0,Route de Passy/D 13
+828,45.932050,6.652140,545.39,10198.3,545.0,cyclingstage,0,0,Route de Passy/D 13
+829,45.932060,6.652140,545.39,10199.4,544.0,cyclingstage,0,0,Route de Passy/D 13
+830,45.932320,6.651890,544.36,10234.2,544.0,cyclingstage,0,0,Route de Passy/D 13
+831,45.932460,6.651730,543.90,10254.0,543.0,cyclingstage,0,0,Route de Passy/D 13
+832,45.932590,6.651590,543.61,10272.1,542.0,cyclingstage,0,0,Route de Passy/D 13
+833,45.933020,6.651080,542.71,10334.1,541.0,cyclingstage,0,0,Route de Passy/D 13
+834,45.933260,6.650800,542.33,10368.5,540.0,cyclingstage,0,0,Route de Passy/D 13
+835,45.933420,6.650610,542.03,10391.5,540.0,cyclingstage,0,0,Route de Passy/D 13
+836,45.933840,6.650080,541.65,10453.7,539.0,cyclingstage,0,0,Route de Passy/D 13
+837,45.933840,6.650080,541.65,10453.7,539.0,cyclingstage,0,0,Route de Passy/D 13
+838,45.934030,6.649850,541.80,10481.3,539.0,cyclingstage,0,0,Route de Passy/D 13
+839,45.934130,6.649720,541.70,10496.3,539.0,cyclingstage,0,0,Route de Passy/D 13
+840,45.934420,6.649370,541.48,10538.4,539.0,cyclingstage,0,0,Route de Passy/D 13
+841,45.934650,6.649080,541.28,10572.4,539.0,cyclingstage,0,0,Route de Passy/D 13
+842,45.934760,6.648960,541.16,10587.7,538.0,cyclingstage,0,0,Route de Passy/D 13
+843,45.935080,6.648560,541.07,10634.9,538.0,cyclingstage,0,0,Route de Passy/D 13
+844,45.935270,6.648330,540.93,10662.5,538.0,cyclingstage,0,0,Route de Passy/D 13
+845,45.935280,6.648310,540.94,10664.4,538.0,cyclingstage,0,0,Route de Passy/D 13
+846,45.935970,6.647490,540.48,10763.9,538.0,cyclingstage,0,0,Route de Passy/D 13
+847,45.936150,6.647270,540.45,10790.2,538.0,cyclingstage,0,0,Route de Passy/D 13
+848,45.936440,6.646920,540.30,10832.3,538.0,cyclingstage,0,0,Route de Passy/D 13
+849,45.936480,6.646870,540.27,10838.2,538.0,cyclingstage,0,0,Route de Passy/D 13
+850,45.936540,6.646800,540.24,10846.8,538.0,cyclingstage,0,0,Route de Passy/D 13
+851,45.936990,6.646260,539.88,10912.0,538.0,cyclingstage,0,0,Route de Passy/D 13
+852,45.937360,6.645820,539.82,10965.4,538.0,cyclingstage,0,0,Route de Passy/D 13
+853,45.937650,6.645490,539.81,11006.5,537.0,cyclingstage,0,0,Route de Passy/D 13
+854,45.937800,6.645350,539.83,11026.4,537.0,cyclingstage,0,0,Route de Passy/D 13
+855,45.937860,6.645300,539.89,11034.1,537.0,cyclingstage,0,0,Route de Passy/D 13
+856,45.938110,6.645080,540.78,11066.7,537.0,cyclingstage,0,0,Route de Passy/D 13
+857,45.938280,6.644960,542.02,11087.7,537.0,cyclingstage,0,0,Route de Passy/D 13
+858,45.938310,6.644930,541.96,11091.8,537.0,cyclingstage,0,0,Route de Passy/D 13
+859,45.938390,6.644840,542.96,11103.1,537.0,cyclingstage,0,0,Route de Passy/D 13
+860,45.938410,6.644800,542.96,11106.9,537.0,cyclingstage,0,0,Route de Passy/D 13
+861,45.938480,6.644690,543.75,11118.4,537.0,cyclingstage,0,0,Route de Passy/D 13
+862,45.938530,6.644600,544.29,11127.3,537.0,cyclingstage,0,0,Route de Passy/D 13
+863,45.938550,6.644550,544.39,11131.8,537.0,cyclingstage,0,0,Route de Passy/D 13
+864,45.938570,6.644480,544.89,11137.7,537.0,cyclingstage,0,0,Route de Passy/D 13
+865,45.938600,6.644430,545.06,11142.8,537.0,cyclingstage,0,0,Route de Passy/D 13
+866,45.938630,6.644320,545.69,11151.9,537.0,cyclingstage,0,0,Route de Passy/D 13
+867,45.938640,6.644280,545.87,11155.2,537.0,cyclingstage,0,0,Route de Passy/D 13
+868,45.938650,6.644200,546.17,11161.5,537.0,cyclingstage,0,0,Route de Passy/D 13
+869,45.938660,6.644190,546.37,11162.8,537.0,cyclingstage,0,0,Route de Passy/D 13
+870,45.938670,6.644050,546.88,11173.7,537.0,cyclingstage,0,0,Route de Passy/D 13
+871,45.938660,6.643860,547.46,11188.4,537.0,cyclingstage,0,0,Route de Passy/D 13
+872,45.938670,6.643600,543.05,11208.6,537.0,cyclingstage,0,1,Route de Passy/D 13
+873,45.938670,6.643490,541.31,11217.1,537.0,cyclingstage,0,1,Route de Passy/D 13
+874,45.938670,6.643370,538.36,11226.4,537.0,cyclingstage,0,1,Route de Passy/D 13
+875,45.938670,6.643350,538.36,11227.9,537.0,cyclingstage,0,1,Route de Passy/D 13
+876,45.938680,6.642870,538.23,11265.0,537.0,cyclingstage,0,1,Route de Passy/D 13
+877,45.938680,6.642790,540.45,11271.2,537.0,cyclingstage,0,1,Route de Passy/D 13
+878,45.938680,6.642540,542.34,11290.6,537.0,cyclingstage,0,1,Route de Passy/D 13
+879,45.938680,6.642450,542.37,11297.5,537.0,cyclingstage,0,1,Route de Passy/D 13
+880,45.938680,6.642400,542.33,11301.4,537.0,cyclingstage,0,1,Route de Passy/D 13
+881,45.938680,6.642200,541.70,11316.9,537.0,cyclingstage,0,1,Route de Passy/D 13
+882,45.938680,6.642160,541.64,11319.9,537.0,cyclingstage,0,1,Route de Passy/D 13
+883,45.938680,6.642150,541.64,11320.7,537.0,cyclingstage,0,1,Route de Passy/D 13
+884,45.938680,6.641940,548.44,11337.0,537.0,cyclingstage,0,1,Route de Passy/D 13
+885,45.938680,6.641810,548.20,11347.0,537.0,cyclingstage,0,0,Route de Passy/D 13
+886,45.938700,6.641710,547.83,11355.1,537.0,cyclingstage,0,0,Route de Passy/D 13
+887,45.938740,6.641570,547.15,11366.8,537.0,cyclingstage,0,0,Route de Passy/D 13
+888,45.938780,6.641450,546.68,11377.0,537.0,cyclingstage,0,0,Route de Passy/D 13
+889,45.938790,6.641420,546.57,11379.6,537.0,cyclingstage,0,0,Route de Passy/D 13
+890,45.938860,6.641300,545.69,11391.7,537.0,cyclingstage,0,0,Route de Passy/D 13
+891,45.938930,6.641210,545.26,11402.2,537.0,cyclingstage,0,0,Route de Passy/D 13
+892,45.939050,6.641090,544.23,11418.4,537.0,cyclingstage,0,0,Route de Passy/D 13
+893,45.939090,6.641060,543.85,11423.4,537.0,cyclingstage,0,0,Route de Passy/D 13
+894,45.939130,6.641020,542.76,11428.9,537.0,cyclingstage,0,0,Route de Passy/D 13
+895,45.939150,6.641000,542.76,11431.6,537.0,cyclingstage,0,0,Route de Passy/D 13
+896,45.939160,6.640990,541.81,11432.9,537.0,cyclingstage,0,0,Route de Passy/D 13
+897,45.939170,6.640980,541.81,11434.3,537.0,cyclingstage,0,0,Route de Passy/D 13
+898,45.939210,6.640940,542.70,11439.7,537.0,cyclingstage,0,0,Route de Passy/D 13
+899,45.939320,6.640830,541.89,11454.6,537.0,cyclingstage,0,0,Route de Passy/D 13
+900,45.939480,6.640710,540.91,11474.7,537.0,cyclingstage,0,0,Route de Passy/D 13
+901,45.939570,6.640650,540.84,11485.7,537.0,cyclingstage,0,0,Route de Passy/D 13
+902,45.939600,6.640620,540.86,11489.8,537.0,cyclingstage,0,0,Route de Passy/D 13
+903,45.939600,6.640620,540.86,11489.8,537.0,cyclingstage,0,0,Route de Passy/D 13
+904,45.939610,6.640630,540.86,11491.1,537.0,cyclingstage,0,0,Route de Passy/D 13
+905,45.939620,6.640640,540.76,11492.5,537.0,cyclingstage,0,0,Carrefour de l'Europe
+906,45.939630,6.640640,540.76,11493.6,537.0,cyclingstage,0,0,Route de l'Arve
+907,45.939640,6.640640,540.60,11494.7,537.0,cyclingstage,0,0,Route de l'Arve
+908,45.939640,6.640650,540.60,11495.5,537.0,cyclingstage,0,0,Route de l'Arve
+909,45.939650,6.640650,540.60,11496.6,537.0,cyclingstage,0,0,Route de l'Arve
+910,45.939670,6.640700,540.53,11501.0,537.0,cyclingstage,0,0,Route de l'Arve
+911,45.939730,6.640790,540.11,11510.7,537.0,cyclingstage,0,0,Route de l'Arve
+912,45.939740,6.640800,540.11,11512.0,537.0,cyclingstage,0,0,Route de l'Arve
+913,45.939840,6.640920,539.85,11526.5,537.0,cyclingstage,0,0,Route de l'Arve
+914,45.939890,6.641040,540.02,11537.3,537.0,cyclingstage,0,0,Route de l'Arve
+915,45.939900,6.641100,540.02,11542.1,537.0,cyclingstage,0,0,Route de l'Arve
+916,45.939910,6.641170,540.07,11547.6,537.0,cyclingstage,0,0,Route de l'Arve
+917,45.939910,6.641170,540.07,11547.6,537.0,cyclingstage,0,0,Route de l'Arve
+918,45.939900,6.641260,540.26,11554.7,537.0,cyclingstage,0,0,Route de l'Arve
+919,45.939890,6.641330,540.53,11560.2,537.0,cyclingstage,0,0,Route de l'Arve
+920,45.939860,6.641410,540.66,11567.2,537.0,cyclingstage,0,0,Route de l'Arve
+921,45.939810,6.641480,540.74,11575.0,537.0,cyclingstage,0,0,Route de l'Arve
+922,45.939750,6.641540,541.07,11583.1,537.0,cyclingstage,0,0,Route de l'Arve
+923,45.939660,6.641590,541.32,11593.8,537.0,cyclingstage,0,0,Route de l'Arve
+924,45.939540,6.641660,540.35,11608.2,537.0,cyclingstage,0,0,Route de l'Arve
+925,45.939500,6.641680,538.71,11612.9,537.0,cyclingstage,0,0,Route de l'Arve
+926,45.939430,6.641730,541.71,11621.6,537.0,cyclingstage,0,0,Route de l'Arve
+927,45.939210,6.641860,541.86,11648.1,537.0,cyclingstage,0,0,Route de l'Arve
+928,45.939180,6.641880,541.93,11651.8,537.0,cyclingstage,0,0,Route de l'Arve
+929,45.938930,6.642030,541.86,11681.9,537.0,cyclingstage,0,0,Route de l'Arve
+930,45.938760,6.642120,541.70,11702.0,537.0,cyclingstage,0,0,Route de l'Arve
+931,45.938680,6.642160,541.64,11711.4,537.0,cyclingstage,0,0,Route de l'Arve
+932,45.938660,6.642160,541.64,11713.7,537.0,cyclingstage,0,0,Route de l'Arve
+933,45.938560,6.642210,541.47,11725.4,537.0,cyclingstage,0,0,Route de l'Arve
+934,45.938310,6.642340,541.16,11755.0,537.0,cyclingstage,0,0,Route de l'Arve
+935,45.937900,6.642540,540.72,11803.1,537.0,cyclingstage,0,0,Route de l'Arve
+936,45.937770,6.642620,540.51,11818.9,537.0,cyclingstage,0,0,Route de l'Arve
+937,45.937490,6.642770,540.30,11852.1,537.0,cyclingstage,0,0,Route de l'Arve
+938,45.937030,6.643040,540.26,11907.3,538.0,cyclingstage,0,0,Route de l'Arve
+939,45.936990,6.643060,540.25,11912.1,538.0,cyclingstage,0,0,Route de l'Arve
+940,45.936810,6.643190,540.46,11934.4,538.0,cyclingstage,0,0,Route de l'Arve
+941,45.936680,6.643270,540.39,11950.2,538.0,cyclingstage,0,0,Route de l'Arve
+942,45.936480,6.643400,540.51,11974.6,538.0,cyclingstage,0,0,Route de l'Arve
+943,45.936270,6.643530,540.70,12000.0,538.0,cyclingstage,0,0,Route de l'Arve
+944,45.936270,6.643530,540.70,12000.0,538.0,cyclingstage,0,0,Route de l'Arve
+945,45.936150,6.643600,540.83,12014.4,538.0,cyclingstage,0,0,Route de l'Arve
+946,45.936080,6.643630,540.86,12022.5,538.0,cyclingstage,0,0,Route de l'Arve
+947,45.935610,6.643920,541.33,12079.4,538.0,cyclingstage,0,0,Route de l'Arve
+948,45.935320,6.644090,541.59,12114.2,538.0,cyclingstage,0,0,Route de l'Arve
+949,45.934670,6.644470,542.17,12192.2,538.0,cyclingstage,0,0,Route de l'Arve
+950,45.934320,6.644680,542.51,12234.4,538.0,cyclingstage,0,0,Route de l'Arve
+951,45.934110,6.644800,542.77,12259.5,539.0,cyclingstage,0,0,Route de l'Arve
+952,45.933860,6.644960,542.94,12290.0,539.0,cyclingstage,0,0,Route de l'Arve
+953,45.933820,6.644990,542.98,12295.0,539.0,cyclingstage,0,0,Route de l'Arve
+954,45.933490,6.645180,543.17,12334.5,539.0,cyclingstage,0,0,Route de l'Arve
+955,45.933180,6.645360,543.38,12371.7,539.0,cyclingstage,0,0,Route de l'Arve
+956,45.933160,6.645370,543.38,12374.0,539.0,cyclingstage,0,0,Route de l'Arve
+957,45.932990,6.645470,543.44,12394.5,539.0,cyclingstage,0,0,Route de l'Arve
+958,45.932140,6.645970,543.88,12496.6,540.0,cyclingstage,0,0,Route de l'Arve
+959,45.931930,6.646100,544.05,12522.0,540.0,cyclingstage,0,0,Route de l'Arve
+960,45.931930,6.646100,544.05,12522.0,540.0,cyclingstage,0,0,
+961,45.931910,6.646020,543.95,12528.6,540.0,cyclingstage,0,0,
+962,45.931910,6.645980,543.82,12531.7,540.0,cyclingstage,0,0,
+963,45.931930,6.645920,543.71,12536.8,540.0,cyclingstage,0,0,
+964,45.932010,6.645780,543.51,12550.8,540.0,cyclingstage,0,0,
+965,45.932180,6.645530,543.34,12577.9,540.0,cyclingstage,0,0,
+966,45.932380,6.645230,542.91,12610.0,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+967,45.932430,6.645120,542.99,12620.2,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+968,45.932460,6.644980,542.94,12631.5,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+969,45.932480,6.644870,542.84,12640.3,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+970,45.932490,6.644840,542.81,12642.9,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+971,45.932500,6.644740,542.78,12650.7,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+972,45.932480,6.644520,542.75,12667.8,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+973,45.932460,6.644280,542.64,12686.5,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+974,45.932460,6.644140,542.57,12697.4,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+975,45.932470,6.644100,542.54,12700.6,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+976,45.932470,6.644060,542.53,12703.7,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+977,45.932500,6.644010,542.50,12708.8,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+978,45.932740,6.643670,542.20,12746.3,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+979,45.932880,6.643470,542.12,12768.3,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+980,45.932920,6.643380,542.07,12776.5,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+981,45.932940,6.643310,542.08,12782.4,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+982,45.932950,6.643260,542.07,12786.4,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+983,45.932950,6.643220,542.14,12789.5,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+984,45.932960,6.643140,542.62,12795.8,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+985,45.932920,6.642860,542.50,12817.9,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+986,45.932890,6.642710,542.36,12830.0,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+987,45.932890,6.642710,542.36,12830.0,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+988,45.932750,6.641760,542.09,12905.1,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+989,45.932660,6.641150,541.83,12953.3,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+990,45.932510,6.640190,541.14,13029.4,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+991,45.932460,6.639890,540.61,13053.2,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+992,45.932360,6.639240,540.36,13104.7,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+993,45.932340,6.639120,540.44,13114.3,540.0,cyclingstage,0,1,Avenue Albert Gruffat
+994,45.932340,6.639070,540.47,13118.1,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+995,45.932330,6.639010,540.49,13122.9,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+996,45.932290,6.638760,540.76,13142.7,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+997,45.932260,6.638530,541.16,13160.8,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+998,45.932260,6.638530,541.16,13160.8,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+999,45.932170,6.637960,542.65,13206.0,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+1000,45.932150,6.637760,543.12,13221.7,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+1001,45.932140,6.637730,543.25,13224.2,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+1002,45.932130,6.637500,544.20,13242.1,540.0,cyclingstage,0,0,Avenue Albert Gruffat
+1003,45.932140,6.637340,544.70,13254.5,541.0,cyclingstage,0,0,Avenue Albert Gruffat
+1004,45.932150,6.637270,544.94,13260.0,541.0,cyclingstage,0,0,Rue des 3 Lacs
+1005,45.932160,6.637240,544.96,13262.6,541.0,cyclingstage,0,0,Rue des 3 Lacs
+1006,45.932180,6.637110,544.93,13272.9,541.0,cyclingstage,0,0,Rue des 3 Lacs
+1007,45.932220,6.636900,544.72,13289.7,541.0,cyclingstage,0,0,Rue des 3 Lacs
+1008,45.932250,6.636750,544.64,13301.8,541.0,cyclingstage,0,0,Rue des 3 Lacs
+1009,45.932300,6.636500,544.81,13321.9,541.0,cyclingstage,0,0,Rue des 3 Lacs
+1010,45.932350,6.636160,544.97,13348.8,541.0,cyclingstage,0,0,Rue des 3 Lacs
+1011,45.932470,6.635460,545.53,13404.5,542.0,cyclingstage,0,0,Rue des 3 Lacs
+1012,45.932610,6.634510,546.29,13479.6,543.0,cyclingstage,0,0,Rue des 3 Lacs
+1013,45.932610,6.634510,546.29,13479.6,543.0,cyclingstage,0,0,Rue du Docteur Bonnefoy
+1014,45.932290,6.634470,546.53,13515.4,544.0,cyclingstage,0,0,Rue du Docteur Bonnefoy
+1015,45.932290,6.634470,546.53,13515.4,544.0,cyclingstage,0,0,Rue du Docteur Bonnefoy
+1016,45.932110,6.634460,546.51,13535.4,545.0,cyclingstage,0,0,Rue du Docteur Bonnefoy
+1017,45.932100,6.634460,546.51,13536.5,545.0,cyclingstage,0,0,Rue du Docteur Bonnefoy
+1018,45.931760,6.634400,546.47,13574.6,545.0,cyclingstage,0,0,Rue du Docteur Bonnefoy
+1019,45.931690,6.634390,546.44,13582.4,545.0,cyclingstage,0,0,Rue du Docteur Bonnefoy
+1020,45.931680,6.634390,546.44,13583.5,545.0,cyclingstage,0,0,Rue du Docteur Bonnefoy
+1021,45.931650,6.634380,546.44,13586.9,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1022,45.931580,6.634340,546.50,13595.3,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1023,45.931580,6.634340,546.50,13595.3,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1024,45.931490,6.634460,546.26,13609.0,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1025,45.931440,6.634480,546.26,13614.7,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1026,45.931310,6.634650,545.97,13634.3,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1027,45.931030,6.635070,545.34,13679.3,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1028,45.931010,6.635100,545.30,13682.5,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1029,45.930860,6.635280,544.96,13704.2,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1030,45.930740,6.635430,544.76,13721.9,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1031,45.930630,6.635540,544.60,13736.8,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1032,45.930570,6.635620,544.46,13745.9,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1033,45.930390,6.635840,544.21,13772.2,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1034,45.930370,6.635870,544.21,13775.4,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1035,45.930350,6.635900,544.16,13778.6,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1036,45.930320,6.635970,544.06,13784.9,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1037,45.930000,6.636350,543.43,13831.1,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1038,45.930000,6.636350,543.43,13831.1,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1039,45.929940,6.636430,543.29,13840.2,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1040,45.929790,6.636600,542.80,13861.4,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1041,45.929570,6.636860,542.30,13893.1,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1042,45.929010,6.637510,541.84,13973.1,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1043,45.928810,6.637740,541.92,14001.6,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1044,45.928590,6.638000,541.87,14033.3,544.0,cyclingstage,0,0,Route du Fayet/D 1205
+1045,45.928140,6.638530,542.12,14098.0,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1046,45.928120,6.638560,542.13,14101.2,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1047,45.927710,6.639040,542.33,14160.0,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1048,45.927580,6.639200,542.35,14179.0,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1049,45.927480,6.639310,542.40,14193.0,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1050,45.927410,6.639380,542.38,14202.5,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1051,45.927240,6.639550,542.25,14225.5,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1052,45.927130,6.639640,542.20,14239.6,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1053,45.927030,6.639730,542.13,14252.7,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1054,45.926710,6.640000,542.15,14294.0,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1055,45.926370,6.640280,542.74,14337.5,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1056,45.925590,6.640930,543.44,14437.8,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1057,45.925290,6.641170,543.33,14476.0,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1058,45.924370,6.641940,544.17,14594.3,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1059,45.923800,6.642400,544.15,14667.0,545.0,cyclingstage,0,0,Route du Fayet/D 1205
+1060,45.923410,6.642710,545.00,14716.6,546.0,cyclingstage,0,0,Route du Fayet/D 1205
+1061,45.922870,6.643150,545.54,14785.6,546.0,cyclingstage,0,0,Route du Fayet/D 1205
+1062,45.922500,6.643450,546.17,14832.8,547.0,cyclingstage,0,0,Route du Fayet/D 1205
+1063,45.922410,6.643520,546.22,14844.2,547.0,cyclingstage,0,0,Route du Fayet/D 1205
+1064,45.922320,6.643600,546.10,14856.0,547.0,cyclingstage,0,0,Route du Fayet/D 1205
+1065,45.922120,6.643760,545.94,14881.4,548.0,cyclingstage,0,0,Route du Fayet/D 1205
+1066,45.921850,6.643980,545.73,14915.9,548.0,cyclingstage,0,0,Route du Fayet/D 1205
+1067,45.921650,6.644140,545.62,14941.4,548.0,cyclingstage,0,0,Route du Fayet/D 1205
+1068,45.921570,6.644210,545.44,14951.8,548.0,cyclingstage,0,0,Route du Fayet/D 1205
+1069,45.921500,6.644270,545.32,14960.9,549.0,cyclingstage,0,0,Route du Fayet/D 1205
+1070,45.921280,6.644440,545.39,14988.6,549.0,cyclingstage,0,0,Route du Fayet/D 1205
+1071,45.921040,6.644630,545.60,15019.1,549.0,cyclingstage,0,0,Route du Fayet/D 1205
+1072,45.920960,6.644700,545.71,15029.5,549.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1073,45.920400,6.645160,546.35,15101.2,549.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1074,45.920330,6.645220,546.36,15110.3,549.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1075,45.920220,6.645300,546.41,15124.0,549.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1076,45.920020,6.645470,546.37,15149.8,549.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1077,45.919860,6.645600,546.28,15170.3,549.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1078,45.919760,6.645680,546.38,15183.0,549.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1079,45.919210,6.646130,546.74,15253.4,549.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1080,45.918820,6.646450,547.61,15303.3,549.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1081,45.918700,6.646550,547.78,15318.7,550.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1082,45.918670,6.646570,547.85,15322.4,550.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1083,45.918510,6.646700,548.49,15342.8,550.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1084,45.918140,6.647000,549.66,15390.1,550.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1085,45.917950,6.647160,550.68,15414.6,551.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1086,45.917730,6.647340,551.58,15442.7,551.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1087,45.917590,6.647460,552.54,15460.8,552.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1088,45.917580,6.647470,552.54,15462.2,552.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1089,45.917570,6.647470,552.71,15463.3,552.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1090,45.917230,6.647760,554.05,15507.3,553.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1091,45.917090,6.647880,554.89,15525.4,553.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1092,45.916980,6.647980,555.35,15539.9,553.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1093,45.916870,6.648100,555.36,15555.2,554.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1094,45.916720,6.648240,555.05,15575.1,554.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1095,45.916640,6.648320,555.07,15585.9,555.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1096,45.916500,6.648460,555.17,15604.9,555.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1097,45.916410,6.648560,555.18,15617.5,555.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1098,45.916310,6.648660,555.15,15631.1,556.0,cyclingstage,0,1,Route de Sallanches/D 1205
+1099,45.916180,6.648810,555.14,15649.6,556.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1100,45.916010,6.648990,555.27,15673.1,557.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1101,45.915760,6.649280,556.01,15708.8,557.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1102,45.915580,6.649500,556.00,15735.1,558.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1103,45.915390,6.649710,555.39,15761.8,558.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1104,45.915220,6.649930,554.46,15787.2,558.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1105,45.915060,6.650150,553.79,15811.8,558.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1106,45.914970,6.650260,553.70,15824.9,558.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1107,45.914740,6.650560,554.48,15859.5,558.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1108,45.914740,6.650560,554.48,15859.5,558.0,cyclingstage,0,0,Route de Sallanches/D 1205
+1109,45.914660,6.650590,554.67,15868.7,558.0,cyclingstage,0,0,Route de Letraz
+1110,45.914640,6.650610,554.84,15871.4,558.0,cyclingstage,0,0,Route de Letraz
+1111,45.914580,6.650670,554.97,15879.5,558.0,cyclingstage,0,0,Route de Letraz
+1112,45.914500,6.650750,555.18,15890.3,558.0,cyclingstage,0,0,Route de Letraz
+1113,45.914430,6.650830,555.35,15900.3,558.0,cyclingstage,0,0,Route de Letraz
+1114,45.914250,6.651000,555.60,15924.2,558.0,cyclingstage,0,0,Route de Letraz
+1115,45.914140,6.651120,555.41,15939.6,558.0,cyclingstage,0,0,Route de Letraz
+1116,45.913980,6.651240,555.39,15959.7,558.0,cyclingstage,0,0,Route de Letraz
+1117,45.913540,6.651570,555.07,16014.9,558.0,cyclingstage,0,0,Route de Letraz
+1118,45.913450,6.651640,555.00,16026.2,557.0,cyclingstage,0,0,Route de Letraz
+1119,45.913080,6.651930,554.91,16073.1,557.0,cyclingstage,0,0,Route de Letraz
+1120,45.913060,6.651950,555.00,16075.8,556.0,cyclingstage,0,0,Route de Letraz
+1121,45.912620,6.652280,556.15,16131.0,556.0,cyclingstage,0,0,Route de Letraz
+1122,45.912580,6.652300,556.22,16135.7,555.0,cyclingstage,0,0,Route de Letraz
+1123,45.912520,6.652350,556.30,16143.4,555.0,cyclingstage,0,0,Route de Letraz
+1124,45.912320,6.652480,556.85,16167.8,556.0,cyclingstage,0,0,Route de Letraz
+1125,45.912180,6.652550,557.06,16184.3,556.0,cyclingstage,0,0,Route de Letraz
+1126,45.911950,6.652730,556.65,16213.4,558.0,cyclingstage,0,0,Route de Letraz
+1127,45.911950,6.652730,556.65,16213.4,558.0,cyclingstage,0,0,Route de Letraz
+1128,45.911740,6.652880,556.30,16239.5,559.0,cyclingstage,0,0,Route de Letraz
+1129,45.911640,6.652950,556.57,16251.9,560.0,cyclingstage,0,0,Route de Letraz
+1130,45.911540,6.653070,556.76,16266.3,561.0,cyclingstage,0,0,Route de Letraz
+1131,45.911500,6.653110,556.89,16271.8,562.0,cyclingstage,0,0,Route de Letraz
+1132,45.911380,6.653190,557.38,16286.5,563.0,cyclingstage,0,0,Route de Letraz
+1133,45.911310,6.653240,557.56,16295.2,563.0,cyclingstage,0,0,Route de Letraz
+1134,45.911220,6.653300,558.24,16306.2,564.0,cyclingstage,0,0,Route de Letraz
+1135,45.911060,6.653410,559.06,16325.9,565.0,cyclingstage,0,0,Route de Letraz
+1136,45.910930,6.653490,559.95,16341.6,566.0,cyclingstage,0,0,Route de Letraz
+1137,45.910900,6.653520,560.23,16345.7,566.0,cyclingstage,0,0,Route de Letraz
+1138,45.910800,6.653590,560.84,16358.1,567.0,cyclingstage,0,0,Route de Letraz
+1139,45.910740,6.653650,561.42,16366.2,567.0,cyclingstage,0,0,Route de Letraz
+1140,45.910610,6.653730,562.48,16381.9,568.0,cyclingstage,0,0,Route de Letraz
+1141,45.910610,6.653730,562.48,16381.9,568.0,cyclingstage,0,0,
+1142,45.910600,6.653730,562.48,16383.0,568.0,cyclingstage,0,0,
+1143,45.910600,6.653720,562.46,16383.8,568.0,cyclingstage,0,0,
+1144,45.910590,6.653720,562.46,16384.9,569.0,cyclingstage,0,0,
+1145,45.910580,6.653720,562.46,16386.0,569.0,cyclingstage,0,0,
+1146,45.910570,6.653720,562.84,16387.2,569.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1147,45.910560,6.653720,562.84,16388.3,569.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1148,45.910550,6.653720,562.84,16389.4,569.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1149,45.910490,6.653670,563.57,16397.1,569.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1150,45.910430,6.653580,563.80,16406.7,569.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1151,45.910410,6.653510,563.72,16412.6,569.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1152,45.910340,6.653320,563.98,16429.2,569.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1153,45.910340,6.653270,564.03,16433.1,570.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1154,45.910340,6.653220,564.17,16437.0,570.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1155,45.910350,6.653120,565.15,16444.8,570.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1156,45.910370,6.653030,565.76,16452.1,570.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1157,45.910380,6.653020,565.76,16453.4,570.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1158,45.910410,6.652960,565.82,16459.2,571.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1159,45.910470,6.652890,566.17,16467.7,571.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1160,45.910510,6.652860,566.51,16472.8,571.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1161,45.910530,6.652840,566.51,16475.5,571.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1162,45.910600,6.652780,566.84,16484.5,571.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1163,45.910610,6.652770,567.51,16485.9,571.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1164,45.910660,6.652720,568.03,16492.7,571.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1165,45.910680,6.652700,567.72,16495.4,572.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1166,45.910730,6.652660,568.08,16501.7,572.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1167,45.910810,6.652560,569.40,16513.5,572.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1168,45.910880,6.652480,568.84,16523.5,572.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1169,45.910940,6.652400,569.78,16532.6,572.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1170,45.910960,6.652380,570.66,16535.3,573.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1171,45.911080,6.652220,571.58,16553.5,573.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1172,45.911190,6.652060,571.60,16570.9,573.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1173,45.911220,6.652020,572.52,16575.4,574.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1174,45.911330,6.651840,573.28,16594.0,575.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1175,45.911410,6.651660,574.93,16610.5,575.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1176,45.911420,6.651650,574.93,16611.8,576.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1177,45.911460,6.651510,575.72,16623.6,576.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1178,45.911470,6.651490,576.26,16625.5,577.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1179,45.911510,6.651320,577.36,16639.3,577.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1180,45.911540,6.651180,577.94,16650.7,578.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1181,45.911540,6.651150,577.94,16653.0,579.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1182,45.911590,6.651000,579.05,16665.9,579.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1183,45.911590,6.650980,579.05,16667.4,579.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1184,45.911610,6.650940,578.70,16671.2,580.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1185,45.911670,6.650760,580.42,16686.7,580.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1186,45.911710,6.650660,580.69,16695.6,581.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1187,45.911780,6.650490,581.43,16710.9,582.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1188,45.911800,6.650440,582.01,16715.3,582.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1189,45.911810,6.650430,582.01,16716.7,582.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1190,45.911850,6.650320,582.86,16726.3,583.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1191,45.911910,6.650190,582.91,16738.4,583.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1192,45.911950,6.650110,583.91,16746.0,584.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1193,45.912000,6.650010,583.69,16755.5,584.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1194,45.912020,6.649970,584.24,16759.3,585.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1195,45.912060,6.649900,584.82,16766.3,585.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1196,45.912120,6.649810,585.49,16776.0,586.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1197,45.912150,6.649780,585.11,16780.0,586.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1198,45.912190,6.649720,585.92,16786.5,587.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1199,45.912280,6.649600,587.08,16800.1,587.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1200,45.912380,6.649460,588.31,16815.6,588.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1201,45.912400,6.649440,588.17,16818.3,588.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1202,45.912490,6.649330,589.46,16831.5,589.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1203,45.912550,6.649270,589.85,16839.6,589.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1204,45.912590,6.649240,590.23,16844.6,590.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1205,45.912680,6.649190,590.46,16855.4,590.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1206,45.912840,6.649100,590.81,16874.5,591.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1207,45.912950,6.649040,591.32,16887.5,592.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1208,45.913050,6.648950,592.06,16900.7,592.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1209,45.913220,6.648730,594.16,16926.1,593.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1210,45.913350,6.648560,595.88,16945.6,594.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1211,45.913380,6.648510,596.23,16950.8,595.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1212,45.913410,6.648480,596.92,16954.8,596.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1213,45.913480,6.648360,597.62,16966.9,596.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1214,45.913570,6.648180,600.42,16984.1,597.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1215,45.913660,6.647890,603.42,17008.6,598.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1216,45.913670,6.647860,603.37,17011.2,599.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1217,45.913750,6.647600,605.84,17033.2,600.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1218,45.913750,6.647580,606.17,17034.8,601.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1219,45.913750,6.647500,606.66,17040.9,601.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1220,45.913730,6.647430,606.82,17046.8,602.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1221,45.913690,6.647380,608.01,17052.7,602.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1222,45.913670,6.647380,608.01,17054.9,603.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1223,45.913650,6.647370,609.22,17057.3,603.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1224,45.913600,6.647370,610.30,17062.8,603.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1225,45.913560,6.647430,610.78,17069.3,603.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1226,45.913550,6.647430,610.78,17070.4,604.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1227,45.913500,6.647550,610.46,17081.2,604.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1228,45.913450,6.647680,610.29,17092.7,605.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1229,45.913400,6.647790,609.58,17102.9,605.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1230,45.913340,6.647860,608.67,17111.4,606.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1231,45.913310,6.647880,609.26,17115.1,606.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1232,45.913260,6.647900,608.95,17120.9,607.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1233,45.913170,6.647900,609.95,17130.9,607.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1234,45.913000,6.647880,612.67,17149.9,608.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1235,45.912850,6.647870,614.13,17166.6,609.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1236,45.912580,6.647890,614.91,17196.6,610.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1237,45.912460,6.647890,615.74,17210.0,611.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1238,45.912420,6.647890,616.00,17214.4,612.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1239,45.912350,6.647900,616.24,17222.2,613.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1240,45.912240,6.647890,616.87,17234.5,613.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1241,45.912140,6.647880,618.24,17245.6,614.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1242,45.911850,6.647860,618.90,17277.9,615.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1243,45.911750,6.647840,620.15,17289.2,616.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1244,45.911700,6.647810,620.31,17295.2,617.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1245,45.911680,6.647750,622.60,17300.3,618.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1246,45.911670,6.647690,623.65,17305.1,618.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1247,45.911680,6.647630,624.68,17309.9,619.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1248,45.911710,6.647580,626.45,17315.0,619.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1249,45.911760,6.647560,626.25,17320.8,620.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1250,45.911850,6.647530,626.93,17331.0,620.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1251,45.911890,6.647520,626.81,17335.5,621.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1252,45.911940,6.647510,626.70,17341.2,621.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1253,45.912070,6.647480,627.35,17355.8,622.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1254,45.912200,6.647440,627.90,17370.6,622.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1255,45.912240,6.647420,627.77,17375.3,623.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1256,45.912360,6.647340,628.53,17390.0,624.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1257,45.912400,6.647310,628.95,17395.0,624.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1258,45.912430,6.647280,629.35,17399.1,625.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1259,45.912480,6.647210,629.79,17406.8,625.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1260,45.912510,6.647120,630.81,17414.6,626.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1261,45.912520,6.647030,631.98,17421.6,627.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1262,45.912500,6.646920,633.75,17430.4,628.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1263,45.912480,6.646870,634.23,17434.9,629.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1264,45.912470,6.646830,634.71,17438.2,630.0,cyclingstage,0,0,
+1265,45.912420,6.646780,635.65,17444.9,631.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1266,45.912310,6.646730,636.64,17457.8,632.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1267,45.912130,6.646660,638.85,17478.5,634.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1268,45.911980,6.646580,641.46,17496.3,636.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1269,45.911960,6.646570,641.46,17498.6,638.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1270,45.911780,6.646450,644.80,17520.7,640.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1271,45.911630,6.646340,647.63,17539.4,643.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1272,45.911540,6.646260,648.53,17551.2,645.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1273,45.911490,6.646210,649.45,17558.0,647.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1274,45.911400,6.646110,650.34,17570.6,649.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1275,45.911390,6.646090,650.45,17572.5,650.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1276,45.911280,6.645950,651.78,17588.9,652.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1277,45.911200,6.645820,652.89,17602.3,654.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1278,45.911130,6.645640,654.35,17618.2,656.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1279,45.911070,6.645450,655.54,17634.4,657.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1280,45.911000,6.645260,657.50,17651.0,659.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1281,45.910910,6.644970,659.44,17675.6,661.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1282,45.910840,6.644830,660.03,17688.9,663.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1283,45.910800,6.644740,660.74,17697.2,665.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1284,45.910770,6.644680,661.70,17702.9,666.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1285,45.910710,6.644600,662.37,17712.0,667.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1286,45.910660,6.644560,664.81,17718.4,668.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1287,45.910600,6.644540,666.27,17725.2,669.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1288,45.910550,6.644540,667.77,17730.8,670.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1289,45.910510,6.644560,669.31,17735.5,671.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1290,45.910500,6.644570,669.31,17736.8,671.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1291,45.910470,6.644610,671.39,17741.4,672.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1292,45.910440,6.644690,674.00,17748.4,673.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1293,45.910430,6.644750,674.46,17753.2,673.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1294,45.910430,6.644800,675.23,17757.1,674.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1295,45.910420,6.644840,675.23,17760.3,674.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1296,45.910430,6.644950,675.86,17768.9,675.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1297,45.910420,6.645080,675.97,17779.0,676.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1298,45.910400,6.645180,677.48,17787.1,677.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1299,45.910320,6.645420,679.49,17807.7,678.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1300,45.910200,6.645750,680.26,17836.5,680.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1301,45.910190,6.645750,681.97,17837.6,681.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1302,45.910130,6.645930,682.14,17853.0,682.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1303,45.910100,6.645970,683.36,17857.6,683.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1304,45.910030,6.646090,683.54,17869.7,685.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1305,45.909880,6.646280,687.21,17891.9,686.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1306,45.909660,6.646500,689.80,17921.7,688.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1307,45.909570,6.646570,690.45,17933.1,690.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1308,45.909530,6.646580,691.34,17937.6,691.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1309,45.909490,6.646590,692.18,17942.2,692.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1310,45.909370,6.646600,693.58,17955.5,693.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1311,45.909080,6.646560,697.41,17987.9,695.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1312,45.908970,6.646540,699.22,18000.2,697.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1313,45.908830,6.646530,700.11,18015.8,698.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1314,45.908830,6.646530,700.11,18015.8,699.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1315,45.908810,6.646520,700.42,18018.2,700.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1316,45.908690,6.646490,701.56,18031.7,701.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1317,45.908550,6.646420,703.72,18048.2,702.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1318,45.908450,6.646360,704.87,18060.3,704.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1319,45.908390,6.646320,705.68,18067.6,705.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1320,45.908220,6.646220,708.01,18088.0,706.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1321,45.908080,6.646180,710.54,18103.9,708.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1322,45.907990,6.646170,712.01,18114.0,709.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1323,45.907900,6.646220,713.22,18124.7,711.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1324,45.907860,6.646270,713.90,18130.6,712.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1325,45.907750,6.646400,715.25,18146.4,713.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1326,45.907730,6.646440,715.97,18150.2,714.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1327,45.907650,6.646610,716.97,18166.1,715.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1328,45.907530,6.646860,718.05,18189.6,717.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1329,45.907530,6.646870,718.05,18190.4,718.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1330,45.907480,6.646940,718.68,18198.1,719.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1331,45.907420,6.646970,719.33,18205.2,720.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1332,45.907370,6.646960,720.17,18210.8,721.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1333,45.907360,6.646960,720.17,18211.9,722.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1334,45.907310,6.646930,721.98,18218.0,722.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1335,45.907270,6.646850,723.02,18225.6,723.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1336,45.907170,6.646460,726.78,18257.7,724.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1337,45.907040,6.645920,732.95,18301.9,726.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1338,45.907010,6.645760,734.47,18314.8,728.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1339,45.907010,6.645720,734.56,18317.9,730.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1340,45.907010,6.645540,735.02,18331.8,731.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1341,45.907050,6.645280,736.24,18352.4,732.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1342,45.907100,6.645110,738.00,18366.7,734.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1343,45.907210,6.644870,739.99,18388.9,735.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1344,45.907350,6.644610,741.39,18414.3,737.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1345,45.907390,6.644500,741.59,18423.9,739.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1346,45.907400,6.644360,742.80,18434.8,740.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1347,45.907390,6.644320,743.00,18438.1,741.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1348,45.907370,6.644150,743.37,18451.5,743.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1349,45.907340,6.644080,744.14,18457.8,744.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1350,45.907320,6.644000,744.14,18464.4,745.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1351,45.907240,6.643910,745.53,18475.7,746.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1352,45.907050,6.643820,748.69,18497.9,748.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1353,45.906920,6.643760,750.37,18513.1,750.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1354,45.906870,6.643760,750.99,18518.7,752.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1355,45.906840,6.643760,751.62,18522.0,753.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1356,45.906780,6.643780,752.34,18528.9,754.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1357,45.906670,6.643860,754.36,18542.6,756.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1358,45.906570,6.643920,755.67,18554.6,757.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1359,45.906540,6.643930,756.34,18558.1,758.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1360,45.906490,6.643940,756.99,18563.7,759.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1361,45.906390,6.643920,758.31,18574.9,760.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1362,45.906360,6.643910,758.94,18578.3,761.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1363,45.906180,6.643800,760.87,18600.1,763.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1364,45.906030,6.643710,762.32,18618.1,765.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1365,45.905890,6.643620,764.63,18635.2,767.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1366,45.905870,6.643610,764.63,18637.5,769.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1367,45.905810,6.643560,766.04,18645.3,770.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1368,45.905760,6.643480,767.36,18653.6,771.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1369,45.905740,6.643380,768.58,18661.6,771.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1370,45.905750,6.643300,769.02,18667.9,772.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1371,45.905770,6.643210,769.96,18675.2,772.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1372,45.905790,6.643180,769.66,18678.4,773.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1373,45.905850,6.643110,769.85,18687.0,773.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1374,45.905930,6.643020,768.96,18698.3,774.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1375,45.905970,6.642980,768.36,18703.8,774.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1376,45.906030,6.642860,767.21,18715.2,775.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1377,45.906070,6.642690,768.80,18729.1,775.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1378,45.906080,6.642570,768.12,18738.4,776.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1379,45.906080,6.642530,768.48,18741.5,776.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1380,45.906070,6.642380,771.26,18753.2,776.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1381,45.906050,6.642320,771.59,18758.3,777.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1382,45.906020,6.642220,773.75,18766.8,777.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1383,45.905980,6.642000,776.36,18784.3,778.0,cyclingstage,0,1,Route du Chef-Lieu
+1384,45.905970,6.641890,777.19,18792.9,778.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1385,45.905990,6.641820,777.58,18798.8,779.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1386,45.906000,6.641800,777.58,18800.7,779.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1387,45.906070,6.641750,778.43,18809.4,779.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1388,45.906150,6.641720,777.46,18818.6,780.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1389,45.906210,6.641710,776.48,18825.3,780.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1390,45.906320,6.641620,778.33,18839.4,781.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1391,45.906410,6.641510,779.05,18852.5,781.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1392,45.906540,6.641230,782.79,18878.5,783.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1393,45.906640,6.641010,784.68,18898.9,785.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1394,45.906650,6.640980,784.68,18901.5,787.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1395,45.906670,6.640940,785.54,18905.3,788.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1396,45.906720,6.640900,785.25,18911.6,789.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1397,45.906820,6.640880,785.13,18922.9,790.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1398,45.907000,6.640880,783.43,18942.9,791.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1399,45.907100,6.640860,782.53,18954.1,793.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1400,45.907130,6.640830,783.00,18958.2,794.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1401,45.907160,6.640720,785.60,18967.3,795.0,cyclingstage,0,0,Route Bernard Hinault/D 199
+1402,45.907170,6.640570,789.33,18979.0,797.0,cyclingstage,0,0,Route de Megève/D 1212
+1403,45.907170,6.640570,789.33,18979.0,798.0,cyclingstage,0,0,Route de Megève/D 1212
+1404,45.907060,6.640550,790.45,18991.3,799.0,cyclingstage,0,0,Route de Megève/D 1212
+1405,45.906870,6.640480,795.48,19013.1,800.0,cyclingstage,0,0,Route de Megève/D 1212
+1406,45.906760,6.640450,798.25,19025.5,802.0,cyclingstage,0,0,Route de Megève/D 1212
+1407,45.906650,6.640420,800.35,19038.0,804.0,cyclingstage,0,0,Route de Megève/D 1212
+1408,45.906610,6.640420,801.12,19042.4,805.0,cyclingstage,0,0,Route de Megève/D 1212
+1409,45.906580,6.640430,801.92,19045.9,806.0,cyclingstage,0,0,Route de Megève/D 1212
+1410,45.906550,6.640450,801.92,19049.5,806.0,cyclingstage,0,0,Route de Megève/D 1212
+1411,45.906430,6.640570,799.41,19065.8,807.0,cyclingstage,0,0,Route de Megève/D 1212
+1412,45.906290,6.640730,796.24,19085.7,808.0,cyclingstage,0,0,Route de Megève/D 1212
+1413,45.906280,6.640750,796.99,19087.6,808.0,cyclingstage,0,0,Route de Megève/D 1212
+1414,45.906180,6.640800,797.17,19099.4,808.0,cyclingstage,0,0,Route de Megève/D 1212
+1415,45.905940,6.640920,796.96,19127.6,809.0,cyclingstage,0,0,Route de Megève/D 1212
+1416,45.905740,6.640990,796.34,19150.5,810.0,cyclingstage,0,0,Route de Megève/D 1212
+1417,45.905600,6.641020,797.50,19166.3,810.0,cyclingstage,0,0,Route de Megève/D 1212
+1418,45.905460,6.641010,799.20,19181.8,811.0,cyclingstage,0,0,Route de Megève/D 1212
+1419,45.905360,6.641000,800.16,19193.0,811.0,cyclingstage,0,0,Route de Megève/D 1212
+1420,45.905180,6.640980,802.34,19213.1,812.0,cyclingstage,0,0,Route de Megève/D 1212
+1421,45.905110,6.640990,803.60,19220.9,812.0,cyclingstage,0,0,Route de Megève/D 1212
+1422,45.905050,6.641010,804.28,19227.7,812.0,cyclingstage,0,0,Route de Megève/D 1212
+1423,45.904980,6.641050,804.81,19236.1,813.0,cyclingstage,0,0,Route de Megève/D 1212
+1424,45.904920,6.641090,804.69,19243.5,813.0,cyclingstage,0,0,Route de Megève/D 1212
+1425,45.904880,6.641130,804.65,19248.9,813.0,cyclingstage,0,0,Route de Megève/D 1212
+1426,45.904820,6.641200,804.81,19257.5,814.0,cyclingstage,0,0,Route de Megève/D 1212
+1427,45.904750,6.641310,804.33,19269.0,814.0,cyclingstage,0,1,Route de Megève/D 1212
+1428,45.904690,6.641400,805.07,19278.7,815.0,cyclingstage,0,1,Route de Megève/D 1212
+1429,45.904660,6.641470,804.04,19285.0,815.0,cyclingstage,0,0,Route de Megève/D 1212
+1430,45.904630,6.641570,804.29,19293.4,816.0,cyclingstage,0,0,Route de Megève/D 1212
+1431,45.904630,6.641590,803.97,19295.0,816.0,cyclingstage,0,0,Route de Megève/D 1212
+1432,45.904600,6.641830,804.02,19313.9,817.0,cyclingstage,0,0,Route de Megève/D 1212
+1433,45.904570,6.642060,803.92,19332.0,818.0,cyclingstage,0,0,Route de Megève/D 1212
+1434,45.904570,6.642080,803.92,19333.5,818.0,cyclingstage,0,0,Route de Megève/D 1212
+1435,45.904560,6.642130,804.95,19337.5,819.0,cyclingstage,0,0,Route de Megève/D 1212
+1436,45.904540,6.642240,805.21,19346.3,819.0,cyclingstage,0,0,Route de Megève/D 1212
+1437,45.904520,6.642330,806.33,19353.6,820.0,cyclingstage,0,0,Route de Megève/D 1212
+1438,45.904520,6.642340,806.33,19354.4,820.0,cyclingstage,0,0,Route de Megève/D 1212
+1439,45.904480,6.642450,807.24,19364.0,820.0,cyclingstage,0,0,Route de Megève/D 1212
+1440,45.904350,6.642790,809.37,19394.0,821.0,cyclingstage,0,0,Route de Megève/D 1212
+1441,45.904330,6.642850,809.09,19399.2,822.0,cyclingstage,0,0,Route de Megève/D 1212
+1442,45.904290,6.642980,809.94,19410.2,823.0,cyclingstage,0,0,Route de Megève/D 1212
+1443,45.904270,6.643020,809.68,19414.0,823.0,cyclingstage,0,0,Route de Megève/D 1212
+1444,45.904250,6.643110,811.15,19421.3,824.0,cyclingstage,0,0,Route de Megève/D 1212
+1445,45.904240,6.643180,810.77,19426.8,824.0,cyclingstage,0,0,Route de Megève/D 1212
+1446,45.904230,6.643250,810.59,19432.4,825.0,cyclingstage,0,0,Route de Megève/D 1212
+1447,45.904230,6.643400,809.85,19444.0,825.0,cyclingstage,0,0,Route de Megève/D 1212
+1448,45.904220,6.643620,811.34,19461.0,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1449,45.904200,6.643780,810.17,19473.6,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1450,45.904170,6.643940,811.20,19486.4,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1451,45.904120,6.644120,811.67,19501.4,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1452,45.904070,6.644210,813.10,19510.3,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1453,45.904020,6.644310,814.42,19519.9,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1454,45.903980,6.644380,815.45,19526.9,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1455,45.903860,6.644540,819.33,19545.1,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1456,45.903810,6.644610,821.00,19552.8,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1457,45.903780,6.644670,821.88,19558.6,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1458,45.903750,6.644730,823.67,19564.3,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1459,45.903720,6.644800,822.18,19570.6,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1460,45.903710,6.644840,824.63,19573.9,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1461,45.903700,6.644880,823.90,19577.2,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1462,45.903660,6.645090,823.05,19594.1,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1463,45.903640,6.645220,821.79,19604.4,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1464,45.903630,6.645300,821.24,19610.7,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1465,45.903620,6.645390,822.88,19617.7,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1466,45.903630,6.645460,820.90,19623.2,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1467,45.903640,6.645540,821.09,19629.5,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1468,45.903670,6.645690,819.67,19641.6,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1469,45.903700,6.645840,820.40,19653.7,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1470,45.903700,6.645850,820.40,19654.4,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1471,45.903710,6.645900,820.50,19658.5,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1472,45.903710,6.645960,820.49,19663.1,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1473,45.903700,6.646020,820.36,19667.9,826.0,cyclingstage,0,0,Route de Megève/D 1212
+1474,45.903700,6.646080,820.16,19672.5,827.0,cyclingstage,0,0,Route de Megève/D 1212
+1475,45.903690,6.646120,819.90,19675.8,827.0,cyclingstage,0,0,Route de Megève/D 1212
+1476,45.903660,6.646190,820.74,19682.2,827.0,cyclingstage,0,0,Route de Megève/D 1212
+1477,45.903640,6.646230,820.25,19686.0,828.0,cyclingstage,0,0,Route de Megève/D 1212
+1478,45.903610,6.646270,821.12,19690.5,828.0,cyclingstage,0,0,Route de Megève/D 1212
+1479,45.903590,6.646290,821.12,19693.3,828.0,cyclingstage,0,0,Route de Megève/D 1212
+1480,45.903550,6.646320,821.83,19698.3,829.0,cyclingstage,0,0,Route de Megève/D 1212
+1481,45.903530,6.646340,823.11,19701.0,829.0,cyclingstage,0,0,Route de Megève/D 1212
+1482,45.903500,6.646360,822.39,19704.7,830.0,cyclingstage,0,0,Route de Megève/D 1212
+1483,45.903440,6.646390,823.86,19711.7,830.0,cyclingstage,0,0,Route de Megève/D 1212
+1484,45.903150,6.646470,829.70,19744.6,831.0,cyclingstage,0,0,Route de Megève/D 1212
+1485,45.903110,6.646480,829.80,19749.1,832.0,cyclingstage,0,0,Route de Megève/D 1212
+1486,45.903070,6.646510,829.80,19754.1,833.0,cyclingstage,0,0,Route de Megève/D 1212
+1487,45.903030,6.646540,829.90,19759.1,834.0,cyclingstage,0,0,Route de Megève/D 1212
+1488,45.903000,6.646580,830.03,19763.7,834.0,cyclingstage,0,0,Route de Megève/D 1212
+1489,45.902940,6.646660,829.32,19772.8,835.0,cyclingstage,0,1,Route de Megève/D 1212
+1490,45.902790,6.646940,828.95,19800.1,836.0,cyclingstage,0,0,Route de Megève/D 1212
+1491,45.902760,6.646990,828.54,19805.2,838.0,cyclingstage,0,0,Route de Megève/D 1212
+1492,45.902720,6.647020,829.85,19810.2,838.0,cyclingstage,0,0,Route de Megève/D 1212
+1493,45.902690,6.647040,829.01,19813.9,839.0,cyclingstage,0,0,Route de Megève/D 1212
+1494,45.902390,6.647130,836.24,19848.0,841.0,cyclingstage,0,0,Route de Megève/D 1212
+1495,45.902350,6.647150,837.52,19852.7,842.0,cyclingstage,0,0,Route de Megève/D 1212
+1496,45.902310,6.647190,838.03,19858.1,843.0,cyclingstage,0,0,Route de Megève/D 1212
+1497,45.902250,6.647240,839.90,19865.8,843.0,cyclingstage,0,0,Route de Megève/D 1212
+1498,45.902200,6.647310,839.75,19873.6,844.0,cyclingstage,0,0,Route de Megève/D 1212
+1499,45.902100,6.647460,839.46,19889.7,844.0,cyclingstage,0,0,Route de Megève/D 1212
+1500,45.902020,6.647600,840.17,19903.7,845.0,cyclingstage,0,0,Route de Megève/D 1212
+1501,45.902020,6.647600,840.17,19903.7,845.0,cyclingstage,0,0,Route de Megève/D 1212
+1502,45.901980,6.647670,841.00,19910.7,845.0,cyclingstage,0,0,Route de Megève/D 1212
+1503,45.901880,6.647830,841.33,19927.3,846.0,cyclingstage,0,0,Route de Megève/D 1212
+1504,45.901830,6.647930,841.41,19936.9,846.0,cyclingstage,0,0,Route de Megève/D 1212
+1505,45.901720,6.648110,842.00,19955.4,847.0,cyclingstage,0,0,Route de Megève/D 1212
+1506,45.901670,6.648200,841.71,19964.3,847.0,cyclingstage,0,0,Route de Megève/D 1212
+1507,45.901630,6.648270,842.28,19971.3,847.0,cyclingstage,0,0,Route de Megève/D 1212
+1508,45.901580,6.648330,841.82,19978.6,848.0,cyclingstage,0,0,Route de Megève/D 1212
+1509,45.901530,6.648400,842.26,19986.3,848.0,cyclingstage,0,0,Route de Megève/D 1212
+1510,45.901480,6.648460,841.70,19993.6,848.0,cyclingstage,0,0,Route de Megève/D 1212
+1511,45.901430,6.648510,843.38,20000.3,848.0,cyclingstage,0,0,Route de Megève/D 1212
+1512,45.901360,6.648590,842.87,20010.3,849.0,cyclingstage,0,0,Route de Megève/D 1212
+1513,45.901320,6.648640,843.28,20016.2,849.0,cyclingstage,0,0,Route de Megève/D 1212
+1514,45.901300,6.648660,843.72,20018.9,849.0,cyclingstage,0,0,Route de Megève/D 1212
+1515,45.901280,6.648680,843.72,20021.6,849.0,cyclingstage,0,0,Route de Megève/D 1212
+1516,45.901220,6.648760,844.68,20030.7,849.0,cyclingstage,0,0,Route de Megève/D 1212
+1517,45.901170,6.648830,845.23,20038.5,849.0,cyclingstage,0,0,Route de Megève/D 1212
+1518,45.901120,6.648930,844.41,20048.0,850.0,cyclingstage,0,0,Route de Megève/D 1212
+1519,45.901060,6.649040,844.38,20058.8,850.0,cyclingstage,0,0,Route de Megève/D 1212
+1520,45.901010,6.649110,844.36,20066.6,850.0,cyclingstage,0,0,Route de Megève/D 1212
+1521,45.900890,6.649320,845.06,20087.6,851.0,cyclingstage,0,0,Route de Megève/D 1212
+1522,45.900830,6.649420,846.46,20097.8,851.0,cyclingstage,0,0,Route de Megève/D 1212
+1523,45.900760,6.649520,845.17,20108.8,852.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1524,45.900720,6.649560,846.71,20114.2,852.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1525,45.900690,6.649600,847.20,20118.7,853.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1526,45.900680,6.649610,846.23,20120.1,853.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1527,45.900660,6.649630,847.65,20122.8,853.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1528,45.900610,6.649670,848.08,20129.2,853.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1529,45.900560,6.649700,848.51,20135.2,853.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1530,45.900520,6.649740,848.96,20140.6,854.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1531,45.900500,6.649750,848.96,20143.0,854.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1532,45.900450,6.649800,849.43,20149.7,854.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1533,45.900430,6.649830,849.90,20153.0,854.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1534,45.900380,6.649890,850.40,20160.2,855.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1535,45.900310,6.650000,850.87,20171.7,855.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1536,45.900260,6.650090,850.95,20180.7,855.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1537,45.900080,6.650380,852.87,20210.7,856.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1538,45.900030,6.650460,853.82,20219.0,857.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1539,45.899990,6.650510,854.14,20224.9,857.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1540,45.899930,6.650570,856.55,20233.1,857.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1541,45.899850,6.650640,856.66,20243.5,858.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1542,45.899780,6.650700,858.57,20252.5,858.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1543,45.899720,6.650740,860.23,20259.9,859.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1544,45.899670,6.650770,860.65,20265.9,859.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1545,45.899600,6.650810,861.02,20274.3,859.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1546,45.899470,6.650860,863.21,20289.3,860.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1547,45.899370,6.650900,865.13,20300.8,860.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1548,45.899300,6.650930,865.98,20308.9,861.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1549,45.899250,6.650960,866.19,20315.0,861.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1550,45.899200,6.651010,867.28,20321.7,861.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1551,45.899180,6.651050,866.65,20325.5,862.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1552,45.899150,6.651120,866.22,20331.9,862.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1553,45.899100,6.651250,865.01,20343.4,862.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1554,45.899070,6.651350,864.37,20351.8,863.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1555,45.899020,6.651440,863.51,20360.7,863.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1556,45.899000,6.651460,862.57,20363.4,863.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1557,45.898960,6.651510,862.31,20369.3,864.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1558,45.898890,6.651540,862.48,20377.5,864.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1559,45.898840,6.651550,863.01,20383.1,864.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1560,45.898800,6.651550,863.43,20387.5,865.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1561,45.898520,6.651470,866.61,20419.3,865.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1562,45.898420,6.651430,867.41,20430.8,866.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1563,45.898330,6.651360,869.54,20442.2,866.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1564,45.898270,6.651300,870.46,20450.3,867.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1565,45.898210,6.651230,872.04,20458.9,867.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1566,45.898150,6.651160,872.70,20467.5,868.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1567,45.898080,6.651100,873.86,20476.6,868.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1568,45.898020,6.651060,874.43,20483.9,869.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1569,45.897980,6.651050,874.46,20488.4,870.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1570,45.897950,6.651040,874.56,20491.9,870.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1571,45.897920,6.651040,874.56,20495.2,871.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1572,45.897880,6.651050,874.73,20499.7,871.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1573,45.897780,6.651080,874.95,20511.1,872.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1574,45.897660,6.651120,875.46,20524.8,873.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1575,45.897560,6.651150,875.62,20536.1,874.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1576,45.897490,6.651170,876.12,20544.1,875.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1577,45.897480,6.651170,876.63,20545.2,876.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1578,45.897430,6.651200,876.34,20551.2,876.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1579,45.897400,6.651210,876.89,20554.6,877.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1580,45.897380,6.651230,876.89,20557.3,877.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1581,45.897320,6.651270,876.58,20564.7,878.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1582,45.897210,6.651320,877.39,20577.5,879.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1583,45.897120,6.651350,877.77,20587.8,880.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1584,45.897050,6.651370,878.24,20595.7,881.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1585,45.896980,6.651370,878.83,20603.5,881.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1586,45.896930,6.651360,880.58,20609.1,882.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1587,45.896860,6.651330,881.10,20617.2,883.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1588,45.896790,6.651270,883.28,20626.3,884.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1589,45.896730,6.651200,884.35,20634.9,885.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1590,45.896690,6.651150,885.39,20640.8,886.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1591,45.896670,6.651060,887.49,20648.1,886.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1592,45.896660,6.651000,888.00,20652.9,887.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1593,45.896650,6.650940,888.50,20657.7,888.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1594,45.896640,6.650880,889.42,20662.4,888.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1595,45.896640,6.650830,889.85,20666.3,889.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1596,45.896640,6.650780,890.27,20670.2,889.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1597,45.896650,6.650730,890.68,20674.2,890.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1598,45.896650,6.650680,891.07,20678.1,890.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1599,45.896670,6.650620,891.82,20683.2,891.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1600,45.896690,6.650560,891.57,20688.4,891.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1601,45.896700,6.650520,891.90,20691.7,892.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1602,45.896720,6.650490,891.63,20694.9,892.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1603,45.896760,6.650430,891.37,20701.3,893.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1604,45.896800,6.650390,891.66,20706.7,893.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1605,45.896960,6.650210,891.00,20729.3,894.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1606,45.897010,6.650150,891.12,20736.6,895.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1607,45.897040,6.650100,890.96,20741.7,896.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1608,45.897090,6.650030,891.03,20749.4,897.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1609,45.897130,6.649970,890.84,20755.9,898.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1610,45.897180,6.649880,890.84,20764.8,899.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1611,45.897270,6.649660,890.74,20784.5,900.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1612,45.897280,6.649570,890.56,20791.6,901.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1613,45.897440,6.649010,891.76,20838.4,903.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1614,45.897490,6.648830,892.64,20853.4,905.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1615,45.897540,6.648700,893.53,20864.9,907.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1616,45.897600,6.648580,894.03,20876.3,908.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1617,45.897680,6.648440,895.19,20890.4,909.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1618,45.897700,6.648400,895.79,20894.2,910.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1619,45.897730,6.648350,895.84,20899.3,910.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1620,45.897770,6.648300,895.91,20905.2,911.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1621,45.898040,6.647940,897.67,20946.1,911.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1622,45.898070,6.647900,897.78,20950.7,910.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1623,45.898170,6.647760,898.79,20966.2,910.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1624,45.898300,6.647580,900.94,20986.3,910.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1625,45.898360,6.647490,901.44,20995.9,910.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1626,45.898430,6.647410,902.51,21005.9,910.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1627,45.898640,6.647130,904.54,21037.7,910.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1628,45.898650,6.647140,904.01,21039.1,909.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1629,45.898650,6.647150,904.01,21039.9,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1630,45.898650,6.647160,903.30,21040.6,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1631,45.898660,6.647170,903.30,21042.0,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1632,45.898660,6.647180,903.30,21042.8,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1633,45.898660,6.647190,903.30,21043.5,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1634,45.898670,6.647190,903.30,21044.6,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1635,45.898670,6.647200,903.30,21045.4,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1636,45.898680,6.647210,902.59,21046.8,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1637,45.898680,6.647220,902.59,21047.5,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1638,45.898690,6.647220,902.59,21048.7,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1639,45.898700,6.647230,902.08,21050.0,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1640,45.898710,6.647240,902.08,21051.4,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1641,45.898720,6.647240,902.08,21052.5,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1642,45.898720,6.647250,901.38,21053.3,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1643,45.898730,6.647250,901.38,21054.4,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1644,45.898740,6.647250,900.87,21055.5,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1645,45.898750,6.647260,900.87,21056.8,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1646,45.898760,6.647260,900.87,21057.9,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1647,45.898770,6.647260,900.87,21059.1,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1648,45.898780,6.647250,900.34,21060.4,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1649,45.898790,6.647250,900.34,21061.5,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1650,45.898800,6.647250,900.34,21062.6,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1651,45.898810,6.647240,901.02,21064.0,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1652,45.898820,6.647240,900.44,21065.1,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1653,45.898830,6.647230,900.44,21066.5,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1654,45.898840,6.647220,900.44,21067.8,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1655,45.898850,6.647210,900.44,21069.2,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1656,45.898850,6.647200,901.11,21069.9,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1657,45.898860,6.647190,901.11,21071.3,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1658,45.898870,6.647190,900.51,21072.4,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1659,45.898870,6.647180,900.51,21073.2,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1660,45.898870,6.647170,900.51,21074.0,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1661,45.898880,6.647160,900.51,21075.3,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1662,45.898880,6.647150,901.17,21076.1,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1663,45.898880,6.647140,901.17,21076.9,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1664,45.898890,6.647130,901.17,21078.2,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1665,45.898890,6.647120,901.17,21079.0,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1666,45.898890,6.647110,901.83,21079.8,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1667,45.898890,6.647100,901.83,21080.5,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1668,45.898890,6.647090,901.83,21081.3,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1669,45.898890,6.647080,901.83,21082.1,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1670,45.898890,6.647070,902.50,21082.9,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1671,45.898890,6.647060,902.50,21083.6,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1672,45.898890,6.647050,902.50,21084.4,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1673,45.898890,6.647040,902.50,21085.2,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1674,45.898890,6.647030,902.50,21085.9,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1675,45.898890,6.647020,903.17,21086.7,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1676,45.898880,6.647010,903.17,21088.1,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1677,45.898880,6.647000,903.17,21088.9,909.0,cyclingstage,0,0,Giratoire des Graniteurs
+1678,45.898880,6.646990,903.17,21089.6,909.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1679,45.898870,6.646980,903.84,21091.0,909.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1680,45.898870,6.646970,903.84,21091.8,909.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1681,45.898870,6.646960,903.84,21092.5,909.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1682,45.898860,6.646950,904.48,21093.9,909.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1683,45.898860,6.646940,905.17,21094.7,909.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1684,45.898850,6.646940,905.17,21095.8,909.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1685,45.898850,6.646930,905.17,21096.5,909.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1686,45.898840,6.646920,905.17,21097.9,909.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1687,45.898900,6.646830,905.86,21107.5,910.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1688,45.899070,6.646570,907.09,21135.1,910.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1689,45.899200,6.646370,908.13,21156.3,911.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1690,45.899290,6.646270,907.84,21169.0,912.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1691,45.899430,6.646080,907.90,21190.4,912.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1692,45.899520,6.645960,907.56,21204.0,913.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1693,45.899580,6.645850,908.64,21214.9,914.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1694,45.899620,6.645780,908.80,21221.9,914.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1695,45.899640,6.645720,908.25,21227.0,915.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1696,45.899660,6.645660,908.72,21232.2,915.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1697,45.899670,6.645610,909.55,21236.2,915.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1698,45.899680,6.645560,908.71,21240.2,916.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1699,45.899690,6.645460,909.28,21248.0,916.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1700,45.899700,6.645360,909.78,21255.8,916.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1701,45.899690,6.645240,910.48,21265.2,917.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1702,45.899680,6.645110,911.21,21275.3,917.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1703,45.899670,6.644980,913.03,21285.4,918.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1704,45.899660,6.644810,913.76,21298.6,918.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1705,45.899660,6.644740,913.97,21304.1,918.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1706,45.899660,6.644690,914.06,21307.9,918.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1707,45.899670,6.644550,914.39,21318.8,918.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1708,45.899700,6.644420,914.41,21329.4,918.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1709,45.899720,6.644350,915.00,21335.3,918.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1710,45.899750,6.644260,915.22,21343.0,917.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1711,45.899780,6.644210,915.20,21348.1,917.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1712,45.899850,6.644110,915.66,21359.1,917.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1713,45.899890,6.644070,915.66,21364.5,917.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1714,45.899920,6.644040,915.68,21368.6,917.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1715,45.900010,6.643970,915.69,21379.9,917.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1716,45.900080,6.643910,915.33,21389.0,916.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1717,45.900160,6.643860,915.08,21398.7,916.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1718,45.900230,6.643830,915.24,21406.8,916.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1719,45.900360,6.643770,915.21,21422.0,916.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1720,45.900470,6.643750,915.51,21434.3,915.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1721,45.900620,6.643750,915.51,21451.0,915.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1722,45.900790,6.643770,915.00,21470.0,915.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1723,45.900940,6.643770,915.04,21486.7,914.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1724,45.900990,6.643750,915.82,21492.4,914.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1725,45.901080,6.643700,916.32,21503.2,914.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1726,45.901160,6.643640,916.58,21513.2,915.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1727,45.901240,6.643530,918.06,21525.5,916.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1728,45.901270,6.643440,919.00,21533.2,916.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1729,45.901300,6.643350,920.13,21541.0,917.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1730,45.901330,6.643230,921.36,21550.8,918.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1731,45.901340,6.643140,922.37,21557.9,918.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1732,45.901340,6.643090,922.87,21561.7,919.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1733,45.901340,6.643050,923.38,21564.8,919.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1734,45.901330,6.642990,924.37,21569.6,920.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1735,45.901330,6.642950,924.86,21572.7,920.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1736,45.901320,6.642920,924.86,21575.3,921.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1737,45.901310,6.642880,925.35,21578.6,921.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1738,45.901300,6.642830,926.04,21582.6,921.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1739,45.901280,6.642760,926.96,21588.5,922.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1740,45.901230,6.642640,928.44,21599.3,922.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1741,45.901190,6.642580,928.99,21605.7,923.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1742,45.901160,6.642540,929.51,21610.3,923.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1743,45.901130,6.642500,930.01,21614.8,924.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1744,45.901070,6.642450,930.50,21622.5,924.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1745,45.901010,6.642390,931.38,21630.6,925.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1746,45.900820,6.642250,932.61,21654.4,926.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1747,45.900730,6.642180,932.93,21665.8,927.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1748,45.900450,6.641990,933.97,21700.2,929.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1749,45.900310,6.641890,933.81,21717.6,931.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1750,45.900140,6.641770,933.94,21738.6,933.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1751,45.900050,6.641700,934.22,21750.0,934.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1752,45.900060,6.641700,934.22,21751.1,935.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1753,45.900060,6.641690,934.22,21751.9,936.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1754,45.900070,6.641680,934.14,21753.3,937.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1755,45.900070,6.641670,934.14,21754.0,937.0,cyclingstage,0,0,
+1756,45.900080,6.641660,934.20,21755.4,937.0,cyclingstage,0,0,
+1757,45.900080,6.641650,934.20,21756.2,938.0,cyclingstage,0,0,
+1758,45.900080,6.641640,934.20,21756.9,938.0,cyclingstage,0,0,
+1759,45.900080,6.641630,934.20,21757.7,938.0,cyclingstage,0,0,
+1760,45.900080,6.641620,934.25,21758.5,938.0,cyclingstage,0,0,
+1761,45.900090,6.641610,934.25,21759.8,938.0,cyclingstage,0,0,
+1762,45.900090,6.641600,934.25,21760.6,938.0,cyclingstage,0,0,
+1763,45.900090,6.641590,934.25,21761.4,938.0,cyclingstage,0,0,
+1764,45.900090,6.641580,934.25,21762.2,938.0,cyclingstage,0,0,
+1765,45.900080,6.641570,934.28,21763.5,938.0,cyclingstage,0,0,
+1766,45.900080,6.641560,934.28,21764.3,939.0,cyclingstage,0,0,
+1767,45.900080,6.641550,934.28,21765.1,939.0,cyclingstage,0,0,
+1768,45.900080,6.641540,934.28,21765.8,939.0,cyclingstage,0,0,
+1769,45.900080,6.641530,934.31,21766.6,939.0,cyclingstage,0,0,
+1770,45.900070,6.641520,934.31,21768.0,939.0,cyclingstage,0,0,
+1771,45.900070,6.641510,934.31,21768.7,939.0,cyclingstage,0,0,
+1772,45.900060,6.641500,934.43,21770.1,939.0,cyclingstage,0,0,
+1773,45.900060,6.641490,934.45,21770.9,939.0,cyclingstage,0,0,
+1774,45.900050,6.641490,934.45,21772.0,939.0,cyclingstage,0,0,
+1775,45.900050,6.641480,934.45,21772.8,939.0,cyclingstage,0,0,
+1776,45.900040,6.641480,934.45,21773.9,939.0,cyclingstage,0,0,
+1777,45.900040,6.641470,934.45,21774.6,940.0,cyclingstage,0,0,
+1778,45.900030,6.641460,934.45,21776.0,940.0,cyclingstage,0,0,
+1779,45.900020,6.641460,934.61,21777.1,940.0,cyclingstage,0,0,
+1780,45.900010,6.641450,934.61,21778.5,940.0,cyclingstage,0,0,
+1781,45.900000,6.641450,934.61,21779.6,940.0,cyclingstage,0,0,
+1782,45.899990,6.641450,934.61,21780.7,940.0,cyclingstage,0,0,
+1783,45.899980,6.641450,934.61,21781.8,940.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1784,45.899970,6.641450,934.80,21782.9,940.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1785,45.899960,6.641450,934.80,21784.0,940.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1786,45.899950,6.641450,934.80,21785.1,941.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1787,45.899940,6.641460,934.80,21786.5,941.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1788,45.899930,6.641460,935.00,21787.6,941.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1789,45.899930,6.641470,935.00,21788.4,941.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1790,45.899920,6.641470,935.00,21789.5,941.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1791,45.899920,6.641480,935.00,21790.3,941.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1792,45.899910,6.641480,935.00,21791.4,941.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1793,45.899910,6.641490,935.00,21792.2,941.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1794,45.899900,6.641500,934.94,21793.5,941.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1795,45.899900,6.641510,934.94,21794.3,941.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1796,45.899890,6.641510,935.16,21795.4,942.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1797,45.899890,6.641520,935.16,21796.2,942.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1798,45.899890,6.641530,935.16,21796.9,942.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1799,45.899880,6.641540,935.08,21798.3,942.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1800,45.899880,6.641550,935.08,21799.1,942.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1801,45.899790,6.641510,935.68,21809.5,942.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1802,45.899700,6.641450,936.40,21820.6,943.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1803,45.899610,6.641400,937.35,21831.3,944.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1804,45.899530,6.641360,938.32,21840.7,945.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1805,45.899440,6.641320,939.43,21851.2,945.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1806,45.899340,6.641290,940.39,21862.6,946.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1807,45.899280,6.641290,941.34,21869.2,947.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1808,45.899200,6.641290,942.27,21878.1,948.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1809,45.899130,6.641300,942.72,21885.9,949.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1810,45.899070,6.641310,943.62,21892.7,950.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1811,45.899020,6.641330,943.54,21898.4,950.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1812,45.898960,6.641350,943.97,21905.3,951.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1813,45.898900,6.641380,944.26,21912.3,952.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1814,45.898840,6.641420,944.09,21919.7,952.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1815,45.898760,6.641480,944.67,21929.7,953.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1816,45.898670,6.641570,944.84,21941.9,953.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1817,45.898540,6.641680,946.39,21958.7,954.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1818,45.898400,6.641800,947.85,21976.8,955.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1819,45.897920,6.642240,953.28,22040.1,957.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1820,45.897200,6.642890,956.60,22134.7,960.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1821,45.897030,6.643040,957.43,22156.9,962.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1822,45.896910,6.643130,958.57,22171.9,964.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1823,45.896910,6.643130,958.57,22171.9,965.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1824,45.896700,6.643280,960.58,22198.0,966.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1825,45.896660,6.643320,960.82,22203.4,967.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1826,45.896650,6.643330,960.82,22204.8,968.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1827,45.896610,6.643380,961.06,22210.7,968.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1828,45.896470,6.643470,961.76,22227.7,968.0,cyclingstage,0,0,
+1829,45.896470,6.643470,961.76,22227.7,969.0,cyclingstage,0,0,
+1830,45.896470,6.643460,962.09,22228.5,969.0,cyclingstage,0,0,
+1831,45.896460,6.643460,962.09,22229.6,969.0,cyclingstage,0,0,
+1832,45.896450,6.643460,962.65,22230.7,969.0,cyclingstage,0,0,
+1833,45.896450,6.643470,962.32,22231.5,969.0,cyclingstage,0,0,
+1834,45.896440,6.643470,962.32,22232.6,969.0,cyclingstage,0,0,
+1835,45.896430,6.643470,962.32,22233.7,969.0,cyclingstage,0,0,
+1836,45.896430,6.643480,962.32,22234.5,969.0,cyclingstage,0,0,
+1837,45.896420,6.643480,962.32,22235.6,969.0,cyclingstage,0,0,
+1838,45.896420,6.643490,962.32,22236.4,969.0,cyclingstage,0,0,
+1839,45.896410,6.643490,962.88,22237.5,970.0,cyclingstage,0,0,
+1840,45.896410,6.643500,962.88,22238.3,970.0,cyclingstage,0,0,
+1841,45.896400,6.643500,962.88,22239.4,970.0,cyclingstage,0,0,
+1842,45.896400,6.643510,962.56,22240.2,970.0,cyclingstage,0,0,
+1843,45.896400,6.643520,962.56,22240.9,970.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1844,45.896400,6.643530,962.56,22241.7,970.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1845,45.896390,6.643530,962.56,22242.8,970.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1846,45.896390,6.643540,962.56,22243.6,970.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1847,45.896390,6.643550,962.56,22244.4,970.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1848,45.896190,6.643610,964.55,22267.1,970.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1849,45.896160,6.643640,964.28,22271.1,970.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1850,45.896120,6.643700,964.54,22277.6,970.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1851,45.896030,6.643840,964.97,22292.3,971.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1852,45.895840,6.644070,966.83,22319.9,971.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1853,45.895790,6.644130,967.23,22327.2,972.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1854,45.895740,6.644200,967.58,22335.0,972.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1855,45.895540,6.644460,969.44,22364.9,972.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1856,45.895460,6.644550,970.10,22376.2,973.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1857,45.895290,6.644780,971.02,22402.2,973.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1858,45.895170,6.644900,971.67,22418.5,973.0,cyclingstage,0,0,Route de Sallanches/D 1212
+1859,45.895020,6.644970,972.38,22436.0,974.0,cyclingstage,0,0,Route de Megève/D 1212
